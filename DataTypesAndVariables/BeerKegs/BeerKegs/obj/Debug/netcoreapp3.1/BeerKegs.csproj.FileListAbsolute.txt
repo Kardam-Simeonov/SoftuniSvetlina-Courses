@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.exe
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.deps.json
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.dll
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.pdb
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.dll
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.pdb
+D:\C# files\DataTypesAndVariables\BeerKegs\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.genruntimeconfig.cache

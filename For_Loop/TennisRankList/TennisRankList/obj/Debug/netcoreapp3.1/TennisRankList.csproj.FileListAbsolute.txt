@@ -1,0 +1,13 @@
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.exe
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.deps.json
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.json
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.dev.json
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.dll
+D:\For_Loop\TennisRankList\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.pdb
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csprojAssemblyReference.cache
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csproj.CoreCompileInputs.cache
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfoInputs.cache
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfo.cs
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.dll
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.pdb
+D:\For_Loop\TennisRankList\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.genruntimeconfig.cache

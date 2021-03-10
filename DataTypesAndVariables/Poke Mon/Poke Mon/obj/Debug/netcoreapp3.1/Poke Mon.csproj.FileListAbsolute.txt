@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.exe
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.deps.json
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.dll
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.pdb
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.dll
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.pdb
+D:\C# files\DataTypesAndVariables\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.genruntimeconfig.cache

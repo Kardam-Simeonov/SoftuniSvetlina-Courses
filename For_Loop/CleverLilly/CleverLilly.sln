@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverLilly", "CleverLilly\CleverLilly.csproj", "{7E92FBF0-FA10-4190-8AB8-E7402D69D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E92FBF0-FA10-4190-8AB8-E7402D69D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E92FBF0-FA10-4190-8AB8-E7402D69D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E92FBF0-FA10-4190-8AB8-E7402D69D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E92FBF0-FA10-4190-8AB8-E7402D69D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9505BD7B-C076-464B-9906-A823942659A2}
+	EndGlobalSection
+EndGlobal

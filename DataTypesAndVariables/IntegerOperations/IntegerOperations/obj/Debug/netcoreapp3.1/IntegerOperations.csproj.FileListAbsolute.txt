@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+D:\C# files\DataTypesAndVariables\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

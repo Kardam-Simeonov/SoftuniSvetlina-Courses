@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.exe
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.deps.json
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.runtimeconfig.json
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.dll
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\bin\Debug\netcoreapp3.1\ChrismasTree.pdb
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.AssemblyInfo.cs
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.dll
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.pdb
+D:\C# files\NestedForLoop\ChrismasTree\ChrismasTree\obj\Debug\netcoreapp3.1\ChrismasTree.genruntimeconfig.cache

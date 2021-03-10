@@ -1,0 +1,13 @@
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.exe
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.deps.json
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.runtimeconfig.json
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.runtimeconfig.dev.json
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.dll
+D:\For_Loop\CleverLilly\CleverLilly\bin\Debug\netcoreapp3.1\CleverLilly.pdb
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.csprojAssemblyReference.cache
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.csproj.CoreCompileInputs.cache
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.AssemblyInfoInputs.cache
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.AssemblyInfo.cs
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.dll
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.pdb
+D:\For_Loop\CleverLilly\CleverLilly\obj\Debug\netcoreapp3.1\CleverLilly.genruntimeconfig.cache

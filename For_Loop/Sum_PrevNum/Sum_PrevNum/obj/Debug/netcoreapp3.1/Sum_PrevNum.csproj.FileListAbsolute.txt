@@ -1,0 +1,13 @@
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.exe
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.deps.json
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.runtimeconfig.json
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.runtimeconfig.dev.json
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.dll
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\bin\Debug\netcoreapp3.1\Sum_PrevNum.pdb
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.csprojAssemblyReference.cache
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.csproj.CoreCompileInputs.cache
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.AssemblyInfoInputs.cache
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.AssemblyInfo.cs
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.dll
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.pdb
+D:\For_Loop\Sum_PrevNum\Sum_PrevNum\obj\Debug\netcoreapp3.1\Sum_PrevNum.genruntimeconfig.cache

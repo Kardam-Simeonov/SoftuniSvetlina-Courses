@@ -1,0 +1,12 @@
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.exe
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.deps.json
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.runtimeconfig.json
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.dll
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\bin\Debug\netcoreapp3.1\Synonyms.pdb
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.dll
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.pdb
+D:\C# files\AssociativeArrays\Synonyms\Synonyms\obj\Debug\netcoreapp3.1\Synonyms.genruntimeconfig.cache

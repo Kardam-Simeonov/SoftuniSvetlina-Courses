@@ -1,0 +1,13 @@
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.exe
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.deps.json
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.runtimeconfig.json
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.runtimeconfig.dev.json
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.dll
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\bin\Debug\netcoreapp3.1\CondenseArrayToNumbers.pdb
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.csprojAssemblyReference.cache
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.AssemblyInfoInputs.cache
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.AssemblyInfo.cs
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.dll
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.pdb
+D:\C# files\Arrays\CondenseArrayToNumbers\CondenseArrayToNumbers\obj\Debug\netcoreapp3.1\CondenseArrayToNumbers.genruntimeconfig.cache

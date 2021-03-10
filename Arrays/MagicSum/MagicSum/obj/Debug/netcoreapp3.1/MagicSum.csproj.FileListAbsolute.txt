@@ -1,0 +1,12 @@
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.exe
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.deps.json
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.json
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.dev.json
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.dll
+D:\C# files\Arrays\MagicSum\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.pdb
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfoInputs.cache
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfo.cs
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.dll
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.pdb
+D:\C# files\Arrays\MagicSum\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.exe
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.deps.json
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.json
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.dev.json
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.dll
+D:\Nested_Conditional\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.pdb
+D:\Nested_Conditional\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.csprojAssemblyReference.cache
+D:\Nested_Conditional\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfo.cs
+D:\Nested_Conditional\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.dll
+D:\Nested_Conditional\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.pdb

@@ -1,0 +1,4 @@
+D:\C# files\AssociativeArrays\ReadAndSort\ReadAndSort\obj\Debug\netcoreapp3.1\ReadAndSort.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\ReadAndSort\ReadAndSort\obj\Debug\netcoreapp3.1\ReadAndSort.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\ReadAndSort\ReadAndSort\obj\Debug\netcoreapp3.1\ReadAndSort.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\ReadAndSort\ReadAndSort\obj\Debug\netcoreapp3.1\ReadAndSort.csproj.CoreCompileInputs.cache

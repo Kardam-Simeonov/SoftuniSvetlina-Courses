@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.exe
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.deps.json
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.runtimeconfig.json
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.dll
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\bin\Debug\netcoreapp3.1\RectangleofNxN.pdb
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.AssemblyInfo.cs
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.dll
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.pdb
+D:\C# files\NestedForLoop\RectangleofNxN\RectangleofNxN\obj\Debug\netcoreapp3.1\RectangleofNxN.genruntimeconfig.cache

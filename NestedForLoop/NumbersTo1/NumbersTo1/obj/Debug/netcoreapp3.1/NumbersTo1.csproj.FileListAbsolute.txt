@@ -1,0 +1,13 @@
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.exe
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.deps.json
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.runtimeconfig.json
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.runtimeconfig.dev.json
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.dll
+D:\NestedForLoop\NumbersTo1\NumbersTo1\bin\Debug\netcoreapp3.1\NumbersTo1.pdb
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.csprojAssemblyReference.cache
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.AssemblyInfoInputs.cache
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.AssemblyInfo.cs
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.dll
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.pdb
+D:\NestedForLoop\NumbersTo1\NumbersTo1\obj\Debug\netcoreapp3.1\NumbersTo1.genruntimeconfig.cache

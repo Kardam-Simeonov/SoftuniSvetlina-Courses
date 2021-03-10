@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcPIGs70T74NOEAEU4Dn/AQnbpe+zCiMofgG+WqTlb8lvU3uXjb3q0UEGOkuDxap612gCPsc4t4Lna0GxzlKmw==",
+  "success": true,
+  "projectFilePath": "D:\\C# files\\AssociativeArrays\\SoftuniParking\\SoftuniParking\\SoftuniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

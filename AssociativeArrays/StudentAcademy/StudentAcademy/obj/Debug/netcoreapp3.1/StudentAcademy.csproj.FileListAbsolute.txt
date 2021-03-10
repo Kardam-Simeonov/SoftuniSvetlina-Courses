@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+D:\C# files\AssociativeArrays\StudentAcademy\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache

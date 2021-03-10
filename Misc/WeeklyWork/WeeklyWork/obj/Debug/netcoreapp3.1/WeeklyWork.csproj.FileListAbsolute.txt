@@ -1,0 +1,13 @@
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.exe
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.deps.json
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.runtimeconfig.json
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.runtimeconfig.dev.json
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.dll
+D:\C# files\WeeklyWork\WeeklyWork\bin\Debug\netcoreapp3.1\WeeklyWork.pdb
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.csprojAssemblyReference.cache
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.csproj.CoreCompileInputs.cache
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.AssemblyInfoInputs.cache
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.AssemblyInfo.cs
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.dll
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.pdb
+D:\C# files\WeeklyWork\WeeklyWork\obj\Debug\netcoreapp3.1\WeeklyWork.genruntimeconfig.cache

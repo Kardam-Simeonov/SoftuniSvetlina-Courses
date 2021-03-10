@@ -1,0 +1,13 @@
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.exe
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.deps.json
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.runtimeconfig.json
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.runtimeconfig.dev.json
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.dll
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\bin\Debug\netcoreapp3.1\Art_ClubEXAM.pdb
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.csprojAssemblyReference.cache
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.csproj.CoreCompileInputs.cache
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.AssemblyInfoInputs.cache
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.AssemblyInfo.cs
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.dll
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.pdb
+D:\For_Loop\Art_ClubEXAM\Art_ClubEXAM\obj\Debug\netcoreapp3.1\Art_ClubEXAM.genruntimeconfig.cache

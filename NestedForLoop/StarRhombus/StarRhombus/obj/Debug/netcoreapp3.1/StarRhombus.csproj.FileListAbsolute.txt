@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.exe
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.deps.json
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.runtimeconfig.json
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.dll
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\bin\Debug\netcoreapp3.1\StarRhombus.pdb
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.AssemblyInfo.cs
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.dll
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.pdb
+D:\C# files\NestedForLoop\StarRhombus\StarRhombus\obj\Debug\netcoreapp3.1\StarRhombus.genruntimeconfig.cache

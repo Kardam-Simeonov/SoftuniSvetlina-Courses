@@ -1,0 +1,13 @@
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.exe
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.deps.json
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.runtimeconfig.json
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.runtimeconfig.dev.json
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.dll
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\bin\Debug\netcoreapp3.1\Cheap_Transport.pdb
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.AssemblyInfo.cs
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.dll
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.pdb
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.genruntimeconfig.cache
+D:\Nested_Conditional\Cheap_Transport\Cheap_Transport\obj\Debug\netcoreapp3.1\Cheap_Transport.csprojAssemblyReference.cache

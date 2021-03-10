@@ -1,0 +1,11 @@
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.exe
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.deps.json
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.json
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.dev.json
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.dll
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.csprojAssemblyReference.cache
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfo.cs
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.dll
+D:\Nested_Conditional\FruitOrVegetable\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.pdb

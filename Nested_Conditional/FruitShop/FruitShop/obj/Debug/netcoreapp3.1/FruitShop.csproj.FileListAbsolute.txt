@@ -1,0 +1,11 @@
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+D:\Nested_Conditional\FruitShop\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+D:\Nested_Conditional\FruitShop\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csprojAssemblyReference.cache
+D:\Nested_Conditional\FruitShop\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+D:\Nested_Conditional\FruitShop\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+D:\Nested_Conditional\FruitShop\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+D:\Nested_Conditional\FruitShop\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb

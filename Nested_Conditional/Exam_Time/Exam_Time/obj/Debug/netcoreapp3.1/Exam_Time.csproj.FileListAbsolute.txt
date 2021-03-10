@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.exe
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.deps.json
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.runtimeconfig.json
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.runtimeconfig.dev.json
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.dll
+D:\Nested_Conditional\Exam_Time\Exam_Time\bin\Debug\netcoreapp3.1\Exam_Time.pdb
+D:\Nested_Conditional\Exam_Time\Exam_Time\obj\Debug\netcoreapp3.1\Exam_Time.csprojAssemblyReference.cache
+D:\Nested_Conditional\Exam_Time\Exam_Time\obj\Debug\netcoreapp3.1\Exam_Time.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Exam_Time\Exam_Time\obj\Debug\netcoreapp3.1\Exam_Time.AssemblyInfo.cs
+D:\Nested_Conditional\Exam_Time\Exam_Time\obj\Debug\netcoreapp3.1\Exam_Time.dll
+D:\Nested_Conditional\Exam_Time\Exam_Time\obj\Debug\netcoreapp3.1\Exam_Time.pdb

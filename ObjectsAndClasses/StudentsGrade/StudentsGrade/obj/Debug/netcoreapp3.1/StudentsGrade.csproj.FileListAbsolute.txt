@@ -1,0 +1,13 @@
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.exe
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.deps.json
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.runtimeconfig.json
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.runtimeconfig.dev.json
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.dll
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.pdb
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.csprojAssemblyReference.cache
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.AssemblyInfoInputs.cache
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.AssemblyInfo.cs
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.csproj.CoreCompileInputs.cache
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.dll
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.pdb
+D:\C# files\ObjectsAndClasses\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.genruntimeconfig.cache

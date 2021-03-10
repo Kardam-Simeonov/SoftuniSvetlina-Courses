@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaxSequenceOfEqualNumbers/1.0.0": {
+        "runtime": {
+          "MaxSequenceOfEqualNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxSequenceOfEqualNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.csprojAssemblyReference.cache
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.csproj.CoreCompileInputs.cache
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.AssemblyInfoInputs.cache
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.AssemblyInfo.cs
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.exe
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.deps.json
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.runtimeconfig.json
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.runtimeconfig.dev.json
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.dll
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\bin\Debug\netcoreapp3.1\NumbersEndingin7.pdb
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.dll
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.pdb
+D:\For_Loop\NumbersEndingin7\NumbersEndingin7\obj\Debug\netcoreapp3.1\NumbersEndingin7.genruntimeconfig.cache

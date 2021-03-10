@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.exe
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.deps.json
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.runtimeconfig.json
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.dll
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.pdb
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.AssemblyInfo.cs
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.dll
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.pdb
+D:\C# files\NestedForLoop\SquareFrame\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.genruntimeconfig.cache

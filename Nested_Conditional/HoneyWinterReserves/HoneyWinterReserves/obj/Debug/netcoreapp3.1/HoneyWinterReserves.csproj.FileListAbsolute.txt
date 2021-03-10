@@ -1,0 +1,13 @@
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.exe
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.deps.json
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.runtimeconfig.json
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.runtimeconfig.dev.json
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.dll
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\bin\Debug\netcoreapp3.1\HoneyWinterReserves.pdb
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.csprojAssemblyReference.cache
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.AssemblyInfoInputs.cache
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.AssemblyInfo.cs
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.dll
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.pdb
+D:\Nested_Conditional\HoneyWinterReserves\HoneyWinterReserves\obj\Debug\netcoreapp3.1\HoneyWinterReserves.genruntimeconfig.cache

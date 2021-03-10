@@ -1,0 +1,15 @@
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.exe
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.csprojAssemblyReference.cache
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.AssemblyInfoInputs.cache
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.AssemblyInfo.cs
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.deps.json
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.runtimeconfig.json
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.runtimeconfig.dev.json
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.dll
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.pdb
+D:\C# files\Lists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.csproj.CopyComplete
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.dll
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.pdb
+D:\C# files\Lists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.genruntimeconfig.cache

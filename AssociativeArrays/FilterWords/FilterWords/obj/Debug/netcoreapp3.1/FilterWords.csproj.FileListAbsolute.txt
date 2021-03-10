@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.exe
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.deps.json
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.runtimeconfig.json
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.dll
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\bin\Debug\netcoreapp3.1\FilterWords.pdb
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.dll
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.pdb
+D:\C# files\AssociativeArrays\FilterWords\FilterWords\obj\Debug\netcoreapp3.1\FilterWords.genruntimeconfig.cache

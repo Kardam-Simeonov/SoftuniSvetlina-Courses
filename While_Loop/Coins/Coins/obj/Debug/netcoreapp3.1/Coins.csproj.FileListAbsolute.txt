@@ -1,0 +1,13 @@
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+D:\While_Loop\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.csprojAssemblyReference.cache
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+D:\While_Loop\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

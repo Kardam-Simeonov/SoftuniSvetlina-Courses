@@ -1,0 +1,13 @@
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.exe
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.dll
+D:\C# files\Arrays\Train\Train\bin\Debug\netcoreapp3.1\Train.pdb
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.dll
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.pdb
+D:\C# files\Arrays\Train\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.exe
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.deps.json
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.json
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.dev.json
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.dll
+D:\C# files\Arrays\TopIntegers\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.pdb
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csprojAssemblyReference.cache
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfoInputs.cache
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfo.cs
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.dll
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.pdb
+D:\C# files\Arrays\TopIntegers\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.genruntimeconfig.cache

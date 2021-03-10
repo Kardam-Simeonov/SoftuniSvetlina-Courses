@@ -1,0 +1,13 @@
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.exe
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.deps.json
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.runtimeconfig.json
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.runtimeconfig.dev.json
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.dll
+D:\NestedForLoop\CookieFactory\CookieFactory\bin\Debug\netcoreapp3.1\CookieFactory.pdb
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.csprojAssemblyReference.cache
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.AssemblyInfoInputs.cache
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.AssemblyInfo.cs
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.dll
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.pdb
+D:\NestedForLoop\CookieFactory\CookieFactory\obj\Debug\netcoreapp3.1\CookieFactory.genruntimeconfig.cache

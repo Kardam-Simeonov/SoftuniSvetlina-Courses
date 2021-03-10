@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.exe
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.deps.json
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.runtimeconfig.json
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.runtimeconfig.dev.json
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.dll
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\bin\Debug\netcoreapp3.1\Summer_Suit.pdb
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\obj\Debug\netcoreapp3.1\Summer_Suit.csprojAssemblyReference.cache
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\obj\Debug\netcoreapp3.1\Summer_Suit.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\obj\Debug\netcoreapp3.1\Summer_Suit.AssemblyInfo.cs
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\obj\Debug\netcoreapp3.1\Summer_Suit.dll
+D:\Nested_Conditional\Summer_Suit\Summer_Suit\obj\Debug\netcoreapp3.1\Summer_Suit.pdb

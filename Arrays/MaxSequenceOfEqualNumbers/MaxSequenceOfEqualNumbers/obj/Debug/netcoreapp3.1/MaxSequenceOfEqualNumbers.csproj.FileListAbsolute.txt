@@ -1,0 +1,13 @@
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.exe
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.deps.json
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.runtimeconfig.json
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.runtimeconfig.dev.json
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.dll
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.pdb
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.csprojAssemblyReference.cache
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.AssemblyInfoInputs.cache
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.AssemblyInfo.cs
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.dll
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.pdb
+D:\C# files\Arrays\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualNumbers.genruntimeconfig.cache

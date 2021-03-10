@@ -1,0 +1,12 @@
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.exe
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.deps.json
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.json
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.dev.json
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.dll
+D:\Nested_Conditional\Car\Car\bin\Debug\netcoreapp3.1\Car.pdb
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfo.cs
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.dll
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.pdb
+D:\Nested_Conditional\Car\Car\obj\Debug\netcoreapp3.1\Car.genruntimeconfig.cache

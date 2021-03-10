@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.exe
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.deps.json
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.dll
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\bin\Debug\netcoreapp3.1\StringExcersices.pdb
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.dll
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.pdb
+D:\C# files\StringAndStringBuilder\StringExcersices\StringExcersices\obj\Debug\netcoreapp3.1\StringExcersices.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.exe
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.deps.json
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.runtimeconfig.json
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.runtimeconfig.dev.json
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.dll
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\bin\Debug\netcoreapp3.1\DoubleEqualsDouble.pdb
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.csprojAssemblyReference.cache
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.csproj.CoreCompileInputs.cache
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.AssemblyInfoInputs.cache
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.AssemblyInfo.cs
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.dll
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.pdb
+D:\C# files\DoubleEqualsDouble\DoubleEqualsDouble\obj\Debug\netcoreapp3.1\DoubleEqualsDouble.genruntimeconfig.cache

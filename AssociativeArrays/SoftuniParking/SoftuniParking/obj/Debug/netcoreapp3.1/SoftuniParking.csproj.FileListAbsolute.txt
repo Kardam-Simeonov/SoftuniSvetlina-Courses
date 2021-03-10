@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.exe
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.deps.json
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.runtimeconfig.json
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.dll
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\bin\Debug\netcoreapp3.1\SoftuniParking.pdb
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.dll
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.pdb
+D:\C# files\AssociativeArrays\SoftuniParking\SoftuniParking\obj\Debug\netcoreapp3.1\SoftuniParking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.exe
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.deps.json
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.json
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.dev.json
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.dll
+D:\C# files\Lists\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.pdb
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csprojAssemblyReference.cache
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfoInputs.cache
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfo.cs
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.dll
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.pdb
+D:\C# files\Lists\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.exe
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.deps.json
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.dll
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.dll
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+D:\C# files\DataTypesAndVariables\SpiceMustFlow\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.genruntimeconfig.cache

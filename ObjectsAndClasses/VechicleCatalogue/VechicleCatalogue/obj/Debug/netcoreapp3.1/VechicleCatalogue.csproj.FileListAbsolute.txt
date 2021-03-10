@@ -1,0 +1,13 @@
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.exe
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.deps.json
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.runtimeconfig.json
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.runtimeconfig.dev.json
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.dll
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\bin\Debug\netcoreapp3.1\VechicleCatalogue.pdb
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.csprojAssemblyReference.cache
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.AssemblyInfoInputs.cache
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.AssemblyInfo.cs
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.csproj.CoreCompileInputs.cache
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.dll
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.pdb
+D:\C# files\ObjectsAndClasses\VechicleCatalogue\VechicleCatalogue\obj\Debug\netcoreapp3.1\VechicleCatalogue.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.exe
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.deps.json
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.runtimeconfig.json
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.runtimeconfig.dev.json
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.dll
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\bin\Debug\netcoreapp3.1\Neighbourhood_Shop.pdb
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\obj\Debug\netcoreapp3.1\Neighbourhood_Shop.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\obj\Debug\netcoreapp3.1\Neighbourhood_Shop.AssemblyInfo.cs
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\obj\Debug\netcoreapp3.1\Neighbourhood_Shop.dll
+D:\Nested_Conditional\Neighbourhood_Shop\Neighbourhood_Shop\obj\Debug\netcoreapp3.1\Neighbourhood_Shop.pdb

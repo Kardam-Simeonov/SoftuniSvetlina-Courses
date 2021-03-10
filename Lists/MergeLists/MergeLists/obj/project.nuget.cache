@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+iQLuRUnpNUKwTZwP8pvK8FfmNEZYm0DyxrATcapHdMHCoBDngPfirgxYXWmQ/Jt/6YCrmgM0FPh+9kKkG3jA==",
+  "success": true,
+  "projectFilePath": "D:\\C# files\\Lists\\MergeLists\\MergeLists\\MergeLists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

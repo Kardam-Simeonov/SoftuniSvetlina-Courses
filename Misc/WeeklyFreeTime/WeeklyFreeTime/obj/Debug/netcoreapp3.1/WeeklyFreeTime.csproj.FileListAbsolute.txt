@@ -1,0 +1,13 @@
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.exe
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.deps.json
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.runtimeconfig.json
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.runtimeconfig.dev.json
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.dll
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\bin\Debug\netcoreapp3.1\WeeklyFreeTime.pdb
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.csprojAssemblyReference.cache
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.csproj.CoreCompileInputs.cache
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.AssemblyInfoInputs.cache
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.AssemblyInfo.cs
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.dll
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.pdb
+D:\C# files\WeeklyFreeTime\WeeklyFreeTime\obj\Debug\netcoreapp3.1\WeeklyFreeTime.genruntimeconfig.cache

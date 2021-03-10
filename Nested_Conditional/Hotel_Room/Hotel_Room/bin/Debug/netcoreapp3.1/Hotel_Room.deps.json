@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hotel_Room/1.0.0": {
+        "runtime": {
+          "Hotel_Room.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hotel_Room/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

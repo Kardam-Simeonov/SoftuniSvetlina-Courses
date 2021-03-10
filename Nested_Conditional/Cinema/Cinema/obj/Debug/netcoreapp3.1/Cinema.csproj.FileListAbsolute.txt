@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\Nested_Conditional\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\Nested_Conditional\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+D:\Nested_Conditional\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\Nested_Conditional\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\Nested_Conditional\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb

@@ -1,0 +1,12 @@
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.exe
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.deps.json
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.runtimeconfig.json
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.runtimeconfig.dev.json
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.dll
+D:\For_Loop\HighestNumber\HighestNumber\bin\Debug\netcoreapp3.1\HighestNumber.pdb
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.csproj.CoreCompileInputs.cache
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.AssemblyInfoInputs.cache
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.AssemblyInfo.cs
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.dll
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.pdb
+D:\For_Loop\HighestNumber\HighestNumber\obj\Debug\netcoreapp3.1\HighestNumber.genruntimeconfig.cache

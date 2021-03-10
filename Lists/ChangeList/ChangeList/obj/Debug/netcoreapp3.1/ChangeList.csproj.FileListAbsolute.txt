@@ -1,0 +1,13 @@
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.exe
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.deps.json
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.json
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.dev.json
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.dll
+D:\C# files\Lists\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.pdb
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csprojAssemblyReference.cache
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfoInputs.cache
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfo.cs
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.dll
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.pdb
+D:\C# files\Lists\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.genruntimeconfig.cache

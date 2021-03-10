@@ -1,0 +1,11 @@
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\Conditional_Statements\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb

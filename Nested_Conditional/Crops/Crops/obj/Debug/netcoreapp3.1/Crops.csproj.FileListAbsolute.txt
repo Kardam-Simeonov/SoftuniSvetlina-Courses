@@ -1,0 +1,13 @@
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.exe
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.deps.json
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.runtimeconfig.json
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.runtimeconfig.dev.json
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.dll
+D:\Nested_Conditional\Crops\Crops\bin\Debug\netcoreapp3.1\Crops.pdb
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.csprojAssemblyReference.cache
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.AssemblyInfo.cs
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.dll
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.pdb
+D:\Nested_Conditional\Crops\Crops\obj\Debug\netcoreapp3.1\Crops.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpVZ0wR6VP4DF7MIXU/BYI/iflG95emqHvSCSldWVe7WqX/qvTrz3GjXxrWOsJ9Uioahgyl5qo/Gpl33v3C1xQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# files\\AssociativeArrays\\Orders\\Orders\\Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

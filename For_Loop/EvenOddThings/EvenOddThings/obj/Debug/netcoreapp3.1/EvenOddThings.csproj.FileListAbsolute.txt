@@ -1,0 +1,13 @@
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.exe
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.deps.json
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.runtimeconfig.json
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.runtimeconfig.dev.json
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.dll
+D:\For_Loop\EvenOddThings\EvenOddThings\bin\Debug\netcoreapp3.1\EvenOddThings.pdb
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.csprojAssemblyReference.cache
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.csproj.CoreCompileInputs.cache
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.AssemblyInfoInputs.cache
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.AssemblyInfo.cs
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.dll
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.pdb
+D:\For_Loop\EvenOddThings\EvenOddThings\obj\Debug\netcoreapp3.1\EvenOddThings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.exe
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.deps.json
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+D:\C# files\DataTypesAndVariables\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.genruntimeconfig.cache

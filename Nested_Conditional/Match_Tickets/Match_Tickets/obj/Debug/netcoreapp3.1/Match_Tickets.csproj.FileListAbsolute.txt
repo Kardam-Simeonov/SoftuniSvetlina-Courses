@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.exe
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.deps.json
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.runtimeconfig.json
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.runtimeconfig.dev.json
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.dll
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\bin\Debug\netcoreapp3.1\Match_Tickets.pdb
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\obj\Debug\netcoreapp3.1\Match_Tickets.csprojAssemblyReference.cache
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\obj\Debug\netcoreapp3.1\Match_Tickets.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\obj\Debug\netcoreapp3.1\Match_Tickets.AssemblyInfo.cs
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\obj\Debug\netcoreapp3.1\Match_Tickets.dll
+D:\Nested_Conditional\Match_Tickets\Match_Tickets\obj\Debug\netcoreapp3.1\Match_Tickets.pdb

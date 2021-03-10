@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.exe
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.deps.json
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.dll
+D:\C# files\StringAndStringBuilder\FSM\FSM\bin\Debug\netcoreapp3.1\FSM.pdb
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.dll
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.pdb
+D:\C# files\StringAndStringBuilder\FSM\FSM\obj\Debug\netcoreapp3.1\FSM.genruntimeconfig.cache

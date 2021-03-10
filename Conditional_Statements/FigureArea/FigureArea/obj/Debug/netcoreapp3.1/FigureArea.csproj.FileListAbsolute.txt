@@ -1,0 +1,10 @@
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.exe
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.deps.json
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.json
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.dev.json
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.dll
+D:\Conditional_Statements\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.pdb
+D:\Conditional_Statements\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfoInputs.cache
+D:\Conditional_Statements\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfo.cs
+D:\Conditional_Statements\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.dll
+D:\Conditional_Statements\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.pdb

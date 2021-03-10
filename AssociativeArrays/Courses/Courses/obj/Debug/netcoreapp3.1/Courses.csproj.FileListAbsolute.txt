@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+D:\C# files\AssociativeArrays\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+D:\C# files\AssociativeArrays\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache

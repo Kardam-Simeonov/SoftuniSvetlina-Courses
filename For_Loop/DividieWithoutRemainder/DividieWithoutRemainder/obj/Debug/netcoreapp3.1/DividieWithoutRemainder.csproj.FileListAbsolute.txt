@@ -1,0 +1,13 @@
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.exe
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.deps.json
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.runtimeconfig.json
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.runtimeconfig.dev.json
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.dll
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\bin\Debug\netcoreapp3.1\DividieWithoutRemainder.pdb
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.csprojAssemblyReference.cache
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.AssemblyInfoInputs.cache
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.AssemblyInfo.cs
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.dll
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.pdb
+D:\For_Loop\DividieWithoutRemainder\DividieWithoutRemainder\obj\Debug\netcoreapp3.1\DividieWithoutRemainder.genruntimeconfig.cache

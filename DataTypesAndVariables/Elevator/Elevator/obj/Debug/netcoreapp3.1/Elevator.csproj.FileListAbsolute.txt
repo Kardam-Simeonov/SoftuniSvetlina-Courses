@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+D:\C# files\DataTypesAndVariables\Elevator\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

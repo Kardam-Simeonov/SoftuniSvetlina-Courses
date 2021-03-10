@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.exe
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.deps.json
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.dll
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.pdb
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.dll
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.pdb
+D:\C# files\DataTypesAndVariables\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.genruntimeconfig.cache

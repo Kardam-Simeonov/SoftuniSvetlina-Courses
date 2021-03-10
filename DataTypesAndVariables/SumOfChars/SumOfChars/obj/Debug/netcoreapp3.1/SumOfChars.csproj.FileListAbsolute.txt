@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+D:\C# files\DataTypesAndVariables\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

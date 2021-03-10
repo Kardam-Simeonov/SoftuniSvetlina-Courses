@@ -1,0 +1,13 @@
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.exe
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.deps.json
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.runtimeconfig.json
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.runtimeconfig.dev.json
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.dll
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\bin\Debug\netcoreapp3.1\EuclideanGCDList.pdb
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.csprojAssemblyReference.cache
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.AssemblyInfoInputs.cache
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.AssemblyInfo.cs
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.dll
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.pdb
+D:\C# files\Lists\EuclideanGCDList\EuclideanGCDList\obj\Debug\netcoreapp3.1\EuclideanGCDList.genruntimeconfig.cache

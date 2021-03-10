@@ -1,0 +1,13 @@
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.exe
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.deps.json
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.runtimeconfig.json
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.runtimeconfig.dev.json
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.dll
+D:\C# files\Lists\SortList\SortList\bin\Debug\netcoreapp3.1\SortList.pdb
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.csprojAssemblyReference.cache
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.AssemblyInfoInputs.cache
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.AssemblyInfo.cs
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.dll
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.pdb
+D:\C# files\Lists\SortList\SortList\obj\Debug\netcoreapp3.1\SortList.genruntimeconfig.cache

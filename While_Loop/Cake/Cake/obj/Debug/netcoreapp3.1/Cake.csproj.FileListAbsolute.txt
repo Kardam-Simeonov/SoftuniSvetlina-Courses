@@ -1,0 +1,13 @@
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+D:\While_Loop\Cake\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.csprojAssemblyReference.cache
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+D:\While_Loop\Cake\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

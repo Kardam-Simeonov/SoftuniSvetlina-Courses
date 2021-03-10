@@ -1,0 +1,13 @@
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+D:\NestedForLoop\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csprojAssemblyReference.cache
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+D:\NestedForLoop\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

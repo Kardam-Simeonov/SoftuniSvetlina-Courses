@@ -1,0 +1,13 @@
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.exe
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.deps.json
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.runtimeconfig.json
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.runtimeconfig.dev.json
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.dll
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.pdb
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.csprojAssemblyReference.cache
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.AssemblyInfo.cs
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.dll
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.pdb
+D:\C# files\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.genruntimeconfig.cache

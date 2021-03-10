@@ -1,0 +1,13 @@
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.exe
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.deps.json
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.runtimeconfig.json
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.runtimeconfig.dev.json
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.dll
+D:\Conditional_Statements\Gymnastics\Gymnastics\bin\Debug\netcoreapp3.1\Gymnastics.pdb
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.csprojAssemblyReference.cache
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.csproj.CoreCompileInputs.cache
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.AssemblyInfo.cs
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.dll
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.pdb
+D:\Conditional_Statements\Gymnastics\Gymnastics\obj\Debug\netcoreapp3.1\Gymnastics.genruntimeconfig.cache

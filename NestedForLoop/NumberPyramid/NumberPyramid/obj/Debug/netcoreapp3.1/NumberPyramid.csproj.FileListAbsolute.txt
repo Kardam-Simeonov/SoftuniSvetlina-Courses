@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.exe
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.deps.json
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.json
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.dll
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.pdb
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfo.cs
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.dll
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.pdb
+D:\C# files\NestedForLoop\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.genruntimeconfig.cache

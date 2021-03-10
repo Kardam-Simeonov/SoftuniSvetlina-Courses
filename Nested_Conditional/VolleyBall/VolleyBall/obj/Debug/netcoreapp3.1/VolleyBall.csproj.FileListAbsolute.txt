@@ -1,0 +1,11 @@
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.exe
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.deps.json
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.runtimeconfig.json
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.runtimeconfig.dev.json
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.dll
+D:\Nested_Conditional\VolleyBall\VolleyBall\bin\Debug\netcoreapp3.1\VolleyBall.pdb
+D:\Nested_Conditional\VolleyBall\VolleyBall\obj\Debug\netcoreapp3.1\VolleyBall.csprojAssemblyReference.cache
+D:\Nested_Conditional\VolleyBall\VolleyBall\obj\Debug\netcoreapp3.1\VolleyBall.AssemblyInfoInputs.cache
+D:\Nested_Conditional\VolleyBall\VolleyBall\obj\Debug\netcoreapp3.1\VolleyBall.AssemblyInfo.cs
+D:\Nested_Conditional\VolleyBall\VolleyBall\obj\Debug\netcoreapp3.1\VolleyBall.dll
+D:\Nested_Conditional\VolleyBall\VolleyBall\obj\Debug\netcoreapp3.1\VolleyBall.pdb

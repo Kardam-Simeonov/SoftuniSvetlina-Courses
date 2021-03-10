@@ -1,0 +1,13 @@
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+D:\C# files\ObjectsAndClasses\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+D:\C# files\ObjectsAndClasses\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.exe
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.deps.json
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.json
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.dev.json
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.dll
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csprojAssemblyReference.cache
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfoInputs.cache
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfo.cs
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csproj.CoreCompileInputs.cache
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.dll
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\C# files\ObjectsAndClasses\OrderByAge\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.genruntimeconfig.cache

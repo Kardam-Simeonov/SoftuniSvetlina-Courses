@@ -1,0 +1,13 @@
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.exe
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.deps.json
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.runtimeconfig.json
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.runtimeconfig.dev.json
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.dll
+D:\NestedForLoop\Name_Wars\Name_Wars\bin\Debug\netcoreapp3.1\Name_Wars.pdb
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.csprojAssemblyReference.cache
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.AssemblyInfoInputs.cache
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.AssemblyInfo.cs
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.dll
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.pdb
+D:\NestedForLoop\Name_Wars\Name_Wars\obj\Debug\netcoreapp3.1\Name_Wars.genruntimeconfig.cache

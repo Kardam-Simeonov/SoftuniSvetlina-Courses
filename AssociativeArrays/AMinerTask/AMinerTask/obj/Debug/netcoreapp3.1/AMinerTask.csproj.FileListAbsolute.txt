@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+D:\C# files\AssociativeArrays\AMinerTask\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

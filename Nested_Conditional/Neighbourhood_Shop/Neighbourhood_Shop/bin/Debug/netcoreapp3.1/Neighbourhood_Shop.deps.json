@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neighbourhood_Shop/1.0.0": {
+        "runtime": {
+          "Neighbourhood_Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neighbourhood_Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

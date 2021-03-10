@@ -1,0 +1,11 @@
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp3.1\EqualNumbers.AssemblyInfoInputs.cache
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp3.1\EqualNumbers.AssemblyInfo.cs
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.exe
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.deps.json
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.runtimeconfig.json
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.runtimeconfig.dev.json
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.dll
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp3.1\EqualNumbers.pdb
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp3.1\EqualNumbers.dll
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp3.1\EqualNumbers.pdb
+D:\Conditional_Statements\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp3.1\EqualNumbers.csprojAssemblyReference.cache

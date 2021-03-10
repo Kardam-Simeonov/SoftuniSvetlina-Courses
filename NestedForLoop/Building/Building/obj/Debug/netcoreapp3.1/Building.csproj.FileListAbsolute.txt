@@ -1,0 +1,13 @@
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.exe
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.dll
+D:\NestedForLoop\Building\Building\bin\Debug\netcoreapp3.1\Building.pdb
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.csprojAssemblyReference.cache
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.dll
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.pdb
+D:\NestedForLoop\Building\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

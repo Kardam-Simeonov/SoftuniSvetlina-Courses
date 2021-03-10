@@ -1,0 +1,11 @@
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\obj\Debug\netcoreapp3.1\Sum_Seconds.csprojAssemblyReference.cache
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\obj\Debug\netcoreapp3.1\Sum_Seconds.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\obj\Debug\netcoreapp3.1\Sum_Seconds.AssemblyInfo.cs
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.exe
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.deps.json
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.runtimeconfig.json
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.runtimeconfig.dev.json
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.dll
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\bin\Debug\netcoreapp3.1\Sum_Seconds.pdb
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\obj\Debug\netcoreapp3.1\Sum_Seconds.dll
+D:\Conditional_Statements\Sum_Seconds\Sum_Seconds\obj\Debug\netcoreapp3.1\Sum_Seconds.pdb

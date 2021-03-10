@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.exe
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.deps.json
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.runtimeconfig.json
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.dll
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\bin\Debug\netcoreapp3.1\CodedMessage.pdb
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.AssemblyInfo.cs
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.dll
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.pdb
+D:\C# files\NestedForLoop\CodedMessage\CodedMessage\obj\Debug\netcoreapp3.1\CodedMessage.genruntimeconfig.cache

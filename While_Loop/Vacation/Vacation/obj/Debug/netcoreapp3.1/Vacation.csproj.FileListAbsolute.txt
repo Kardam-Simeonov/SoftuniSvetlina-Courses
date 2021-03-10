@@ -1,0 +1,13 @@
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+D:\While_Loop\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+D:\While_Loop\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

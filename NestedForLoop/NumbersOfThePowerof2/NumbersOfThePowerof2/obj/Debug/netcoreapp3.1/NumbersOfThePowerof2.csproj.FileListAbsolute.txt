@@ -1,0 +1,13 @@
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.exe
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.deps.json
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.runtimeconfig.json
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.runtimeconfig.dev.json
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.dll
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\bin\Debug\netcoreapp3.1\NumbersOfThePowerof2.pdb
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.csprojAssemblyReference.cache
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.AssemblyInfoInputs.cache
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.AssemblyInfo.cs
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.dll
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.pdb
+D:\NestedForLoop\NumbersOfThePowerof2\NumbersOfThePowerof2\obj\Debug\netcoreapp3.1\NumbersOfThePowerof2.genruntimeconfig.cache

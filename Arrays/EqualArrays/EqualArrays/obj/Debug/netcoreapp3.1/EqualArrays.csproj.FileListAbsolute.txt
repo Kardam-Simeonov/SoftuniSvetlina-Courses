@@ -1,0 +1,13 @@
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.exe
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.deps.json
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.json
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.dev.json
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.dll
+D:\C# files\Arrays\EqualArrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.pdb
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csprojAssemblyReference.cache
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfoInputs.cache
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfo.cs
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.dll
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.pdb
+D:\C# files\Arrays\EqualArrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.genruntimeconfig.cache

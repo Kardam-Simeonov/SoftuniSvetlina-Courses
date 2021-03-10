@@ -1,0 +1,11 @@
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.exe
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.deps.json
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.runtimeconfig.json
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.runtimeconfig.dev.json
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.dll
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.pdb
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.csprojAssemblyReference.cache
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.AssemblyInfoInputs.cache
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.AssemblyInfo.cs
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.dll
+D:\Nested_Conditional\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.pdb

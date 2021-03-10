@@ -1,0 +1,13 @@
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.exe
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.deps.json
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.runtimeconfig.json
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.runtimeconfig.dev.json
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.dll
+D:\Nested_Conditional\Paint_Job\Paint_Job\bin\Debug\netcoreapp3.1\Paint_Job.pdb
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.csprojAssemblyReference.cache
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.AssemblyInfo.cs
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.dll
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.pdb
+D:\Nested_Conditional\Paint_Job\Paint_Job\obj\Debug\netcoreapp3.1\Paint_Job.genruntimeconfig.cache

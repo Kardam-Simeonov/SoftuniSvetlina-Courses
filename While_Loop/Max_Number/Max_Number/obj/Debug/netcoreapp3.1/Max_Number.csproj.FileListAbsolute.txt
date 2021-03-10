@@ -1,0 +1,13 @@
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.exe
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.deps.json
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.runtimeconfig.json
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.runtimeconfig.dev.json
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.dll
+D:\While_Loop\Max_Number\Max_Number\bin\Debug\netcoreapp3.1\Max_Number.pdb
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.csprojAssemblyReference.cache
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.csproj.CoreCompileInputs.cache
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.AssemblyInfoInputs.cache
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.AssemblyInfo.cs
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.dll
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.pdb
+D:\While_Loop\Max_Number\Max_Number\obj\Debug\netcoreapp3.1\Max_Number.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+D:\C# files\DataTypesAndVariables\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

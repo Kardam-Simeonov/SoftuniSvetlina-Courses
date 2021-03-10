@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.exe
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.deps.json
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.runtimeconfig.json
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.runtimeconfig.dev.json
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.dll
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\bin\Debug\netcoreapp3.1\Ski_Trip.pdb
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\obj\Debug\netcoreapp3.1\Ski_Trip.csprojAssemblyReference.cache
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\obj\Debug\netcoreapp3.1\Ski_Trip.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\obj\Debug\netcoreapp3.1\Ski_Trip.AssemblyInfo.cs
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\obj\Debug\netcoreapp3.1\Ski_Trip.dll
+D:\Nested_Conditional\Ski_Trip\Ski_Trip\obj\Debug\netcoreapp3.1\Ski_Trip.pdb

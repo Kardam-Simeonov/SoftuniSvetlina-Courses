@@ -1,0 +1,11 @@
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.exe
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.deps.json
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.runtimeconfig.json
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.runtimeconfig.dev.json
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.dll
+D:\Conditional_Statements\Choreography\Choreography\bin\Debug\netcoreapp3.1\Choreography.pdb
+D:\Conditional_Statements\Choreography\Choreography\obj\Debug\netcoreapp3.1\Choreography.csprojAssemblyReference.cache
+D:\Conditional_Statements\Choreography\Choreography\obj\Debug\netcoreapp3.1\Choreography.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Choreography\Choreography\obj\Debug\netcoreapp3.1\Choreography.AssemblyInfo.cs
+D:\Conditional_Statements\Choreography\Choreography\obj\Debug\netcoreapp3.1\Choreography.dll
+D:\Conditional_Statements\Choreography\Choreography\obj\Debug\netcoreapp3.1\Choreography.pdb

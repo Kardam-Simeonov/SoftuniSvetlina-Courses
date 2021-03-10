@@ -1,0 +1,12 @@
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+D:\C# files\Lists\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+D:\C# files\Lists\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

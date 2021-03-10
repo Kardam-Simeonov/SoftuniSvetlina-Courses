@@ -1,0 +1,13 @@
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.exe
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.deps.json
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.runtimeconfig.json
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.runtimeconfig.dev.json
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.dll
+D:\While_Loop\WordsEXAM\WordsEXAM\bin\Debug\netcoreapp3.1\WordsEXAM.pdb
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.csprojAssemblyReference.cache
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.csproj.CoreCompileInputs.cache
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.AssemblyInfoInputs.cache
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.AssemblyInfo.cs
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.dll
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.pdb
+D:\While_Loop\WordsEXAM\WordsEXAM\obj\Debug\netcoreapp3.1\WordsEXAM.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.exe
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.deps.json
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.runtimeconfig.json
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.runtimeconfig.dev.json
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.dll
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\bin\Debug\netcoreapp3.1\Invalid_Number.pdb
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\obj\Debug\netcoreapp3.1\Invalid_Number.csprojAssemblyReference.cache
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\obj\Debug\netcoreapp3.1\Invalid_Number.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\obj\Debug\netcoreapp3.1\Invalid_Number.AssemblyInfo.cs
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\obj\Debug\netcoreapp3.1\Invalid_Number.dll
+D:\Nested_Conditional\Invalid_Number\Invalid_Number\obj\Debug\netcoreapp3.1\Invalid_Number.pdb

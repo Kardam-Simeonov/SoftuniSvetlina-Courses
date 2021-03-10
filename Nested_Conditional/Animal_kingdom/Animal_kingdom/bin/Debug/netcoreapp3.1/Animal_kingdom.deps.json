@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Animal_kingdom/1.0.0": {
+        "runtime": {
+          "Animal_kingdom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animal_kingdom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

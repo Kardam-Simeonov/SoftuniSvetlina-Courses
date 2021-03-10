@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclideanGCDList", "EuclideanGCDList\EuclideanGCDList.csproj", "{5A03AA42-1BF3-4FF6-B40B-EFBA03D68324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A03AA42-1BF3-4FF6-B40B-EFBA03D68324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A03AA42-1BF3-4FF6-B40B-EFBA03D68324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A03AA42-1BF3-4FF6-B40B-EFBA03D68324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A03AA42-1BF3-4FF6-B40B-EFBA03D68324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7325ED6-96C6-446B-B6DF-F35BFC5E7C32}
+	EndGlobalSection
+EndGlobal

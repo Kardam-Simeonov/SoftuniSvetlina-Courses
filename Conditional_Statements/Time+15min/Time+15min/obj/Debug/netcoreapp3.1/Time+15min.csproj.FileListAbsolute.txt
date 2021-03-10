@@ -1,0 +1,11 @@
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.exe
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.deps.json
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.runtimeconfig.json
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.runtimeconfig.dev.json
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.dll
+D:\Conditional_Statements\Time+15min\Time+15min\bin\Debug\netcoreapp3.1\Time+15min.pdb
+D:\Conditional_Statements\Time+15min\Time+15min\obj\Debug\netcoreapp3.1\Time+15min.csprojAssemblyReference.cache
+D:\Conditional_Statements\Time+15min\Time+15min\obj\Debug\netcoreapp3.1\Time+15min.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Time+15min\Time+15min\obj\Debug\netcoreapp3.1\Time+15min.AssemblyInfo.cs
+D:\Conditional_Statements\Time+15min\Time+15min\obj\Debug\netcoreapp3.1\Time+15min.dll
+D:\Conditional_Statements\Time+15min\Time+15min\obj\Debug\netcoreapp3.1\Time+15min.pdb

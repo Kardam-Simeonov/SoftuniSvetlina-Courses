@@ -1,0 +1,13 @@
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.exe
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.deps.json
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.runtimeconfig.json
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.runtimeconfig.dev.json
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.dll
+D:\C# files\WeeklyPay\WeeklyPay\bin\Debug\netcoreapp3.1\WeeklyPay.pdb
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.csprojAssemblyReference.cache
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.csproj.CoreCompileInputs.cache
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.AssemblyInfoInputs.cache
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.AssemblyInfo.cs
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.dll
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.pdb
+D:\C# files\WeeklyPay\WeeklyPay\obj\Debug\netcoreapp3.1\WeeklyPay.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.exe
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.deps.json
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.runtimeconfig.json
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.runtimeconfig.dev.json
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.dll
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\bin\Debug\netcoreapp3.1\Fishing_Boat.pdb
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\obj\Debug\netcoreapp3.1\Fishing_Boat.csprojAssemblyReference.cache
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\obj\Debug\netcoreapp3.1\Fishing_Boat.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\obj\Debug\netcoreapp3.1\Fishing_Boat.AssemblyInfo.cs
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\obj\Debug\netcoreapp3.1\Fishing_Boat.dll
+D:\Nested_Conditional\Fishing_Boat\Fishing_Boat\obj\Debug\netcoreapp3.1\Fishing_Boat.pdb

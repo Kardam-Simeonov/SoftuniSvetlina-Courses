@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSums", "EqualSums\EqualSums.csproj", "{A8BA7D24-7682-4F31-BD74-E1835F4F61EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA7D24-7682-4F31-BD74-E1835F4F61EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA7D24-7682-4F31-BD74-E1835F4F61EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA7D24-7682-4F31-BD74-E1835F4F61EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA7D24-7682-4F31-BD74-E1835F4F61EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53047693-84BA-4302-AE04-AF26FA5977F7}
+	EndGlobalSection
+EndGlobal

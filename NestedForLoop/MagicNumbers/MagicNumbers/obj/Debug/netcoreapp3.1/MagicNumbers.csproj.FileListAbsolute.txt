@@ -1,0 +1,13 @@
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.exe
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.deps.json
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.runtimeconfig.json
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.runtimeconfig.dev.json
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.dll
+D:\NestedForLoop\MagicNumbers\MagicNumbers\bin\Debug\netcoreapp3.1\MagicNumbers.pdb
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.csprojAssemblyReference.cache
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.AssemblyInfoInputs.cache
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.AssemblyInfo.cs
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.dll
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.pdb
+D:\NestedForLoop\MagicNumbers\MagicNumbers\obj\Debug\netcoreapp3.1\MagicNumbers.genruntimeconfig.cache

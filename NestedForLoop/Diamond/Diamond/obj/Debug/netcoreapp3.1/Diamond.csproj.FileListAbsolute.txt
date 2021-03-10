@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.exe
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.deps.json
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.runtimeconfig.json
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.dll
+D:\C# files\NestedForLoop\Diamond\Diamond\bin\Debug\netcoreapp3.1\Diamond.pdb
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.AssemblyInfo.cs
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.dll
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.pdb
+D:\C# files\NestedForLoop\Diamond\Diamond\obj\Debug\netcoreapp3.1\Diamond.genruntimeconfig.cache

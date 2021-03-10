@@ -1,0 +1,13 @@
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.exe
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.deps.json
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.json
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.dev.json
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.dll
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.pdb
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csprojAssemblyReference.cache
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfoInputs.cache
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfo.cs
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.dll
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.pdb
+D:\Simple_Operations\BasketballEquipment\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.genruntimeconfig.cache

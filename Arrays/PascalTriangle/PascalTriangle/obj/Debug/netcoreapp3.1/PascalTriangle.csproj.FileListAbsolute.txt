@@ -1,0 +1,13 @@
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csprojAssemblyReference.cache
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+D:\C# files\Arrays\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

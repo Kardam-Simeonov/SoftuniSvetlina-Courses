@@ -1,0 +1,13 @@
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.csprojAssemblyReference.cache
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.csproj.CoreCompileInputs.cache
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.AssemblyInfoInputs.cache
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.AssemblyInfo.cs
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.exe
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.deps.json
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.runtimeconfig.json
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.runtimeconfig.dev.json
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.dll
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\bin\Debug\netcoreapp3.1\Graduation_Brutal.pdb
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.dll
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.pdb
+D:\While_Loop\Graduation_Brutal\Graduation_Brutal\obj\Debug\netcoreapp3.1\Graduation_Brutal.genruntimeconfig.cache

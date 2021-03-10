@@ -1,0 +1,11 @@
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.exe
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.deps.json
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.runtimeconfig.json
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.runtimeconfig.dev.json
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.dll
+D:\Nested_Conditional\MrandMrs\MrandMrs\bin\Debug\netcoreapp3.1\MrandMrs.pdb
+D:\Nested_Conditional\MrandMrs\MrandMrs\obj\Debug\netcoreapp3.1\MrandMrs.csprojAssemblyReference.cache
+D:\Nested_Conditional\MrandMrs\MrandMrs\obj\Debug\netcoreapp3.1\MrandMrs.AssemblyInfoInputs.cache
+D:\Nested_Conditional\MrandMrs\MrandMrs\obj\Debug\netcoreapp3.1\MrandMrs.AssemblyInfo.cs
+D:\Nested_Conditional\MrandMrs\MrandMrs\obj\Debug\netcoreapp3.1\MrandMrs.dll
+D:\Nested_Conditional\MrandMrs\MrandMrs\obj\Debug\netcoreapp3.1\MrandMrs.pdb

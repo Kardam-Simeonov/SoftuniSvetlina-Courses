@@ -1,0 +1,13 @@
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.exe
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.deps.json
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.runtimeconfig.json
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.runtimeconfig.dev.json
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.dll
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\bin\Debug\netcoreapp3.1\CountOfCharsAppearing.pdb
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.csprojAssemblyReference.cache
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.AssemblyInfoInputs.cache
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.AssemblyInfo.cs
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.dll
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.pdb
+D:\C# files\Arrays\CountOfCharsAppearing\CountOfCharsAppearing\obj\Debug\netcoreapp3.1\CountOfCharsAppearing.genruntimeconfig.cache

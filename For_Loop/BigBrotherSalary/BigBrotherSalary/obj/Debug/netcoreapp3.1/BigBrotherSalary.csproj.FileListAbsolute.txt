@@ -1,0 +1,13 @@
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.exe
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.deps.json
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.runtimeconfig.json
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.runtimeconfig.dev.json
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.dll
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\bin\Debug\netcoreapp3.1\BigBrotherSalary.pdb
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.csprojAssemblyReference.cache
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.csproj.CoreCompileInputs.cache
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.AssemblyInfoInputs.cache
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.AssemblyInfo.cs
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.dll
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.pdb
+D:\For_Loop\BigBrotherSalary\BigBrotherSalary\obj\Debug\netcoreapp3.1\BigBrotherSalary.genruntimeconfig.cache

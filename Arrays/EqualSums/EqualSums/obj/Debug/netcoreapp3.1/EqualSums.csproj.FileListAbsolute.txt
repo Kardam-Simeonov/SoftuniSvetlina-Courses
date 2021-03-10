@@ -1,0 +1,13 @@
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.exe
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.deps.json
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.json
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.dev.json
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.dll
+D:\C# files\Arrays\EqualSums\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.pdb
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csprojAssemblyReference.cache
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfoInputs.cache
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfo.cs
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.dll
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.pdb
+D:\C# files\Arrays\EqualSums\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.genruntimeconfig.cache

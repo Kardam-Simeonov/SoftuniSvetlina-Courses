@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.exe
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.deps.json
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.runtimeconfig.json
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.dll
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\bin\Debug\netcoreapp3.1\CompanyUsers.pdb
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.dll
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.pdb
+D:\C# files\AssociativeArrays\CompanyUsers\CompanyUsers\obj\Debug\netcoreapp3.1\CompanyUsers.genruntimeconfig.cache

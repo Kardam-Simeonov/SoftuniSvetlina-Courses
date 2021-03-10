@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.exe
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.deps.json
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.dll
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\bin\Debug\netcoreapp3.1\StringMultiplier.pdb
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.dll
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.pdb
+D:\C# files\StringAndStringBuilder\StringMultiplier\StringMultiplier\obj\Debug\netcoreapp3.1\StringMultiplier.genruntimeconfig.cache

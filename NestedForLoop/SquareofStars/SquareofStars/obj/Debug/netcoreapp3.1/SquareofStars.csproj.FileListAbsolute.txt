@@ -1,0 +1,13 @@
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.AssemblyInfo.cs
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.exe
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.deps.json
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.runtimeconfig.json
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.runtimeconfig.dev.json
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.dll
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\bin\Debug\netcoreapp3.1\SquareofStars.pdb
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.dll
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.pdb
+D:\C# files\NestedForLoop\SquareofStars\SquareofStars\obj\Debug\netcoreapp3.1\SquareofStars.genruntimeconfig.cache

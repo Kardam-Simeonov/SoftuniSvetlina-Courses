@@ -1,0 +1,13 @@
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.csprojAssemblyReference.cache
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.AssemblyInfo.cs
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.exe
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.deps.json
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.runtimeconfig.json
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.runtimeconfig.dev.json
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.dll
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\bin\Debug\netcoreapp3.1\Shop_Problems.pdb
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.dll
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.pdb
+D:\Nested_Conditional\Shop_Problems\Shop_Problems\obj\Debug\netcoreapp3.1\Shop_Problems.genruntimeconfig.cache

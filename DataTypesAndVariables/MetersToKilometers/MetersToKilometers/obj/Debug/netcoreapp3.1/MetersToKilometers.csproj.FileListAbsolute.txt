@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.exe
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.deps.json
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.dll
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\bin\Debug\netcoreapp3.1\MetersToKilometers.pdb
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.dll
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.pdb
+D:\C# files\DataTypesAndVariables\MetersToKilometers\MetersToKilometers\obj\Debug\netcoreapp3.1\MetersToKilometers.genruntimeconfig.cache

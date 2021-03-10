@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.exe
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.deps.json
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.dll
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\bin\Debug\netcoreapp3.1\CocatNames.pdb
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.dll
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.pdb
+D:\C# files\DataTypesAndVariables\CocatNames\CocatNames\obj\Debug\netcoreapp3.1\CocatNames.genruntimeconfig.cache

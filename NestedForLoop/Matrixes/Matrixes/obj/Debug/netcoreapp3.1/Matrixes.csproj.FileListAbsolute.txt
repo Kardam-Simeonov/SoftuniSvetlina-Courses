@@ -1,0 +1,4 @@
+D:\C# files\NestedForLoop\Matrixes\Matrixes\obj\Debug\netcoreapp3.1\Matrixes.csprojAssemblyReference.cache
+D:\C# files\NestedForLoop\Matrixes\Matrixes\obj\Debug\netcoreapp3.1\Matrixes.csproj.CoreCompileInputs.cache
+D:\C# files\NestedForLoop\Matrixes\Matrixes\obj\Debug\netcoreapp3.1\Matrixes.AssemblyInfoInputs.cache
+D:\C# files\NestedForLoop\Matrixes\Matrixes\obj\Debug\netcoreapp3.1\Matrixes.AssemblyInfo.cs

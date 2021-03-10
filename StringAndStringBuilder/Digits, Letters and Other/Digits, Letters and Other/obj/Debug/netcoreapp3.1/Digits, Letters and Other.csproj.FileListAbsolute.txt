@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.exe
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.deps.json
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+D:\C# files\StringAndStringBuilder\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.genruntimeconfig.cache

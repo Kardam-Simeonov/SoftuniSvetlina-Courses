@@ -1,0 +1,11 @@
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\Conditional_Statements\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\Conditional_Statements\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+D:\Conditional_Statements\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\Conditional_Statements\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\Conditional_Statements\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb

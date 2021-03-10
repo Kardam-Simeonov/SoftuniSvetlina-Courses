@@ -1,0 +1,11 @@
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.exe
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.deps.json
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.runtimeconfig.json
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.runtimeconfig.dev.json
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.dll
+D:\Nested_Conditional\New_House\New_House\bin\Debug\netcoreapp3.1\New_House.pdb
+D:\Nested_Conditional\New_House\New_House\obj\Debug\netcoreapp3.1\New_House.csprojAssemblyReference.cache
+D:\Nested_Conditional\New_House\New_House\obj\Debug\netcoreapp3.1\New_House.AssemblyInfoInputs.cache
+D:\Nested_Conditional\New_House\New_House\obj\Debug\netcoreapp3.1\New_House.AssemblyInfo.cs
+D:\Nested_Conditional\New_House\New_House\obj\Debug\netcoreapp3.1\New_House.dll
+D:\Nested_Conditional\New_House\New_House\obj\Debug\netcoreapp3.1\New_House.pdb

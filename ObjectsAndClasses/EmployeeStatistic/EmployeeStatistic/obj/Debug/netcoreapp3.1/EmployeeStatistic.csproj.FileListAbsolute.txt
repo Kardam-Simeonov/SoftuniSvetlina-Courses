@@ -1,0 +1,13 @@
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.exe
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.deps.json
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.runtimeconfig.json
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.runtimeconfig.dev.json
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.dll
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\netcoreapp3.1\EmployeeStatistic.pdb
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.csprojAssemblyReference.cache
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.AssemblyInfoInputs.cache
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.AssemblyInfo.cs
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.csproj.CoreCompileInputs.cache
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.dll
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.pdb
+D:\C# files\ObjectsAndClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\netcoreapp3.1\EmployeeStatistic.genruntimeconfig.cache

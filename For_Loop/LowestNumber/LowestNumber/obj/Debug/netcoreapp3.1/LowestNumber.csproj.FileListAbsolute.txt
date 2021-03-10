@@ -1,0 +1,13 @@
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.exe
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.deps.json
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.runtimeconfig.json
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.runtimeconfig.dev.json
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.dll
+D:\For_Loop\LowestNumber\LowestNumber\bin\Debug\netcoreapp3.1\LowestNumber.pdb
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.csprojAssemblyReference.cache
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.csproj.CoreCompileInputs.cache
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.AssemblyInfoInputs.cache
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.AssemblyInfo.cs
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.dll
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.pdb
+D:\For_Loop\LowestNumber\LowestNumber\obj\Debug\netcoreapp3.1\LowestNumber.genruntimeconfig.cache

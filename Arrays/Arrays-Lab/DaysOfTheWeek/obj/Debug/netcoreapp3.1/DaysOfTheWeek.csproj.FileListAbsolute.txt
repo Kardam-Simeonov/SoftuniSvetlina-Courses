@@ -1,0 +1,13 @@
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.exe
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.deps.json
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.json
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.dev.json
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csprojAssemblyReference.cache
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfoInputs.cache
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfo.cs
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+D:\C# files\Arrays\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.genruntimeconfig.cache

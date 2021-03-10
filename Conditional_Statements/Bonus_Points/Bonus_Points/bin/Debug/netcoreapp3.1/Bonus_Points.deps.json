@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bonus_Points/1.0.0": {
+        "runtime": {
+          "Bonus_Points.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bonus_Points/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

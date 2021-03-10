@@ -1,0 +1,13 @@
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+D:\C# files\Lists\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+D:\C# files\Lists\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache

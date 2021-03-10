@@ -1,0 +1,2 @@
+D:\Conditional_Statements\Speed_Info\Speed_Info\obj\Debug\netcoreapp3.1\Speed_Info.AssemblyInfoInputs.cache
+D:\Conditional_Statements\Speed_Info\Speed_Info\obj\Debug\netcoreapp3.1\Speed_Info.AssemblyInfo.cs

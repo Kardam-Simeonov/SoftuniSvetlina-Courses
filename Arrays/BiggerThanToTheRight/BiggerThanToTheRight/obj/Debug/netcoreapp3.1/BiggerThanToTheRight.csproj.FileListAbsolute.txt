@@ -1,0 +1,13 @@
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.exe
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.deps.json
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.runtimeconfig.json
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.runtimeconfig.dev.json
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.dll
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\bin\Debug\netcoreapp3.1\BiggerThanToTheRight.pdb
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.csprojAssemblyReference.cache
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.AssemblyInfoInputs.cache
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.AssemblyInfo.cs
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.dll
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.pdb
+D:\C# files\Arrays\BiggerThanToTheRight\BiggerThanToTheRight\obj\Debug\netcoreapp3.1\BiggerThanToTheRight.genruntimeconfig.cache

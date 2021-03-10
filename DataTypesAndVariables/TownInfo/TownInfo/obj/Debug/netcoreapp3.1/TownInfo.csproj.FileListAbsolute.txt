@@ -1,0 +1,13 @@
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.exe
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.deps.json
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.json
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.dev.json
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.dll
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.pdb
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csprojAssemblyReference.cache
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfoInputs.cache
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfo.cs
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csproj.CoreCompileInputs.cache
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.dll
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.pdb
+D:\C# files\DataTypesAndVariables\TownInfo\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.genruntimeconfig.cache

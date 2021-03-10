@@ -1,0 +1,13 @@
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.exe
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.deps.json
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.runtimeconfig.json
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.runtimeconfig.dev.json
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.dll
+D:\Simple_Operations\FootballResults\FootballResults\bin\Debug\netcoreapp3.1\FootballResults.pdb
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.csprojAssemblyReference.cache
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.csproj.CoreCompileInputs.cache
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.AssemblyInfoInputs.cache
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.AssemblyInfo.cs
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.dll
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.pdb
+D:\Simple_Operations\FootballResults\FootballResults\obj\Debug\netcoreapp3.1\FootballResults.genruntimeconfig.cache

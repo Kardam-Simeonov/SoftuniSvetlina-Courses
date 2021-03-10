@@ -1,0 +1,12 @@
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.exe
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.deps.json
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.runtimeconfig.json
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.runtimeconfig.dev.json
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.dll
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\bin\Debug\netcoreapp3.1\NumbersThrough3.pdb
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.csproj.CoreCompileInputs.cache
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.AssemblyInfoInputs.cache
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.AssemblyInfo.cs
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.dll
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.pdb
+D:\NestedForLoop\NumbersThrough3\NumbersThrough3\obj\Debug\netcoreapp3.1\NumbersThrough3.genruntimeconfig.cache

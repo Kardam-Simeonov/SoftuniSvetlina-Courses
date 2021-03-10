@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.exe
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.deps.json
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.dll
+D:\C# files\StringAndStringBuilder\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.pdb
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.dll
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.pdb
+D:\C# files\StringAndStringBuilder\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.genruntimeconfig.cache

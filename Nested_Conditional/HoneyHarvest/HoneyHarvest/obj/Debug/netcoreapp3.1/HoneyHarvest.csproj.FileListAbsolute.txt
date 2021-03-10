@@ -1,0 +1,13 @@
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.exe
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.deps.json
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.runtimeconfig.json
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.runtimeconfig.dev.json
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.dll
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\bin\Debug\netcoreapp3.1\HoneyHarvest.pdb
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.csprojAssemblyReference.cache
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.csproj.CoreCompileInputs.cache
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.AssemblyInfoInputs.cache
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.AssemblyInfo.cs
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.dll
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.pdb
+D:\Nested_Conditional\HoneyHarvest\HoneyHarvest\obj\Debug\netcoreapp3.1\HoneyHarvest.genruntimeconfig.cache

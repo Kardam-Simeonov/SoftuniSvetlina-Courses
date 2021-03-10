@@ -1,0 +1,13 @@
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.exe
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.deps.json
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.runtimeconfig.json
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.runtimeconfig.dev.json
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.dll
+D:\While_Loop\CGD\CGD\bin\Debug\netcoreapp3.1\CGD.pdb
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.csprojAssemblyReference.cache
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.csproj.CoreCompileInputs.cache
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.AssemblyInfoInputs.cache
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.AssemblyInfo.cs
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.dll
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.pdb
+D:\While_Loop\CGD\CGD\obj\Debug\netcoreapp3.1\CGD.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Switch_Days_of_the_Week/1.0.0": {
+        "runtime": {
+          "Switch_Days_of_the_Week.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switch_Days_of_the_Week/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

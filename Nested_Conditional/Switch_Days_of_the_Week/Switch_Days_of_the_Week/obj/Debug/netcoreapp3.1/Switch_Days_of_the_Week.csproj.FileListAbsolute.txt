@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.exe
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.deps.json
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.runtimeconfig.json
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.runtimeconfig.dev.json
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.dll
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\bin\Debug\netcoreapp3.1\Switch_Days_of_the_Week.pdb
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\obj\Debug\netcoreapp3.1\Switch_Days_of_the_Week.csprojAssemblyReference.cache
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\obj\Debug\netcoreapp3.1\Switch_Days_of_the_Week.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\obj\Debug\netcoreapp3.1\Switch_Days_of_the_Week.AssemblyInfo.cs
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\obj\Debug\netcoreapp3.1\Switch_Days_of_the_Week.dll
+D:\Nested_Conditional\Switch_Days_of_the_Week\Switch_Days_of_the_Week\obj\Debug\netcoreapp3.1\Switch_Days_of_the_Week.pdb

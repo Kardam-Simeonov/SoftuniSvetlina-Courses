@@ -1,0 +1,11 @@
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.exe
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.deps.json
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.runtimeconfig.json
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.runtimeconfig.dev.json
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.dll
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\bin\Debug\netcoreapp3.1\Animal_kingdom.pdb
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\obj\Debug\netcoreapp3.1\Animal_kingdom.csprojAssemblyReference.cache
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\obj\Debug\netcoreapp3.1\Animal_kingdom.AssemblyInfoInputs.cache
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\obj\Debug\netcoreapp3.1\Animal_kingdom.AssemblyInfo.cs
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\obj\Debug\netcoreapp3.1\Animal_kingdom.dll
+D:\Nested_Conditional\Animal_kingdom\Animal_kingdom\obj\Debug\netcoreapp3.1\Animal_kingdom.pdb

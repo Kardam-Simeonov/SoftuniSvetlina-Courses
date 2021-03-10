@@ -1,0 +1,13 @@
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.csprojAssemblyReference.cache
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.csproj.CoreCompileInputs.cache
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.AssemblyInfoInputs.cache
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.AssemblyInfo.cs
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.exe
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.deps.json
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.runtimeconfig.json
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.runtimeconfig.dev.json
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.dll
+D:\While_Loop\Min_Number\Min_Number\bin\Debug\netcoreapp3.1\Min_Number.pdb
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.dll
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.pdb
+D:\While_Loop\Min_Number\Min_Number\obj\Debug\netcoreapp3.1\Min_Number.genruntimeconfig.cache

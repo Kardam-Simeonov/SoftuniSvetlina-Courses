@@ -1,0 +1,13 @@
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.exe
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.deps.json
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.runtimeconfig.json
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.runtimeconfig.dev.json
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.dll
+D:\While_Loop\Money_Balance\Money_Balance\bin\Debug\netcoreapp3.1\Money_Balance.pdb
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.csprojAssemblyReference.cache
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.csproj.CoreCompileInputs.cache
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.AssemblyInfoInputs.cache
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.AssemblyInfo.cs
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.dll
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.pdb
+D:\While_Loop\Money_Balance\Money_Balance\obj\Debug\netcoreapp3.1\Money_Balance.genruntimeconfig.cache

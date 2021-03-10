@@ -1,0 +1,13 @@
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.exe
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.deps.json
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.runtimeconfig.json
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.runtimeconfig.dev.json
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.dll
+D:\C# files\Arrays\Alphabet\Alphabet\bin\Debug\netcoreapp3.1\Alphabet.pdb
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.csprojAssemblyReference.cache
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.AssemblyInfoInputs.cache
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.AssemblyInfo.cs
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.dll
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.pdb
+D:\C# files\Arrays\Alphabet\Alphabet\obj\Debug\netcoreapp3.1\Alphabet.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.exe
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.deps.json
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.runtimeconfig.json
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.runtimeconfig.dev.json
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.dll
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\bin\Debug\netcoreapp3.1\PrintNumbersInReverse.pdb
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.csprojAssemblyReference.cache
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.AssemblyInfoInputs.cache
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.AssemblyInfo.cs
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.dll
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.pdb
+D:\C# files\Arrays\Arrays-Lab\PrintNumbersInReverse\obj\Debug\netcoreapp3.1\PrintNumbersInReverse.genruntimeconfig.cache
