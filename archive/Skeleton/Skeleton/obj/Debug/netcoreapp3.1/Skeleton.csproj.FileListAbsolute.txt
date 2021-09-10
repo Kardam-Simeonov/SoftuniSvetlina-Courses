@@ -1,0 +1,13 @@
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Simple_Operations\Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Simple_Operations\Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

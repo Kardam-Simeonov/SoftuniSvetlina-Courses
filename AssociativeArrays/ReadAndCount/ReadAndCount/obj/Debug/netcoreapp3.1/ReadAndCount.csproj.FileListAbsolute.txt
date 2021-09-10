@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.exe
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.deps.json
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.runtimeconfig.json
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.dll
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\bin\Debug\netcoreapp3.1\ReadAndCount.pdb
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.dll
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.pdb
+D:\C# files\AssociativeArrays\ReadAndCount\ReadAndCount\obj\Debug\netcoreapp3.1\ReadAndCount.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.exe
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.deps.json
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.dll
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.pdb
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.dll
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.pdb
+D:\C# files\SetsAndDictionaries\PeriodicTable\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.genruntimeconfig.cache

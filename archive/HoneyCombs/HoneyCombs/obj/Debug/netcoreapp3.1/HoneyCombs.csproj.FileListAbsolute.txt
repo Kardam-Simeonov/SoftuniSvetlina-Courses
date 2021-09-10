@@ -1,0 +1,13 @@
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.exe
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.deps.json
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.runtimeconfig.json
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.runtimeconfig.dev.json
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.dll
+D:\Simple_Operations\HoneyCombs\HoneyCombs\bin\Debug\netcoreapp3.1\HoneyCombs.pdb
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.csprojAssemblyReference.cache
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.csproj.CoreCompileInputs.cache
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.AssemblyInfoInputs.cache
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.AssemblyInfo.cs
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.dll
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.pdb
+D:\Simple_Operations\HoneyCombs\HoneyCombs\obj\Debug\netcoreapp3.1\HoneyCombs.genruntimeconfig.cache

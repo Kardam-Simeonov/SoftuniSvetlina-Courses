@@ -1,0 +1,12 @@
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.exe
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.deps.json
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.dll
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.pdb
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.dll
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.pdb
+D:\C# files\SetsAndDictionaries\EvenTimes\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.genruntimeconfig.cache

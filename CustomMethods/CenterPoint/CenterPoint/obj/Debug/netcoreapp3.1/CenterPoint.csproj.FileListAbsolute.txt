@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.exe
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.deps.json
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.runtimeconfig.json
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.runtimeconfig.dev.json
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.dll
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.pdb
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.AssemblyInfo.cs
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.dll
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.pdb
+D:\C# files\CustomMethods\CenterPoint\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.genruntimeconfig.cache

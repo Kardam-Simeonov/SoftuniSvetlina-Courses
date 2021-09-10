@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.exe
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.deps.json
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.runtimeconfig.json
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.runtimeconfig.dev.json
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.dll
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\bin\Debug\netcoreapp3.1\CheckVowels.pdb
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.AssemblyInfo.cs
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.dll
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.pdb
+D:\C# files\CustomMethods\CheckVowels\CheckVowels\obj\Debug\netcoreapp3.1\CheckVowels.genruntimeconfig.cache

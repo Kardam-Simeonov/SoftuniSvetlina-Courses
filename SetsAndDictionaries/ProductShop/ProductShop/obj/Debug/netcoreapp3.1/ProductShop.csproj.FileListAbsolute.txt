@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+D:\C# files\SetsAndDictionaries\ProductShop\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache

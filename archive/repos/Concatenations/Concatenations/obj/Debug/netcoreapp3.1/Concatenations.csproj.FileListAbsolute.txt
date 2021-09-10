@@ -1,0 +1,11 @@
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\obj\Debug\netcoreapp3.1\Concatenations.csprojAssemblyReference.cache
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\obj\Debug\netcoreapp3.1\Concatenations.AssemblyInfoInputs.cache
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\obj\Debug\netcoreapp3.1\Concatenations.AssemblyInfo.cs
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.exe
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.deps.json
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.runtimeconfig.json
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.runtimeconfig.dev.json
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.dll
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\bin\Debug\netcoreapp3.1\Concatenations.pdb
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\obj\Debug\netcoreapp3.1\Concatenations.dll
+C:\Users\Kardam\source\repos\Concatenations\Concatenations\obj\Debug\netcoreapp3.1\Concatenations.pdb

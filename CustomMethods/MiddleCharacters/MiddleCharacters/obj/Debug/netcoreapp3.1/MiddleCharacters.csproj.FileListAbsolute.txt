@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\C# files\CustomMethods\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache

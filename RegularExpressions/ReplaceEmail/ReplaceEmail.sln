@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceEmail", "ReplaceEmail\ReplaceEmail.csproj", "{BF2EBD54-7A62-4FE3-887F-64D79AB1B879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2EBD54-7A62-4FE3-887F-64D79AB1B879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2EBD54-7A62-4FE3-887F-64D79AB1B879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2EBD54-7A62-4FE3-887F-64D79AB1B879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2EBD54-7A62-4FE3-887F-64D79AB1B879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF218628-CD09-42CE-9ADC-B48829B0DCF9}
+	EndGlobalSection
+EndGlobal

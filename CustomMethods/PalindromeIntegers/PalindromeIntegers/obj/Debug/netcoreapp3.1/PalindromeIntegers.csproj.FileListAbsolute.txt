@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\C# files\CustomMethods\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

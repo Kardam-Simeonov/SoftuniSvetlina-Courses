@@ -1,0 +1,13 @@
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.exe
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.deps.json
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.json
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.dll
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.pdb
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csprojAssemblyReference.cache
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.dll
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.pdb
+D:\C# files\StacksAndQueues\FashionBoutique\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.genruntimeconfig.cache

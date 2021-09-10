@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.exe
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.deps.json
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.runtimeconfig.json
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.runtimeconfig.dev.json
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.dll
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\bin\Debug\netcoreapp3.1\EasterSurprise.pdb
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.csprojAssemblyReference.cache
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.AssemblyInfo.cs
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.dll
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.pdb
+D:\C# files\Softuniada\EasterSurprise\EasterSurprise\obj\Debug\netcoreapp3.1\EasterSurprise.genruntimeconfig.cache

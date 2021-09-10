@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.exe
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.deps.json
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.runtimeconfig.json
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.runtimeconfig.dev.json
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.dll
+D:\Simple_Operations\repos\2Drect\2Drect\bin\Debug\netcoreapp3.1\2Drect.pdb
+D:\Simple_Operations\repos\2Drect\2Drect\obj\Debug\netcoreapp3.1\2Drect.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\2Drect\2Drect\obj\Debug\netcoreapp3.1\2Drect.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\2Drect\2Drect\obj\Debug\netcoreapp3.1\2Drect.AssemblyInfo.cs
+D:\Simple_Operations\repos\2Drect\2Drect\obj\Debug\netcoreapp3.1\2Drect.dll
+D:\Simple_Operations\repos\2Drect\2Drect\obj\Debug\netcoreapp3.1\2Drect.pdb

@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.exe
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.deps.json
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.runtimeconfig.json
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.runtimeconfig.dev.json
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.dll
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\bin\Debug\netcoreapp3.1\MultiplicatonSign.pdb
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.AssemblyInfo.cs
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.dll
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.pdb
+D:\C# files\CustomMethods\MultiplicatonSign\MultiplicatonSign\obj\Debug\netcoreapp3.1\MultiplicatonSign.genruntimeconfig.cache

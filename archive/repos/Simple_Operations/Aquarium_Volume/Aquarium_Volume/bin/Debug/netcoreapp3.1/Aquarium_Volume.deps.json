@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aquarium_Volume/1.0.0": {
+        "runtime": {
+          "Aquarium_Volume.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aquarium_Volume/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

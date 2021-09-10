@@ -1,0 +1,13 @@
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.exe
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.deps.json
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.json
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.dev.json
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.dll
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csprojAssemblyReference.cache
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfoInputs.cache
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfo.cs
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.dll
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+D:\C# files\MultidimensionalArrays\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.genruntimeconfig.cache

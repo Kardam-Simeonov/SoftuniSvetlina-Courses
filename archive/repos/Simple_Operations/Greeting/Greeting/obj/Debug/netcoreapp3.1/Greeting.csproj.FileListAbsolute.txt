@@ -1,0 +1,10 @@
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.exe
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.deps.json
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.json
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.dev.json
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.dll
+D:\Simple_Operations\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.pdb
+D:\Simple_Operations\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfoInputs.cache
+D:\Simple_Operations\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfo.cs
+D:\Simple_Operations\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.dll
+D:\Simple_Operations\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.pdb

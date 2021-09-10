@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.exe
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.deps.json
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.runtimeconfig.json
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.runtimeconfig.dev.json
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.dll
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\bin\Debug\netcoreapp3.1\EasterPrizes.pdb
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.csprojAssemblyReference.cache
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.AssemblyInfo.cs
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.dll
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.pdb
+D:\C# files\Softuniada\EasterPrizes\EasterPrizes\obj\Debug\netcoreapp3.1\EasterPrizes.genruntimeconfig.cache

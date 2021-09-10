@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.exe
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.deps.json
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.dll
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.pdb
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.dll
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.pdb
+D:\C# files\SetsAndDictionaries\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.genruntimeconfig.cache

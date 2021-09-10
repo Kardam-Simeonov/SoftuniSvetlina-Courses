@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.exe
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.deps.json
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.runtimeconfig.json
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.runtimeconfig.dev.json
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.dll
+D:\Simple_Operations\repos\Charity\Charity\bin\Debug\netcoreapp3.1\Charity.pdb
+D:\Simple_Operations\repos\Charity\Charity\obj\Debug\netcoreapp3.1\Charity.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\Charity\Charity\obj\Debug\netcoreapp3.1\Charity.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\Charity\Charity\obj\Debug\netcoreapp3.1\Charity.AssemblyInfo.cs
+D:\Simple_Operations\repos\Charity\Charity\obj\Debug\netcoreapp3.1\Charity.dll
+D:\Simple_Operations\repos\Charity\Charity\obj\Debug\netcoreapp3.1\Charity.pdb

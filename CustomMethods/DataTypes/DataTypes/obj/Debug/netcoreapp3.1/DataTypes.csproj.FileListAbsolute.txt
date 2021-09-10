@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+D:\C# files\CustomMethods\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+D:\C# files\CustomMethods\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache

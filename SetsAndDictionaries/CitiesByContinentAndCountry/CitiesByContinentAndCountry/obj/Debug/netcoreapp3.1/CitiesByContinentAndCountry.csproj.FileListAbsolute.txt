@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.exe
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.deps.json
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+D:\C# files\SetsAndDictionaries\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.genruntimeconfig.cache

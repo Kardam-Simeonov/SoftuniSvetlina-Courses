@@ -1,0 +1,13 @@
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.exe
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.deps.json
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.json
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.dll
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.pdb
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.csprojAssemblyReference.cache
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.dll
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.pdb
+D:\C# files\StacksAndQueues\SuperMarket\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.genruntimeconfig.cache

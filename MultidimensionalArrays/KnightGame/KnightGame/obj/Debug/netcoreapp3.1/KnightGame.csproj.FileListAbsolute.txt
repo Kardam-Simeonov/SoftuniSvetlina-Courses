@@ -1,0 +1,13 @@
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.exe
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.deps.json
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.runtimeconfig.json
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.runtimeconfig.dev.json
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.dll
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.pdb
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.csprojAssemblyReference.cache
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.AssemblyInfoInputs.cache
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.AssemblyInfo.cs
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.csproj.CoreCompileInputs.cache
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.dll
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.pdb
+D:\C# files\MultidimensionalArrays\KnightGame\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.genruntimeconfig.cache

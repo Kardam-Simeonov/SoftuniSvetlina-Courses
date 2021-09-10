@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.exe
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.deps.json
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.runtimeconfig.json
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.runtimeconfig.dev.json
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.dll
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\bin\Debug\netcoreapp3.1\EasterBonuses.pdb
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.csprojAssemblyReference.cache
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.AssemblyInfo.cs
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.dll
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.pdb
+D:\C# files\Softuniada\EasterBonuses\EasterBonuses\obj\Debug\netcoreapp3.1\EasterBonuses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.AssemblyInfo.cs
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.exe
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.deps.json
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.runtimeconfig.json
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.runtimeconfig.dev.json
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.dll
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\bin\Debug\netcoreapp3.1\MultipyEvenByOdd.pdb
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.dll
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.pdb
+D:\C# files\CustomMethods\MultipyEvenByOdd\MultipyEvenByOdd\obj\Debug\netcoreapp3.1\MultipyEvenByOdd.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/2GA7RgfYL/BAQpXVFSinDviV4NtT4hx2P2TUgwsdGsEKVyHR2pOcvpcB0uCjMZDRE8u46oOpKu5HQ9eDmJKg==",
+  "success": true,
+  "projectFilePath": "D:\\C# files\\SetsAndDictionaries\\CountSameValuesInArray\\CountSameValuesInArray\\CountSameValuesInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

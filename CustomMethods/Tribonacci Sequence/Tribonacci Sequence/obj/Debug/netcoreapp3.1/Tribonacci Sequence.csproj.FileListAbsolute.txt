@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.exe
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.deps.json
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.runtimeconfig.json
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.runtimeconfig.dev.json
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.dll
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.pdb
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.AssemblyInfo.cs
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.dll
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.pdb
+D:\C# files\CustomMethods\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.genruntimeconfig.cache

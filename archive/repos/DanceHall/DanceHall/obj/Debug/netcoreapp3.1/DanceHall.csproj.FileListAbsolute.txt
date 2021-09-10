@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.exe
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.deps.json
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.runtimeconfig.json
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.runtimeconfig.dev.json
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.dll
+D:\Simple_Operations\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.pdb
+D:\Simple_Operations\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.AssemblyInfo.cs
+D:\Simple_Operations\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.dll
+D:\Simple_Operations\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.pdb

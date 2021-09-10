@@ -1,0 +1,13 @@
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.exe
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.deps.json
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.runtimeconfig.json
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.runtimeconfig.dev.json
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.dll
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\bin\Debug\netcoreapp3.1\GameBarIncome.pdb
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.csprojAssemblyReference.cache
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.AssemblyInfoInputs.cache
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.AssemblyInfo.cs
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.csproj.CoreCompileInputs.cache
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.dll
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.pdb
+D:\C# files\RegularExpressions\GameBarIncome\GameBarIncome\obj\Debug\netcoreapp3.1\GameBarIncome.genruntimeconfig.cache

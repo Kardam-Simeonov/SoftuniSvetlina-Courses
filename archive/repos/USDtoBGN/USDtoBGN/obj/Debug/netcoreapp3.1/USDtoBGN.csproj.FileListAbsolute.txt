@@ -1,0 +1,10 @@
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\Kardam\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb

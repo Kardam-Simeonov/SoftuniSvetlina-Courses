@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAxWrOauLfo1b0mQOSn9HXZjPUOlTj70TpprnPSzd2MqFBefZlH4AGcCa23Is6jPxE6GBOS+29Ad6frPn2HyRQ==",
+  "dgSpecHash": "eHFnzJZD+N3Xc59NvQFtKxWGyFNGsKLZMPdQxzRDip0uuXdKy1jma+QDVsDn+6Lw5gwEIpavX0A9GZF7KfwrRg==",
   "success": true,
   "projectFilePath": "D:\\C# files\\AssociativeArrays\\LegendaryFarming\\LegendaryFarming\\LegendaryFarming.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

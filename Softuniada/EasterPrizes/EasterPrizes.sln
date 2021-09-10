@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterPrizes", "EasterPrizes\EasterPrizes.csproj", "{E9657D96-5012-4CD1-969D-9EAA10DE3755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9657D96-5012-4CD1-969D-9EAA10DE3755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9657D96-5012-4CD1-969D-9EAA10DE3755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9657D96-5012-4CD1-969D-9EAA10DE3755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9657D96-5012-4CD1-969D-9EAA10DE3755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3492F4C1-E98C-4256-BC5E-D0F551B561CD}
+	EndGlobalSection
+EndGlobal

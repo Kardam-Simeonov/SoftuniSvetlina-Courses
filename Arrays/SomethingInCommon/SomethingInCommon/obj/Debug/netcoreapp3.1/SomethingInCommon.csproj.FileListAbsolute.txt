@@ -1,0 +1,13 @@
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.exe
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.deps.json
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.runtimeconfig.json
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.runtimeconfig.dev.json
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.dll
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.pdb
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.csprojAssemblyReference.cache
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.AssemblyInfoInputs.cache
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.AssemblyInfo.cs
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.dll
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.pdb
+D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.genruntimeconfig.cache

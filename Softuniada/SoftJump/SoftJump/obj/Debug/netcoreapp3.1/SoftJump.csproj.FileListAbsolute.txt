@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.exe
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.deps.json
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.runtimeconfig.json
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.runtimeconfig.dev.json
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.dll
+D:\C# files\Softuniada\SoftJump\SoftJump\bin\Debug\netcoreapp3.1\SoftJump.pdb
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.csprojAssemblyReference.cache
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.AssemblyInfo.cs
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.dll
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.pdb
+D:\C# files\Softuniada\SoftJump\SoftJump\obj\Debug\netcoreapp3.1\SoftJump.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.exe
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.deps.json
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.runtimeconfig.json
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.runtimeconfig.dev.json
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.dll
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\bin\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.pdb
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.AssemblyInfoInputs.cache
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.AssemblyInfo.cs
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.csproj.CoreCompileInputs.cache
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.dll
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.pdb
+D:\C# files\RegularExpressions\FindLetterDigitAndSymbolCount\FindLetterDigitAndSymbolCount\obj\Debug\netcoreapp3.1\FindLetterDigitAndSymbolCount.genruntimeconfig.cache

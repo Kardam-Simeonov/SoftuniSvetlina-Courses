@@ -1,19 +1,21 @@
 ﻿using System;
 
-namespace FSM
+namespace NANO
 {
     class Program
     {
-        enum State { NULL, S, SO, SOS, N, NA, NAN, NANO };
+        enum State { NULL, N, NA, NAN, NANO };
 
-
-        static bool FindNANO(string text)
+        static void Main(string[] args)
         {
+            string input = Console.ReadLine();
+
             State state = State.NULL;
+            bool isFound = false;
 
-            text.ToUpper();
+            input.ToUpper();
 
-            foreach (var ch in text)
+            foreach (var ch in input)
             {
                 switch (state)
                 {
@@ -54,7 +56,7 @@ namespace FSM
                         if (ch == 'O')
                         {
                             state = State.NANO;
-                            return true;
+                            isFound = true;
                         }
                         else if (ch == 'A')
                         {
@@ -84,7 +86,10 @@ namespace FSM
                 }
             }
 
-            return false;
+            Console.WriteLine(isFound);
+
+            if (isFound)
+                Console.WriteLine(CountNANO(input));
         }
 
         static int CountNANO(string text)
@@ -168,9 +173,6 @@ namespace FSM
         }
 
         
-        static void Main(string[] args)
-        {
-            Console.WriteLine(CountNANO("NANNANO"));
-        }
+        
     }
 }

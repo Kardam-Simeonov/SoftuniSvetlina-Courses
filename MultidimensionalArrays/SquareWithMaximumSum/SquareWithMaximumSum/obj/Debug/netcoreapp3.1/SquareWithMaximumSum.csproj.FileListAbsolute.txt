@@ -1,0 +1,13 @@
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csprojAssemblyReference.cache
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+D:\C# files\MultidimensionalArrays\SquareWithMaximumSum\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache

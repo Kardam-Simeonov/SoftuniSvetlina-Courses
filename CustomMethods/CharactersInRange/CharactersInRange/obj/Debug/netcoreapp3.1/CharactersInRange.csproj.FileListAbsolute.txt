@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.exe
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.deps.json
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.runtimeconfig.json
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.runtimeconfig.dev.json
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.dll
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.pdb
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.AssemblyInfo.cs
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.dll
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.pdb
+D:\C# files\CustomMethods\CharactersInRange\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.genruntimeconfig.cache

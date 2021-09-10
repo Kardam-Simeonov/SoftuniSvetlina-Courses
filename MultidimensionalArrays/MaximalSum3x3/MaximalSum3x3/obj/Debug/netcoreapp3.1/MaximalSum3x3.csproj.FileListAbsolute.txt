@@ -1,0 +1,13 @@
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.csprojAssemblyReference.cache
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.AssemblyInfoInputs.cache
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.AssemblyInfo.cs
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.csproj.CoreCompileInputs.cache
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.exe
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.deps.json
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.runtimeconfig.json
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.runtimeconfig.dev.json
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.dll
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\bin\Debug\netcoreapp3.1\MaximalSum3x3.pdb
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.dll
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.pdb
+D:\C# files\MultidimensionalArrays\MaximalSum3x3\MaximalSum3x3\obj\Debug\netcoreapp3.1\MaximalSum3x3.genruntimeconfig.cache

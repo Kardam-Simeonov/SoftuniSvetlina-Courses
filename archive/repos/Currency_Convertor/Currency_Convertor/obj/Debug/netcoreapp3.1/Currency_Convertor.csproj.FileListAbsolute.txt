@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.exe
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.deps.json
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.runtimeconfig.json
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.runtimeconfig.dev.json
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.dll
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\bin\Debug\netcoreapp3.1\Currency_Convertor.pdb
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\obj\Debug\netcoreapp3.1\Currency_Convertor.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\obj\Debug\netcoreapp3.1\Currency_Convertor.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\obj\Debug\netcoreapp3.1\Currency_Convertor.AssemblyInfo.cs
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\obj\Debug\netcoreapp3.1\Currency_Convertor.dll
+D:\Simple_Operations\repos\Currency_Convertor\Currency_Convertor\obj\Debug\netcoreapp3.1\Currency_Convertor.pdb

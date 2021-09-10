@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+D:\C# files\CustomMethods\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+D:\C# files\CustomMethods\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

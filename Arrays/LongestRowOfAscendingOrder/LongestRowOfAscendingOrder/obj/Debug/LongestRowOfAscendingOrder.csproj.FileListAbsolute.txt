@@ -1,0 +1,7 @@
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\bin\Debug\LongestRowOfAscendingOrder.exe.config
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\bin\Debug\LongestRowOfAscendingOrder.exe
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\bin\Debug\LongestRowOfAscendingOrder.pdb
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\obj\Debug\LongestRowOfAscendingOrder.csprojAssemblyReference.cache
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\obj\Debug\LongestRowOfAscendingOrder.csproj.CoreCompileInputs.cache
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\obj\Debug\LongestRowOfAscendingOrder.exe
+D:\C# files\Arrays\LongestRowOfAscendingOrder\LongestRowOfAscendingOrder\obj\Debug\LongestRowOfAscendingOrder.pdb

@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.exe
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.deps.json
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.dll
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.pdb
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.dll
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.pdb
+D:\C# files\SetsAndDictionaries\CountCharsInAString\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.genruntimeconfig.cache

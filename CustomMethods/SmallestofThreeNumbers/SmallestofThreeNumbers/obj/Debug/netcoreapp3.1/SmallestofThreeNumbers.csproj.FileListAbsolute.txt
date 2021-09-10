@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.exe
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.deps.json
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.runtimeconfig.json
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.runtimeconfig.dev.json
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.dll
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\SmallestofThreeNumbers.pdb
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.AssemblyInfo.cs
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.dll
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.pdb
+D:\C# files\CustomMethods\SmallestofThreeNumbers\SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\SmallestofThreeNumbers.genruntimeconfig.cache

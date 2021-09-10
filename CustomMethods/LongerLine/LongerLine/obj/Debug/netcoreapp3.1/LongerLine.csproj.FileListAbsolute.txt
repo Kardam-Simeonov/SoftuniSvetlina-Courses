@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.exe
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.deps.json
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.json
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.dev.json
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.dll
+D:\C# files\CustomMethods\LongerLine\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.pdb
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfo.cs
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.dll
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.pdb
+D:\C# files\CustomMethods\LongerLine\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.genruntimeconfig.cache

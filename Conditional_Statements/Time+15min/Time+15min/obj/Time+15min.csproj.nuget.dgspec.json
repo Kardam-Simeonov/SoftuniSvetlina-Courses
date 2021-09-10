@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj": {}
+    "D:\\C# files\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj": {}
   },
   "projects": {
-    "D:\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj": {
+    "D:\\C# files\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj",
+        "projectUniqueName": "D:\\C# files\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj",
         "projectName": "Time+15min",
-        "projectPath": "D:\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj",
+        "projectPath": "D:\\C# files\\Conditional_Statements\\Time+15min\\Time+15min\\Time+15min.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\Conditional_Statements\\Time+15min\\Time+15min\\obj\\",
+        "outputPath": "D:\\C# files\\Conditional_Statements\\Time+15min\\Time+15min\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

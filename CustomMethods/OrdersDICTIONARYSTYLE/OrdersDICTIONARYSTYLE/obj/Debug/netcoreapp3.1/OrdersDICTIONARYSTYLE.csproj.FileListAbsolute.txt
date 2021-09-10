@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.exe
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.deps.json
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.runtimeconfig.json
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.runtimeconfig.dev.json
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.dll
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\bin\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.pdb
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.AssemblyInfo.cs
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.dll
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.pdb
+D:\C# files\CustomMethods\OrdersDICTIONARYSTYLE\OrdersDICTIONARYSTYLE\obj\Debug\netcoreapp3.1\OrdersDICTIONARYSTYLE.genruntimeconfig.cache

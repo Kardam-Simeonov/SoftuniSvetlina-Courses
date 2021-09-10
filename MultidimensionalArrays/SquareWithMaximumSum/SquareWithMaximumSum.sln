@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareWithMaximumSum", "SquareWithMaximumSum\SquareWithMaximumSum.csproj", "{4C1C5F0D-5306-4E35-855F-8CEB8C6D0E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1C5F0D-5306-4E35-855F-8CEB8C6D0E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1C5F0D-5306-4E35-855F-8CEB8C6D0E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1C5F0D-5306-4E35-855F-8CEB8C6D0E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1C5F0D-5306-4E35-855F-8CEB8C6D0E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CED764C-D2AE-4BBF-9CBB-30BDF6384A6F}
+	EndGlobalSection
+EndGlobal

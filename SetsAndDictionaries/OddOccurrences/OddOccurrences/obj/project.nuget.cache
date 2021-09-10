@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jf/+GUu91fMZ0tV7Q99DAR0goU0HvxHEs1a17++BMdIslvvy9IPpjT7OBh75IK9PyxQ4gx2kB7i7q4AA8+x14g==",
+  "success": true,
+  "projectFilePath": "D:\\C# files\\SetsAndDictionaries\\OddOccurrences\\OddOccurrences\\OddOccurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

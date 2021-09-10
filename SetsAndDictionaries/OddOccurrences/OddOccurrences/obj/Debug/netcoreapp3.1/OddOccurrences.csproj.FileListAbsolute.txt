@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.exe
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.deps.json
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.dll
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.pdb
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.dll
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.pdb
+D:\C# files\SetsAndDictionaries\OddOccurrences\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.genruntimeconfig.cache

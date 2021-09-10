@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.exe
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.deps.json
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.runtimeconfig.json
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.runtimeconfig.dev.json
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.dll
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\bin\Debug\netcoreapp3.1\HolidayTreat.pdb
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.csprojAssemblyReference.cache
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.AssemblyInfo.cs
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.dll
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.pdb
+D:\C# files\Softuniada\HolidayTreat\HolidayTreat\obj\Debug\netcoreapp3.1\HolidayTreat.genruntimeconfig.cache

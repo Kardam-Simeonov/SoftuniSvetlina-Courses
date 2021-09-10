@@ -1,0 +1,13 @@
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.exe
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.deps.json
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.dll
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\bin\Debug\netcoreapp3.1\SumOnlyEven.pdb
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.csprojAssemblyReference.cache
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.dll
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.pdb
+D:\C# files\StringAndStringBuilder\SumOnlyEven\SumOnlyEven\obj\Debug\netcoreapp3.1\SumOnlyEven.genruntimeconfig.cache

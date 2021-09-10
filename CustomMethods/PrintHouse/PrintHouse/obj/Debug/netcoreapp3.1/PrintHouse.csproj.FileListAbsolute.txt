@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.exe
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.deps.json
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.runtimeconfig.json
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.runtimeconfig.dev.json
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.dll
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\bin\Debug\netcoreapp3.1\PrintHouse.pdb
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.AssemblyInfo.cs
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.dll
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.pdb
+D:\C# files\CustomMethods\PrintHouse\PrintHouse\obj\Debug\netcoreapp3.1\PrintHouse.genruntimeconfig.cache

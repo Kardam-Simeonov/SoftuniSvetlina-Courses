@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.exe
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.deps.json
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.runtimeconfig.json
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.runtimeconfig.dev.json
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.dll
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\bin\Debug\netcoreapp3.1\Tailor_Workshop.pdb
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\obj\Debug\netcoreapp3.1\Tailor_Workshop.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\obj\Debug\netcoreapp3.1\Tailor_Workshop.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\obj\Debug\netcoreapp3.1\Tailor_Workshop.AssemblyInfo.cs
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\obj\Debug\netcoreapp3.1\Tailor_Workshop.dll
+D:\Simple_Operations\repos\Tailor_Workshop\Tailor_Workshop\obj\Debug\netcoreapp3.1\Tailor_Workshop.pdb

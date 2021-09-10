@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.exe
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.deps.json
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.runtimeconfig.json
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.runtimeconfig.dev.json
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.dll
+D:\C# files\Softuniada\DreamCar\DreamCar\bin\Debug\netcoreapp3.1\DreamCar.pdb
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.csprojAssemblyReference.cache
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.AssemblyInfo.cs
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.dll
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.pdb
+D:\C# files\Softuniada\DreamCar\DreamCar\obj\Debug\netcoreapp3.1\DreamCar.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.exe
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.deps.json
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.json
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.dev.json
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.dll
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.pdb
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfo.cs
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.dll
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.pdb
+D:\C# files\CustomMethods\AddAndSubtract\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.genruntimeconfig.cache

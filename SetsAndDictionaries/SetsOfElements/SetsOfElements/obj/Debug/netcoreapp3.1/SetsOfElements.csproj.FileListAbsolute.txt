@@ -1,0 +1,12 @@
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\C# files\SetsAndDictionaries\SetsOfElements\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

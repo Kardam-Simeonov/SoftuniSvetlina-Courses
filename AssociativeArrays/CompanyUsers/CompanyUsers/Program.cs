@@ -8,7 +8,7 @@ namespace CompanyUsers
     {
         static void Main(string[] args)
         {
-            Dictionary<string, List<string>> companies = new Dictionary<string, List<string>>();
+            Dictionary<string, HashSet<string>> companies = new Dictionary<string, HashSet<string>>();
 
             while (true)
             {
@@ -20,13 +20,16 @@ namespace CompanyUsers
                 if (companies.ContainsKey(input[0]))
                     companies[input[0]].Add(input[1]);
                 else
-                    companies.Add(input[0], new List<string> { input[1] });
+                    companies.Add(input[0], new HashSet<string> { input[1] });
             }
 
             foreach (var company in companies.OrderBy(key => key.Key))
             {
                 Console.WriteLine($"{company.Key.TrimEnd()}");
-                company.Value.ForEach(x => Console.WriteLine($"--{x}"));
+                foreach (var item in company.Value)
+                {
+                    Console.WriteLine($"--{item}");
+                }
             }
         }
     }

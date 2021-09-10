@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.exe
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.deps.json
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.json
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.dev.json
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.dll
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.pdb
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfo.cs
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.dll
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.pdb
+D:\C# files\CustomMethods\FactorialDivision\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.genruntimeconfig.cache

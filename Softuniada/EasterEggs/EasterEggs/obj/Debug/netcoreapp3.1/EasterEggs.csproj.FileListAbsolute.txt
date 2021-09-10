@@ -1,0 +1,12 @@
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.exe
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.deps.json
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.json
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.dev.json
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.dll
+D:\C# files\Softuniada\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.pdb
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfo.cs
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.dll
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.pdb
+D:\C# files\Softuniada\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.genruntimeconfig.cache

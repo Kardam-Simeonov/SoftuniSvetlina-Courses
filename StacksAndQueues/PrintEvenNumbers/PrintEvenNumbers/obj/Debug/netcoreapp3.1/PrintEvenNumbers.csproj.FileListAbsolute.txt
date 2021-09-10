@@ -1,0 +1,12 @@
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.exe
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.deps.json
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.json
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+D:\C# files\StacksAndQueues\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.genruntimeconfig.cache

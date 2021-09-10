@@ -1,0 +1,13 @@
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.exe
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.deps.json
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.runtimeconfig.json
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.runtimeconfig.dev.json
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.dll
+D:\Simple_Operations\TennisEquipment\TennisEquipment\bin\Debug\netcoreapp3.1\TennisEquipment.pdb
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.csprojAssemblyReference.cache
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.csproj.CoreCompileInputs.cache
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.AssemblyInfoInputs.cache
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.AssemblyInfo.cs
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.dll
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.pdb
+D:\Simple_Operations\TennisEquipment\TennisEquipment\obj\Debug\netcoreapp3.1\TennisEquipment.genruntimeconfig.cache

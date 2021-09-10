@@ -1,0 +1,13 @@
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.exe
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.deps.json
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.runtimeconfig.json
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.runtimeconfig.dev.json
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.dll
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\bin\Debug\netcoreapp3.1\ShuffleDeck.pdb
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.csprojAssemblyReference.cache
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.AssemblyInfoInputs.cache
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.AssemblyInfo.cs
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.csproj.CoreCompileInputs.cache
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.dll
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.pdb
+D:\C# files\Softuniada\ShuffleDeck\ShuffleDeck\obj\Debug\netcoreapp3.1\ShuffleDeck.genruntimeconfig.cache

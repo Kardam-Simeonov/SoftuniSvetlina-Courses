@@ -1,0 +1,13 @@
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.csprojAssemblyReference.cache
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.AssemblyInfoInputs.cache
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.AssemblyInfo.cs
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.csproj.CoreCompileInputs.cache
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.exe
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.deps.json
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.runtimeconfig.json
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.runtimeconfig.dev.json
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.dll
+D:\C# files\OOP\PointInTheField\PointInTheField\bin\Debug\netcoreapp3.1\PointInTheField.pdb
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.dll
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.pdb
+D:\C# files\OOP\PointInTheField\PointInTheField\obj\Debug\netcoreapp3.1\PointInTheField.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.exe
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.deps.json
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.runtimeconfig.json
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.runtimeconfig.dev.json
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.dll
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\bin\Debug\netcoreapp3.1\CheckWordOccurences.pdb
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.AssemblyInfoInputs.cache
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.AssemblyInfo.cs
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.csproj.CoreCompileInputs.cache
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.dll
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.pdb
+D:\C# files\StringAndStringBuilder\CheckWordOccurences\CheckWordOccurences\obj\Debug\netcoreapp3.1\CheckWordOccurences.genruntimeconfig.cache

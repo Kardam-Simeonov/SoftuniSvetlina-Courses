@@ -1,0 +1,13 @@
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.exe
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.deps.json
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.runtimeconfig.json
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.dll
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\netcoreapp3.1\MaximumAndMinimum.pdb
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.csprojAssemblyReference.cache
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.dll
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.pdb
+D:\C# files\StacksAndQueues\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\netcoreapp3.1\MaximumAndMinimum.genruntimeconfig.cache

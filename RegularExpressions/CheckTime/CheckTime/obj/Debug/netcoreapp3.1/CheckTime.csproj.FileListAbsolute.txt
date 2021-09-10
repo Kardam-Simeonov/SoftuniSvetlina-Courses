@@ -1,0 +1,13 @@
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.exe
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.deps.json
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.runtimeconfig.json
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.runtimeconfig.dev.json
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.dll
+D:\C# files\RegularExpressions\CheckTime\CheckTime\bin\Debug\netcoreapp3.1\CheckTime.pdb
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.csprojAssemblyReference.cache
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.AssemblyInfoInputs.cache
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.AssemblyInfo.cs
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.csproj.CoreCompileInputs.cache
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.dll
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.pdb
+D:\C# files\RegularExpressions\CheckTime\CheckTime\obj\Debug\netcoreapp3.1\CheckTime.genruntimeconfig.cache

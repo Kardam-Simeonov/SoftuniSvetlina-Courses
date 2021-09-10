@@ -1,0 +1,13 @@
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.exe
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.deps.json
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.json
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.dev.json
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.dll
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.pdb
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csprojAssemblyReference.cache
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfoInputs.cache
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfo.cs
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csproj.CoreCompileInputs.cache
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.dll
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.pdb
+D:\C# files\SetsAndDictionaries\WordSynonyms\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.genruntimeconfig.cache

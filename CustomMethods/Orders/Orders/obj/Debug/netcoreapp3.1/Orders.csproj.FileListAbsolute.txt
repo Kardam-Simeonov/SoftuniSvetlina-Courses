@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+D:\C# files\CustomMethods\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+D:\C# files\CustomMethods\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

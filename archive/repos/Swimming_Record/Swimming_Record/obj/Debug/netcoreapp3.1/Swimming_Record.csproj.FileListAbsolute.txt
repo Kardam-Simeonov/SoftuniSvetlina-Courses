@@ -1,0 +1,11 @@
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.exe
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.deps.json
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.runtimeconfig.json
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.runtimeconfig.dev.json
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.dll
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\bin\Debug\netcoreapp3.1\Swimming_Record.pdb
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\obj\Debug\netcoreapp3.1\Swimming_Record.csprojAssemblyReference.cache
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\obj\Debug\netcoreapp3.1\Swimming_Record.AssemblyInfoInputs.cache
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\obj\Debug\netcoreapp3.1\Swimming_Record.AssemblyInfo.cs
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\obj\Debug\netcoreapp3.1\Swimming_Record.dll
+D:\Simple_Operations\repos\Swimming_Record\Swimming_Record\obj\Debug\netcoreapp3.1\Swimming_Record.pdb

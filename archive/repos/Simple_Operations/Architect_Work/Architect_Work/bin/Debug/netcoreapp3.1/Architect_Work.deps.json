@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Architect_Work/1.0.0": {
+        "runtime": {
+          "Architect_Work.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Architect_Work/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

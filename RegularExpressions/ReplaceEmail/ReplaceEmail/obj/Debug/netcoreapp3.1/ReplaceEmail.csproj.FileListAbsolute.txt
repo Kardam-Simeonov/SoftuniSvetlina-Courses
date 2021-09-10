@@ -1,0 +1,12 @@
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.exe
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.deps.json
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.runtimeconfig.json
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.runtimeconfig.dev.json
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.dll
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\bin\Debug\netcoreapp3.1\ReplaceEmail.pdb
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.AssemblyInfoInputs.cache
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.AssemblyInfo.cs
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.csproj.CoreCompileInputs.cache
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.dll
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.pdb
+D:\C# files\RegularExpressions\ReplaceEmail\ReplaceEmail\obj\Debug\netcoreapp3.1\ReplaceEmail.genruntimeconfig.cache

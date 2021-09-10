@@ -1,0 +1,11 @@
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.exe
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.deps.json
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.runtimeconfig.json
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.runtimeconfig.dev.json
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.dll
+C:\Users\Kardam\source\repos\more_operations\more_operations\bin\Debug\netcoreapp3.1\more_operations.pdb
+C:\Users\Kardam\source\repos\more_operations\more_operations\obj\Debug\netcoreapp3.1\more_operations.csprojAssemblyReference.cache
+C:\Users\Kardam\source\repos\more_operations\more_operations\obj\Debug\netcoreapp3.1\more_operations.AssemblyInfoInputs.cache
+C:\Users\Kardam\source\repos\more_operations\more_operations\obj\Debug\netcoreapp3.1\more_operations.AssemblyInfo.cs
+C:\Users\Kardam\source\repos\more_operations\more_operations\obj\Debug\netcoreapp3.1\more_operations.dll
+C:\Users\Kardam\source\repos\more_operations\more_operations\obj\Debug\netcoreapp3.1\more_operations.pdb

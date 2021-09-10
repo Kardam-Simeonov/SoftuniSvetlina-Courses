@@ -1,0 +1,13 @@
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.exe
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.deps.json
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.json
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.dev.json
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.dll
+D:\C# files\RegularExpressions\Furniture\Furniture\bin\Debug\netcoreapp3.1\Furniture.pdb
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.csprojAssemblyReference.cache
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfoInputs.cache
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfo.cs
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.CoreCompileInputs.cache
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.dll
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.pdb
+D:\C# files\RegularExpressions\Furniture\Furniture\obj\Debug\netcoreapp3.1\Furniture.genruntimeconfig.cache

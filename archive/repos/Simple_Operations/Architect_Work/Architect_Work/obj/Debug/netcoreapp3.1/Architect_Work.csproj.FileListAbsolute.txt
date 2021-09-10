@@ -1,0 +1,11 @@
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\obj\Debug\netcoreapp3.1\Architect_Work.AssemblyInfoInputs.cache
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\obj\Debug\netcoreapp3.1\Architect_Work.AssemblyInfo.cs
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.exe
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.deps.json
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.runtimeconfig.json
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.runtimeconfig.dev.json
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.dll
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\bin\Debug\netcoreapp3.1\Architect_Work.pdb
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\obj\Debug\netcoreapp3.1\Architect_Work.dll
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\obj\Debug\netcoreapp3.1\Architect_Work.pdb
+C:\Users\Kardam\source\repos\Simple_Operations\Architect_Work\Architect_Work\obj\Debug\netcoreapp3.1\Architect_Work.csprojAssemblyReference.cache

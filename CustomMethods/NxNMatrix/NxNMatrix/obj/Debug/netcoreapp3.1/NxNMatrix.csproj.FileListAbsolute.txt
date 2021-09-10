@@ -1,0 +1,13 @@
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.exe
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.deps.json
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.json
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.dev.json
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.dll
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.pdb
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.csprojAssemblyReference.cache
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfoInputs.cache
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfo.cs
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.csproj.CoreCompileInputs.cache
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.dll
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.pdb
+D:\C# files\CustomMethods\NxNMatrix\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.exe
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.deps.json
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.runtimeconfig.json
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.runtimeconfig.dev.json
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.dll
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\bin\Debug\netcoreapp3.1\OrderStudents.pdb
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.csprojAssemblyReference.cache
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.AssemblyInfoInputs.cache
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.AssemblyInfo.cs
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.csproj.CoreCompileInputs.cache
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.dll
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.pdb
+D:\C# files\AssociativeArrays\OrderStudents\OrderStudents\obj\Debug\netcoreapp3.1\OrderStudents.genruntimeconfig.cache

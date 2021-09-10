@@ -1,0 +1,13 @@
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+D:\C# files\StacksAndQueues\StackSum\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache
+D:\C# files\StacksAndQueues\StackSum\StackSum\obj\Debug\netcoreapp3.1\StackSum.csprojAssemblyReference.cache

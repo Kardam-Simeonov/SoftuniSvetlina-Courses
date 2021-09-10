@@ -1,0 +1,13 @@
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.exe
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.deps.json
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.runtimeconfig.json
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.runtimeconfig.dev.json
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.dll
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\bin\Debug\netcoreapp3.1\MatchingParanthesses.pdb
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.csprojAssemblyReference.cache
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.AssemblyInfoInputs.cache
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.AssemblyInfo.cs
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.csproj.CoreCompileInputs.cache
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.dll
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.pdb
+D:\C# files\StacksAndQueues\MatchingParanthesses\MatchingParanthesses\obj\Debug\netcoreapp3.1\MatchingParanthesses.genruntimeconfig.cache
