@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\SomethingInCommon\\SomethingInCommon\\SomethingInCommon.csproj": {}
+    "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\EverythingInCommon\\EverythingInCommon\\EverythingInCommon.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\SomethingInCommon\\SomethingInCommon\\SomethingInCommon.csproj": {
+    "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\EverythingInCommon\\EverythingInCommon\\EverythingInCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\SomethingInCommon\\SomethingInCommon\\SomethingInCommon.csproj",
-        "projectName": "SomethingInCommon",
-        "projectPath": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\SomethingInCommon\\SomethingInCommon\\SomethingInCommon.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\EverythingInCommon\\EverythingInCommon\\EverythingInCommon.csproj",
+        "projectName": "EverythingInCommon",
+        "projectPath": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\EverythingInCommon\\EverythingInCommon\\EverythingInCommon.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\SomethingInCommon\\SomethingInCommon\\obj\\",
+        "outputPath": "D:\\SOFTUNI\\Softuni Problems Github\\Softuni-Svetlina-Projects-and-Code\\Arrays\\EverythingInCommon\\EverythingInCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,3 +11,16 @@ D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\S
 D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.dll
 D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.pdb
 D:\C# files\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.genruntimeconfig.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.exe
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.deps.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.runtimeconfig.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\bin\Debug\netcoreapp3.1\SomethingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.AssemblyInfo.cs
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\SomethingInCommon\SomethingInCommon\obj\Debug\netcoreapp3.1\SomethingInCommon.genruntimeconfig.cache

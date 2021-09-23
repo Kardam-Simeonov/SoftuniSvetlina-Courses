@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.exe
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.deps.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.runtimeconfig.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\bin\Debug\netcoreapp3.1\NothingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.AssemblyInfo.cs
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\NothingInCommon\NothingInCommon\obj\Debug\netcoreapp3.1\NothingInCommon.genruntimeconfig.cache

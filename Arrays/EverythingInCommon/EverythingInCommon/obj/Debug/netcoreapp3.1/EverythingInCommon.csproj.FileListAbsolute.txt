@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.exe
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.deps.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.runtimeconfig.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\bin\Debug\netcoreapp3.1\EverythingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.AssemblyInfo.cs
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.dll
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.pdb
+D:\SOFTUNI\Softuni Problems Github\Softuni-Svetlina-Projects-and-Code\Arrays\EverythingInCommon\EverythingInCommon\obj\Debug\netcoreapp3.1\EverythingInCommon.genruntimeconfig.cache
