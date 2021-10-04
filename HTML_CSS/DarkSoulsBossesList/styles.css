@@ -1,0 +1,10 @@
+li{
+    border-style:groove;
+    width: fit-content;
+    background-color: brown;
+    color: whitesmoke;
+}
+
+li:hover{
+    background-color: tomato;
+}
