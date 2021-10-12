@@ -1,0 +1,12 @@
+form{
+    border: cadetblue groove 8px;
+    background-color: aquamarine;
+    padding: 5px;
+}
+input{
+    background-color: #5c6e91;
+}
+
+button{
+    margin-top: 6px;
+}
