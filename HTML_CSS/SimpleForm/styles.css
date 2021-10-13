@@ -2,9 +2,12 @@ form{
     border: cadetblue groove 8px;
     background-color: aquamarine;
     padding: 5px;
+    width: fit-content;
 }
+
 input{
     background-color: #5c6e91;
+    color: #e5f0f7;
 }
 
 button{
