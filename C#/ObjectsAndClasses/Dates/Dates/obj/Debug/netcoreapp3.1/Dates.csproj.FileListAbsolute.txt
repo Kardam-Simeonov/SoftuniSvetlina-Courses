@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.genruntimeconfig.cache

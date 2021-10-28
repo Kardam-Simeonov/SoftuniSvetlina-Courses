@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.genruntimeconfig.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csprojAssemblyReference.cache

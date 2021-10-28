@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# files\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj": {}
+    "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj": {}
   },
   "projects": {
-    "D:\\C# files\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj": {
+    "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# files\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj",
         "projectName": "AdvertisementMessage",
-        "projectPath": "D:\\C# files\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj",
+        "projectPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\AdvertisementMessage.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\C# files\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\obj\\",
+        "outputPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\ObjectsAndClasses\\AdvertisementMessage\\AdvertisementMessage\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
         }
       }
     }

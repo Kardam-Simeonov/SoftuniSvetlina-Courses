@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\bin\Debug\netcoreapp3.1\CreatingConstructors.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CreatingConstructors\obj\Debug\netcoreapp3.1\CreatingConstructors.genruntimeconfig.cache

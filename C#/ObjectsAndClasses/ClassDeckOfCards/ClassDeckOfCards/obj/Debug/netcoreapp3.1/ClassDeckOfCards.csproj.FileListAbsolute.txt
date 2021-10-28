@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\bin\Debug\netcoreapp3.1\ClassDeckOfCards.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassDeckOfCards\ClassDeckOfCards\obj\Debug\netcoreapp3.1\ClassDeckOfCards.genruntimeconfig.cache

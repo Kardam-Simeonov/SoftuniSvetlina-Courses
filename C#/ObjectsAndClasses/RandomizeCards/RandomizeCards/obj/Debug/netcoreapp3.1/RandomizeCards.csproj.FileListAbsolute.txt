@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\bin\Debug\netcoreapp3.1\RandomizeCards.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\RandomizeCards\RandomizeCards\obj\Debug\netcoreapp3.1\RandomizeCards.genruntimeconfig.cache

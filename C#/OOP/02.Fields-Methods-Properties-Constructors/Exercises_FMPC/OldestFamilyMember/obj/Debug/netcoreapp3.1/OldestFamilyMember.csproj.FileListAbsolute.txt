@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.genruntimeconfig.cache

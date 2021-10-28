@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.genruntimeconfig.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Exercises_FMPC\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csprojAssemblyReference.cache

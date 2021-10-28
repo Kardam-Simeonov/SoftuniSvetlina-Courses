@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\bin\Debug\netcoreapp3.1\CarEngineAndTires.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\02.Fields-Methods-Properties-Constructors\Lab_FMPC\CarEngineAndTires\obj\Debug\netcoreapp3.1\CarEngineAndTires.genruntimeconfig.cache

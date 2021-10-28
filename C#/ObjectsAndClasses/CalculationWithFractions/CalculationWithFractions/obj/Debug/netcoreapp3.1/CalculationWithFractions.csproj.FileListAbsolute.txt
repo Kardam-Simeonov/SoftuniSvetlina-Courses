@@ -1,0 +1,15 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\CalculationWithFractions.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\bin\Debug\netcoreapp3.1\Fractions.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.csproj.CopyComplete
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\CalculationWithFractions\CalculationWithFractions\obj\Debug\netcoreapp3.1\CalculationWithFractions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\bin\Debug\netcoreapp3.1\ClassCard.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\ClassCard\ClassCard\obj\Debug\netcoreapp3.1\ClassCard.genruntimeconfig.cache

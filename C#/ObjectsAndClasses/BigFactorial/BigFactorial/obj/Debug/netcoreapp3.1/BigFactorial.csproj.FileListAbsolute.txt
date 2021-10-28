@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache
