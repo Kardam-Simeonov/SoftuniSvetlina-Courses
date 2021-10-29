@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\bin\Debug\netcoreapp3.1\Games.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Games\Games\obj\Debug\netcoreapp3.1\Games.genruntimeconfig.cache

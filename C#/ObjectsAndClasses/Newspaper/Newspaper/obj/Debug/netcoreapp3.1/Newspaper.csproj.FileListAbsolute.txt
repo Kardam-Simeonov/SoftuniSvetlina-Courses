@@ -1,0 +1,13 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\bin\Debug\netcoreapp3.1\Newspaper.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.csprojAssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\ObjectsAndClasses\Newspaper\Newspaper\obj\Debug\netcoreapp3.1\Newspaper.genruntimeconfig.cache
