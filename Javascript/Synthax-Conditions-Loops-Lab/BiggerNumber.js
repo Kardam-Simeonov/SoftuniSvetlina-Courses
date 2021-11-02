@@ -7,3 +7,5 @@ function printBigger(input){
     else
         console.log(b);
 }
+
+printBigger([1,2]);
