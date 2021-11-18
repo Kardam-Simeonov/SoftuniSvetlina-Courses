@@ -134,16 +134,58 @@ namespace ImplementLinkedList
             }
             return -1;
         }
-        /*/
+        
         public bool Contains(object item)
         {
+            int index = IndexOf(item);
 
+            if (index == -1)
+                return false;
+
+            return true;
         }
         public object this[int index]
         {
-
+            get
+            {
+                if (isValid(index))
+                {
+                    Node current = head;
+                    for (int i = 0; i < index; i++)
+                    {
+                        current = current.Next;
+                    }
+                    return current.Element;
+                }
+                else
+                {
+                    throw new ArgumentException("Invalid index: " + index);
+                }
+            }
+            set
+            {
+                if (isValid(index))
+                {
+                    Node current = head;
+                    for (int i = 0; i < index; i++)
+                    {
+                        current = current.Next;
+                    }
+                    current.Element = value;
+                }
+                else
+                {
+                    throw new ArgumentException("Invalid index: " + index);
+                }
+            }
         }
-        /*/
         
+        private bool isValid(int index)
+        {
+            if (index < 0 || index >= count)
+                return false;
+
+            return true;
+        }
     }
 }
