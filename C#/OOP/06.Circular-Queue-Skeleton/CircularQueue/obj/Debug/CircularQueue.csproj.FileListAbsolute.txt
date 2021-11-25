@@ -1,0 +1,12 @@
+D:\delete\skeleton\CircularQueue\bin\Debug\CircularQueue.exe
+D:\delete\skeleton\CircularQueue\bin\Debug\CircularQueue.pdb
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.csprojAssemblyReference.cache
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.exe
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\bin\Debug\CircularQueue.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\bin\Debug\CircularQueue.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\obj\Debug\CircularQueue.csproj.AssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\obj\Debug\CircularQueue.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\06.Circular-Queue-Skeleton\CircularQueue\obj\Debug\CircularQueue.pdb
