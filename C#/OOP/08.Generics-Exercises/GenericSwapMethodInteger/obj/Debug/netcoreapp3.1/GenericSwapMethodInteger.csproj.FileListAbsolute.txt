@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.genruntimeconfig.cache

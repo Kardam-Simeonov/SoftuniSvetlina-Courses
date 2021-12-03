@@ -12,3 +12,17 @@ D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Three
 D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
 D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
 D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

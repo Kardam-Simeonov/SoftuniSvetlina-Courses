@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj": {}
+    "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj": {
+    "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
         "projectName": "Tuple",
-        "projectPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
-        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\obj\\",
+        "projectPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
+        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
