@@ -1,0 +1,14 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

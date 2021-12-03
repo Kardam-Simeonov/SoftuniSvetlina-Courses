@@ -1,0 +1,14 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.AssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

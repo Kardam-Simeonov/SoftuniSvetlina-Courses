@@ -1,0 +1,14 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.AssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\08.Generics-Exercises\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache
