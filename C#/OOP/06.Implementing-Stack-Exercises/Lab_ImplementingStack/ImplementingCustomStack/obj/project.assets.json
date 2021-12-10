@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\ImplementingCustomStack.csproj",
+      "projectUniqueName": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\ImplementingCustomStack.csproj",
       "projectName": "ImplementingCustomStack",
-      "projectPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\ImplementingCustomStack.csproj",
-      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\obj\\",
+      "projectPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\ImplementingCustomStack.csproj",
+      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\06.Implementing-Stack-Exercises\\Lab_ImplementingStack\\ImplementingCustomStack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

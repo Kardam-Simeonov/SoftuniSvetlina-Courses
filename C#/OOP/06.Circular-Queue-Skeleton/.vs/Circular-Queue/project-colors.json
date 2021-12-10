@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cb50f92-35af-47e5-ba6f-02446aacd536": {
+      "ProjectGuid": "2cb50f92-35af-47e5-ba6f-02446aacd536",
+      "DisplayName": "CircularQueue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

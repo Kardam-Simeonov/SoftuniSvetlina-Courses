@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yVFtjIoUFia3YedSMvVJUxSoyJyXtJbjAJHBBd+inadocXbCJrQLLMn7NDBRojj1UdOdU7L4NyCJKct1FX/G/A==",
+  "dgSpecHash": "og6hH8ToVYhkFvcqWzyd9ia8xycvFx7j3U5t8USjzQsr9SBvrRQRB9Lz+Zphk7APcpidJe6BwKfCUz86WZBCYw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
+  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Exercises\\Tuple\\Tuple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

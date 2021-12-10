@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFd27/vTwmmd0mHdQaxan5Ac/Hew+1GhIgyxO3V86iQq2S78KqzflQ8douoUIWaC+LvMWfsukd8xwloj6z9xZQ==",
+  "dgSpecHash": "OGEvD8ipC/gQmw3MB8A72fCcD0QF+Udj/TcPc9dXlffzenTFxj1q3kyjWoBTWjFodJ5w0xeOQLnUWOLnARq1hw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Lab\\BoxOfT\\BoxOfT.csproj",
+  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\08.Generics-Lab\\BoxOfT\\BoxOfT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
