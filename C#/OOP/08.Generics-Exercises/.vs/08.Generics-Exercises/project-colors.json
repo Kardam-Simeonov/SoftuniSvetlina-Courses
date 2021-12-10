@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6783fdf-1174-403a-968d-1ac3ad4d88f4": {
+      "ProjectGuid": "c6783fdf-1174-403a-968d-1ac3ad4d88f4",
+      "DisplayName": "GenericSwapMethodInteger",
+      "ColorIndex": 0
+    },
+    "12b9ef0c-f09f-4916-ba7f-2c776e144512": {
+      "ProjectGuid": "12b9ef0c-f09f-4916-ba7f-2c776e144512",
+      "DisplayName": "Tuple",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
