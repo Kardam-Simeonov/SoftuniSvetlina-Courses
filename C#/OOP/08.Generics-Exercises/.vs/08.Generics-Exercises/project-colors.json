@@ -10,7 +10,17 @@
       "ProjectGuid": "12b9ef0c-f09f-4916-ba7f-2c776e144512",
       "DisplayName": "Tuple",
       "ColorIndex": 1
+    },
+    "85e6170e-5e31-471e-82de-4d16348f7c96": {
+      "ProjectGuid": "85e6170e-5e31-471e-82de-4d16348f7c96",
+      "DisplayName": "ImplementStack",
+      "ColorIndex": 2
+    },
+    "7b4c1692-eaba-42f3-b915-6f441d3d7df2": {
+      "ProjectGuid": "7b4c1692-eaba-42f3-b915-6f441d3d7df2",
+      "DisplayName": "ImplementLinkedList",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
