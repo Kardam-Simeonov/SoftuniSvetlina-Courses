@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6783fdf-1174-403a-968d-1ac3ad4d88f4": {
+      "ProjectGuid": "c6783fdf-1174-403a-968d-1ac3ad4d88f4",
+      "DisplayName": "GenericSwapMethodInteger",
+      "ColorIndex": 0
+    },
+    "12b9ef0c-f09f-4916-ba7f-2c776e144512": {
+      "ProjectGuid": "12b9ef0c-f09f-4916-ba7f-2c776e144512",
+      "DisplayName": "Tuple",
+      "ColorIndex": 1
+    },
+    "85e6170e-5e31-471e-82de-4d16348f7c96": {
+      "ProjectGuid": "85e6170e-5e31-471e-82de-4d16348f7c96",
+      "DisplayName": "ImplementStack",
+      "ColorIndex": 2
+    },
+    "7b4c1692-eaba-42f3-b915-6f441d3d7df2": {
+      "ProjectGuid": "7b4c1692-eaba-42f3-b915-6f441d3d7df2",
+      "DisplayName": "ImplementLinkedList",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

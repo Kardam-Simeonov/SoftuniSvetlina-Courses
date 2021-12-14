@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.genruntimeconfig.cache

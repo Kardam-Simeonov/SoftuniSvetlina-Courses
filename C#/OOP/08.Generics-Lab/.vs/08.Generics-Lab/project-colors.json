@@ -5,7 +5,12 @@
       "ProjectGuid": "52d39736-cca4-42df-8de4-30dbc8dd6df2",
       "DisplayName": "BoxOfT",
       "ColorIndex": 0
+    },
+    "a7391ed9-f8b2-4e28-b603-079f79675b69": {
+      "ProjectGuid": "a7391ed9-f8b2-4e28-b603-079f79675b69",
+      "DisplayName": "CustomArrayList",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
