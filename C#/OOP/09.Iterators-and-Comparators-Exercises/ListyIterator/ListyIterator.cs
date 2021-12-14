@@ -2,16 +2,30 @@
 
 namespace ImplementListyIterator
 {
-    public class ListyIterator<T>
+    public class ListyIterator<T1>
     {
-        private List<T> elements;
-        private int index;
-        public List<T> Elements { get { return elements; } }
-        public ListyIterator(List<T> input)
+        private int internalIndex = 0;
+        public List<T1> Items { get; set; }
+        public ListyIterator(List<T1> items)
         {
-            elements = input;
+            this.Items = items; 
+        }
+        public bool Move()
+        {
+            if (!HasNext())
+                return false;
+
+            internalIndex++;
+            return true;
+        }
+        public bool HasNext()
+        {
+            return internalIndex < Items.Count;
         }
 
-
+        public void Print()
+        {
+            System.Console.WriteLine(Items[internalIndex]);
+        }
     }
 }

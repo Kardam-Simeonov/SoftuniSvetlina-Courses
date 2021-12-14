@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomArrayList", "CustomArrayList\CustomArrayList.csproj", "{40BBF397-0BA7-487C-8EDB-720B077F52B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomArrayList", "CustomArrayList\CustomArrayList.csproj", "{40BBF397-0BA7-487C-8EDB-720B077F52B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{909381C4-101F-429B-BCEE-DAC8D8FD6C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomStack", "CustomStack\CustomStack.csproj", "{909381C4-101F-429B-BCEE-DAC8D8FD6C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{F626542D-BAA4-41FF-9163-702F67746A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{F626542D-BAA4-41FF-9163-702F67746A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueue", "CircularQueue\CircularQueue.csproj", "{024EF637-2A9E-452A-AA26-EB89824BE80A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularQueue", "CircularQueue\CircularQueue.csproj", "{024EF637-2A9E-452A-AA26-EB89824BE80A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingObjects", "ComparingObjects\ComparingObjects.csproj", "{0078155E-D941-46B6-93D1-2FA24B953F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComparingObjects", "ComparingObjects\ComparingObjects.csproj", "{0078155E-D941-46B6-93D1-2FA24B953F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{CE1CE8EC-F6FB-49BF-97BC-880D326C3B09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0078155E-D941-46B6-93D1-2FA24B953F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0078155E-D941-46B6-93D1-2FA24B953F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0078155E-D941-46B6-93D1-2FA24B953F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1CE8EC-F6FB-49BF-97BC-880D326C3B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1CE8EC-F6FB-49BF-97BC-880D326C3B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1CE8EC-F6FB-49BF-97BC-880D326C3B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1CE8EC-F6FB-49BF-97BC-880D326C3B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache
