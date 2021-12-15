@@ -29,6 +29,9 @@ namespace ImplementListyIterator
                         case "Print":
                             iterator.Print();
                             break;
+                        case "PrintAll":
+                            iterator.PrintAll();
+                            break;
                     }
                 }
                 catch (Exception)

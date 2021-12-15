@@ -1,8 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace ImplementListyIterator
 {
-    public class ListyIterator<T1>
+    public class ListyIterator<T1> : IEnumerable<T1>
     {
         private int internalIndex = 0;
         public List<T1> Items { get; set; }
@@ -20,12 +22,32 @@ namespace ImplementListyIterator
         }
         public bool HasNext()
         {
-            return internalIndex < Items.Count;
+            return internalIndex + 1 < Items.Count;
         }
 
         public void Print()
         {
-            System.Console.WriteLine(Items[internalIndex]);
+            Console.WriteLine(Items[internalIndex]);
+        }
+
+        public void PrintAll()
+        {
+            foreach (var item in Items)
+                Console.Write($"{item} ");
+
+            Console.WriteLine();
+        }
+        public IEnumerator<T1> GetEnumerator()
+        {
+            for (int i = 0; i < Items.Count; i++)
+            {
+                yield return Items[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
         }
     }
 }

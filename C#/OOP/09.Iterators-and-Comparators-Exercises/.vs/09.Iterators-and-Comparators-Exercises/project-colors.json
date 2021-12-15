@@ -35,7 +35,12 @@
       "ProjectGuid": "0078155e-d941-46b6-93d1-2fa24b953f10",
       "DisplayName": "ComparingObjects",
       "ColorIndex": 5
+    },
+    "ce1ce8ec-f6fb-49bf-97bc-880d326c3b09": {
+      "ProjectGuid": "ce1ce8ec-f6fb-49bf-97bc-880d326c3b09",
+      "DisplayName": "ListyIterator",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
