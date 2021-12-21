@@ -1,11 +1,46 @@
 {
   "Version": 1,
   "ProjectMap": {
+    "40bbf397-0ba7-487c-8edb-720b077f52b3": {
+      "ProjectGuid": "40bbf397-0ba7-487c-8edb-720b077f52b3",
+      "DisplayName": "CustomArrayList",
+      "ColorIndex": 0
+    },
+    "909381c4-101f-429b-bcee-dac8d8fd6c17": {
+      "ProjectGuid": "909381c4-101f-429b-bcee-dac8d8fd6c17",
+      "DisplayName": "CustomStack",
+      "ColorIndex": 1
+    },
+    "f626542d-baa4-41ff-9163-702f67746a88": {
+      "ProjectGuid": "f626542d-baa4-41ff-9163-702f67746a88",
+      "DisplayName": "LinkedList",
+      "ColorIndex": 2
+    },
+    "024ef637-2a9e-452a-aa26-eb89824be80a": {
+      "ProjectGuid": "024ef637-2a9e-452a-aa26-eb89824be80a",
+      "DisplayName": "CircularQueue",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68d418cd-16f6-48be-8fd2-417bc7efbebd": {
+      "ProjectGuid": "68d418cd-16f6-48be-8fd2-417bc7efbebd",
+      "DisplayName": "ListyIterator",
+      "ColorIndex": 4
+    },
     "0078155e-d941-46b6-93d1-2fa24b953f10": {
       "ProjectGuid": "0078155e-d941-46b6-93d1-2fa24b953f10",
       "DisplayName": "ComparingObjects",
-      "ColorIndex": 0
+      "ColorIndex": 5
+    },
+    "ce1ce8ec-f6fb-49bf-97bc-880d326c3b09": {
+      "ProjectGuid": "ce1ce8ec-f6fb-49bf-97bc-880d326c3b09",
+      "DisplayName": "ListyIterator",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }

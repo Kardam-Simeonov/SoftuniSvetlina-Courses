@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\09.Iterators-and-Comparators-Exercises\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.genruntimeconfig.cache
