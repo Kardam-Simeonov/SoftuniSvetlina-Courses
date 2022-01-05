@@ -1,0 +1,14 @@
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.exe
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.deps.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.runtimeconfig.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.runtimeconfig.dev.json
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\bin\Debug\netcoreapp3.1\Competitor.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.csproj.AssemblyReference.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.AssemblyInfoInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.AssemblyInfo.cs
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.dll
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.pdb
+D:\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\10.Final-Exam-Defining-Classes\Competitor\obj\Debug\netcoreapp3.1\Competitor.genruntimeconfig.cache
