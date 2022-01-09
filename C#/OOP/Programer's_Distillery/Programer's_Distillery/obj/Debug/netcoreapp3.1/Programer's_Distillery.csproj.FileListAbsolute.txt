@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\bin\Debug\netcoreapp3.1\Programer's_Distillery.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\OOP\Programer's_Distillery\Programer's_Distillery\obj\Debug\netcoreapp3.1\Programer's_Distillery.genruntimeconfig.cache
