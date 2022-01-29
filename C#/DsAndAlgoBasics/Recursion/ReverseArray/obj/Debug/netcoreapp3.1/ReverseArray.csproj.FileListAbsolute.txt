@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache

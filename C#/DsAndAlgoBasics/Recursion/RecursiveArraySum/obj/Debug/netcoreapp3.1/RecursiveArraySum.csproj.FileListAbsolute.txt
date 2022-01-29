@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.genruntimeconfig.cache
