@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.1\NestedLoopsToRecursion.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.1\NestedLoopsToRecursion.genruntimeconfig.cache

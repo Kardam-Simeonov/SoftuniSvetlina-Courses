@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.genruntimeconfig.cache

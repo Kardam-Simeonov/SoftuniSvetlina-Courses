@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{A9B5A7F6-A926-420E-8FE1-07ADF9167551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{A9B5A7F6-A926-420E-8FE1-07ADF9167551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{212678A4-EA83-43B7-A979-64CF05845E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{212678A4-EA83-43B7-A979-64CF05845E33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{F71FD9AF-C040-4B5D-9826-0A2225BB53D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveDrawing", "RecursiveDrawing\RecursiveDrawing.csproj", "{2A9783F3-1C29-45CE-A11F-C1E0BD39DC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{2478F06D-DF7D-41EC-998A-24652F9AE854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{212678A4-EA83-43B7-A979-64CF05845E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212678A4-EA83-43B7-A979-64CF05845E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212678A4-EA83-43B7-A979-64CF05845E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71FD9AF-C040-4B5D-9826-0A2225BB53D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71FD9AF-C040-4B5D-9826-0A2225BB53D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71FD9AF-C040-4B5D-9826-0A2225BB53D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71FD9AF-C040-4B5D-9826-0A2225BB53D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9783F3-1C29-45CE-A11F-C1E0BD39DC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9783F3-1C29-45CE-A11F-C1E0BD39DC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9783F3-1C29-45CE-A11F-C1E0BD39DC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9783F3-1C29-45CE-A11F-C1E0BD39DC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2478F06D-DF7D-41EC-998A-24652F9AE854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2478F06D-DF7D-41EC-998A-24652F9AE854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2478F06D-DF7D-41EC-998A-24652F9AE854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2478F06D-DF7D-41EC-998A-24652F9AE854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

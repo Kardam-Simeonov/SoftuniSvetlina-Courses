@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9b5a7f6-a926-420e-8fe1-07adf9167551": {
+      "ProjectGuid": "a9b5a7f6-a926-420e-8fe1-07adf9167551",
+      "DisplayName": "RecursiveArraySum",
+      "ColorIndex": 0
+    },
+    "212678a4-ea83-43b7-a979-64cf05845e33": {
+      "ProjectGuid": "212678a4-ea83-43b7-a979-64cf05845e33",
+      "DisplayName": "ReverseArray",
+      "ColorIndex": 1
+    },
+    "f71fd9af-c040-4b5d-9826-0a2225bb53d8": {
+      "ProjectGuid": "f71fd9af-c040-4b5d-9826-0a2225bb53d8",
+      "DisplayName": "RecursiveFactorial",
+      "ColorIndex": 2
+    },
+    "2a9783f3-1c29-45ce-a11f-c1e0bd39dc5c": {
+      "ProjectGuid": "2a9783f3-1c29-45ce-a11f-c1e0bd39dc5c",
+      "DisplayName": "RecursiveDrawing",
+      "ColorIndex": 3
+    },
+    "2478f06d-df7d-41ec-998a-24652f9ae854": {
+      "ProjectGuid": "2478f06d-df7d-41ec-998a-24652f9ae854",
+      "DisplayName": "NestedLoopsToRecursion",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

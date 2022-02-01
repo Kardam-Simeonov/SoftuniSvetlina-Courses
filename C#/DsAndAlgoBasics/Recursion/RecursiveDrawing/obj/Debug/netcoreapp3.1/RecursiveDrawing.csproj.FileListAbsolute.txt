@@ -1,0 +1,13 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\bin\Debug\netcoreapp3.1\RecursiveDrawing.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DsAndAlgoBasics\Recursion\RecursiveDrawing\obj\Debug\netcoreapp3.1\RecursiveDrawing.genruntimeconfig.cache
