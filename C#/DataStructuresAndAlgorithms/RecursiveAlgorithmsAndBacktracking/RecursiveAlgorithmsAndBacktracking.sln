@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingVectors", "GeneratingVectors\GeneratingVectors.csproj", "{A2D7815D-FB74-4649-9769-5CFB0F48D5C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingVectors", "GeneratingVectors\GeneratingVectors.csproj", "{A2D7815D-FB74-4649-9769-5CFB0F48D5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetition", "CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{42E7FE34-0124-4DDE-BE60-7A0CB67FB014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{CA8101BA-B694-4CD5-B641-5F6A470BB6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCombinations", "GeneratingCombinations\GeneratingCombinations.csproj", "{186E690D-6E65-484B-ACE0-F4B174321570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueensPuzzle", "EightQueensPuzzle\EightQueensPuzzle.csproj", "{3F643169-E722-402E-8CE8-B81CAE33EEC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{A2D7815D-FB74-4649-9769-5CFB0F48D5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D7815D-FB74-4649-9769-5CFB0F48D5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D7815D-FB74-4649-9769-5CFB0F48D5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E7FE34-0124-4DDE-BE60-7A0CB67FB014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E7FE34-0124-4DDE-BE60-7A0CB67FB014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E7FE34-0124-4DDE-BE60-7A0CB67FB014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E7FE34-0124-4DDE-BE60-7A0CB67FB014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8101BA-B694-4CD5-B641-5F6A470BB6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8101BA-B694-4CD5-B641-5F6A470BB6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8101BA-B694-4CD5-B641-5F6A470BB6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8101BA-B694-4CD5-B641-5F6A470BB6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186E690D-6E65-484B-ACE0-F4B174321570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186E690D-6E65-484B-ACE0-F4B174321570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186E690D-6E65-484B-ACE0-F4B174321570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186E690D-6E65-484B-ACE0-F4B174321570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F643169-E722-402E-8CE8-B81CAE33EEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F643169-E722-402E-8CE8-B81CAE33EEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F643169-E722-402E-8CE8-B81CAE33EEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F643169-E722-402E-8CE8-B81CAE33EEC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
