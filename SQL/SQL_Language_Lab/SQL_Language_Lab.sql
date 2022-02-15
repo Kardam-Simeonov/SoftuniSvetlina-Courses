@@ -1,3 +1,29 @@
+USE SoftUni
+
+SELECT * FROM DEPARTMENTS;
+
+SELECT Name FROM Departments; 
+
+SELECT FirstName, LastName, Salary FROM Employees;
+
+SELECT DISTINCT Salary FROM Employees;
+
+SELECT FirstName, LastName, JobTitle FROM Employees WHERE Salary BETWEEN 20000 AND 30000;
+
+SELECT FirstName, LastName FROM Employees WHERE ManagerID IS NULL;
+
+SELECT FirstName, LastName, Salary FROM Employees WHERE Salary > 50000 ORDER BY Salary DESC;
+
+SELECT TOP(5) FirstName, LastName FROM Employees ORDER BY Salary DESC;
+
+SELECT TOP(7) FirstName, LastName, HireDate FROM Employees ORDER BY HireDate DESC;
+
+UPDATE Employees 
+	SET Salary = Salary * 1.12 
+	WHERE DepartmentID IN (1, 2, 4, 11);
+
+SELECT Salary FROM Employees;
+
 SELECT TOP(5) Employees.EmployeeID, Employees.JobTitle, Employees.AddressID, Addresses.AddressText
 FROM Employees
 INNER JOIN Addresses ON Employees.AddressID = Addresses.AddressID

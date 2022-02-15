@@ -10,7 +10,37 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "42e7fe34-0124-4dde-be60-7a0cb67fb014": {
+      "ProjectGuid": "42e7fe34-0124-4dde-be60-7a0cb67fb014",
+      "DisplayName": "CombinationsWithRepetition",
+      "ColorIndex": 1
+    },
+    "ca8101ba-b694-4cd5-b641-5f6a470bb6ff": {
+      "ProjectGuid": "ca8101ba-b694-4cd5-b641-5f6a470bb6ff",
+      "DisplayName": "CombinationsWithoutRepetition",
+      "ColorIndex": 2
+    },
+    "186e690d-6e65-484b-ace0-f4b174321570": {
+      "ProjectGuid": "186e690d-6e65-484b-ace0-f4b174321570",
+      "DisplayName": "GeneratingCombinations",
+      "ColorIndex": 3
+    },
+    "a1522a4d-5a27-4131-aa0e-2277f99104ed": {
+      "ProjectGuid": "a1522a4d-5a27-4131-aa0e-2277f99104ed",
+      "DisplayName": "8QueensPuzzle",
+      "ColorIndex": 4
+    },
+    "1f8e4374-4ab6-47e9-bc30-dc43b99acfc5": {
+      "ProjectGuid": "1f8e4374-4ab6-47e9-bc30-dc43b99acfc5",
+      "DisplayName": "8QueensPuzzle",
+      "ColorIndex": 5
+    },
+    "3f643169-e722-402e-8ce8-b81cae33eec8": {
+      "ProjectGuid": "3f643169-e722-402e-8ce8-b81cae33eec8",
+      "DisplayName": "EightQueensPuzzle",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }
