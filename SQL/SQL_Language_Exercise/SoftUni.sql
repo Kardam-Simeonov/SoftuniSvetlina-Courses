@@ -30,20 +30,15 @@ INNER JOIN EmployeesProjects ON Employees.EmployeeID = EmployeesProjects.Employe
 INNER JOIN Projects ON EmployeesProjects.ProjectID = Projects.ProjectID
 WHERE Projects.StartDate > '2002/08/13' AND Projects.EndDate IS NULL;
 
-IF (Select Projects.StartDate FROM Projects) >= '2005/01/01'
-BEGIN
-	SELECT Employees.EmployeeID, Employees.FirstName, NULL
-	FROM Employees
-	WHERE Employees.EmployeeID = 24;
-END
-ELSE
-BEGIN
-	SELECT Employees.EmployeeID, Employees.FirstName, Projects.[Name]
-	FROM Employees
-	INNER JOIN EmployeesProjects ON Employees.EmployeeID = EmployeesProjects.EmployeeID
-	INNER JOIN Projects ON EmployeesProjects.ProjectID = Projects.ProjectID
-	WHERE Employees.EmployeeID = 24;
-END
+SELECT Employees.EmployeeID, Employees.FirstName, 
+CASE 
+	WHEN Projects.StartDate >= '2005-01-01' THEN NULL
+	ELSE Projects.[Name]
+END AS ProjectName
+FROM Employees
+INNER JOIN EmployeesProjects ON Employees.EmployeeID = EmployeesProjects.EmployeeID
+INNER JOIN Projects ON EmployeesProjects.ProjectID = Projects.ProjectID
+WHERE Employees.EmployeeID = 24;
 
 SELECT Employees.EmployeeID, Employees.FirstName, Managers.EmployeeID, Managers.FirstName
 FROM Employees

@@ -8,10 +8,9 @@ WHERE ContinentName = 'Europe'
 ORDER BY Population DESC,
 CountryName ASC;
 
-SELECT Countries.CountryCode, Mountains.MountainRange, Peaks.PeakName, Peaks.Elevation
-FROM Countries
-LEFT JOIN MountainsCountries ON Countries.ContinentCode = MountainsCountries.CountryCode
-LEFT JOIN Mountains ON MountainsCountries.MountainId = Mountains.Id
-LEFT JOIN Peaks ON Mountains.Id = Peaks.MountainId
-WHERE Countries.CountryCode = 'BG' AND Peaks.Elevation > 2835
+SELECT MountainsCountries.CountryCode, Mountains.MountainRange, Peaks.PeakName, Peaks.Elevation
+FROM MountainsCountries
+INNER JOIN Mountains ON MountainsCountries.MountainId = Mountains.Id
+INNER JOIN Peaks ON Mountains.Id = Peaks.MountainId
+WHERE MountainsCountries.CountryCode = 'BG' AND Peaks.Elevation > 2835
 ORDER BY Peaks.Elevation DESC;
