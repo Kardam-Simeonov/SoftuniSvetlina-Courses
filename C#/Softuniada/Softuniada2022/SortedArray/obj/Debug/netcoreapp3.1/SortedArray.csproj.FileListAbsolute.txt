@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\bin\Debug\netcoreapp3.1\SortedArray.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SortedArray\obj\Debug\netcoreapp3.1\SortedArray.genruntimeconfig.cache

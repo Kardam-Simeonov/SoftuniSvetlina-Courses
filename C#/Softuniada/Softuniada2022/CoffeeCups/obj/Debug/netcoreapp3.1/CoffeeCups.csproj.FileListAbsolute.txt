@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\bin\Debug\netcoreapp3.1\CoffeeCups.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\CoffeeCups\obj\Debug\netcoreapp3.1\CoffeeCups.genruntimeconfig.cache

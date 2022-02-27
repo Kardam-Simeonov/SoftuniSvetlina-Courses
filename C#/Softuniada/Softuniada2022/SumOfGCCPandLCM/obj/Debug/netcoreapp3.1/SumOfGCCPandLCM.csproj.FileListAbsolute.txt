@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\bin\Debug\netcoreapp3.1\SumOfGCCPandLCM.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SumOfGCCPandLCM\obj\Debug\netcoreapp3.1\SumOfGCCPandLCM.genruntimeconfig.cache

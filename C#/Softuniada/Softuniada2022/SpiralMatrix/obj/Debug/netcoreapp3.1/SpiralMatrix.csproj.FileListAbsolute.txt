@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.genruntimeconfig.cache

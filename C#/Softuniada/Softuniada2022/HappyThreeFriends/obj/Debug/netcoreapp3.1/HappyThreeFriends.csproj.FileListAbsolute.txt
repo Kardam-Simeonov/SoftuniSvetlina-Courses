@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\bin\Debug\netcoreapp3.1\HappyThreeFriends.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\Softuniada2022\HappyThreeFriends\obj\Debug\netcoreapp3.1\HappyThreeFriends.genruntimeconfig.cache
