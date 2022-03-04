@@ -1,0 +1,16 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\HeapOfNames.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\bin\Debug\netcoreapp3.1\MoreComplexDataStructures.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.csproj.CopyComplete
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\HeapOfNames\obj\Debug\netcoreapp3.1\HeapOfNames.genruntimeconfig.cache

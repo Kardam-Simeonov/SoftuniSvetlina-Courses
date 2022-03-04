@@ -1,0 +1,16 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\BagOfWords.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.csproj.CopyComplete
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\IntroToDataStructures-Lab\BagOfWords\obj\Debug\netcoreapp3.1\BagOfWords.genruntimeconfig.cache

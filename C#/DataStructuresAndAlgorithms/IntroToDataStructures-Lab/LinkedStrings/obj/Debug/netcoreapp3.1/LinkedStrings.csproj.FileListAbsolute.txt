@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.exe
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.deps.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.runtimeconfig.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.runtimeconfig.dev.json
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\bin\Debug\netcoreapp3.1\LinkedStrings.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.AssemblyInfo.cs
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.dll
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.pdb
+D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\Softuniada\IntroToDataStructures-Lab\LinkedStrings\obj\Debug\netcoreapp3.1\LinkedStrings.genruntimeconfig.cache

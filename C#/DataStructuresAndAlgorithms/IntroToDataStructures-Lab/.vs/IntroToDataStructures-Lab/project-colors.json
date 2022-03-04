@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1b68130-c4ed-420e-b54c-fe512c032257": {
+      "ProjectGuid": "c1b68130-c4ed-420e-b54c-fe512c032257",
+      "DisplayName": "LinkedStrings",
+      "ColorIndex": 0
+    },
+    "ad5b83a1-2d26-4126-a3e8-95af46630333": {
+      "ProjectGuid": "ad5b83a1-2d26-4126-a3e8-95af46630333",
+      "DisplayName": "BagOfWords",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68bb98c0-948e-4bc2-a7a2-436e01693342": {
+      "ProjectGuid": "68bb98c0-948e-4bc2-a7a2-436e01693342",
+      "DisplayName": "PhoneBook",
+      "ColorIndex": 2
+    },
+    "d0e43e7b-610b-4a84-8922-6024976a02c1": {
+      "ProjectGuid": "d0e43e7b-610b-4a84-8922-6024976a02c1",
+      "DisplayName": "HeapOfNames",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
