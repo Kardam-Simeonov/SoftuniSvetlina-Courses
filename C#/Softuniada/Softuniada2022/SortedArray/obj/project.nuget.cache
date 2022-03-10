@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o05AU44V/OP5xHsP9qIAW3BuXMhyNhsxOF8bat02PwNQw9MvyojX9K2KJgPHLDGBKTsWo5tLW1Bi+i+Tf6XE/g==",
+  "dgSpecHash": "oxUQCk1xHLxswbzpu4+mD8zqah88KG9JK7h9B8cxuw8HkFeBeVnIs3caSlZJQggAlAFKFFrvhNh80/GlzcoQxg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

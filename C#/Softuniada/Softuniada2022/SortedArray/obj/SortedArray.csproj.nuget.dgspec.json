@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
         "projectName": "SortedArray",
-        "projectPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
-        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SortedArray\\obj\\",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\SortedArray.csproj",
+        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SortedArray\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

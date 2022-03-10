@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTZRhNI+LduTNsfgAWX38u4tEUd6MlmQ9YoBkHyeZf7a9WkbYMNQIIyQQ5RqArk0bi1hb/Y9AGc0FIrwjXsM/Q==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Exercise\\EventsInGivenDateRange\\EventsInGivenDateRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

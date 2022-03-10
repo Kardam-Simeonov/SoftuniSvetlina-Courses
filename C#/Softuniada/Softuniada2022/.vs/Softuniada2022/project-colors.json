@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b6e5cd4-4fec-460a-9ee4-a97b85cb8412": {
+      "ProjectGuid": "5b6e5cd4-4fec-460a-9ee4-a97b85cb8412",
+      "DisplayName": "HappyThreeFriends",
+      "ColorIndex": 0
+    },
+    "90d08f96-c20b-4190-b9c6-691ec502fa2c": {
+      "ProjectGuid": "90d08f96-c20b-4190-b9c6-691ec502fa2c",
+      "DisplayName": "SortedArray",
+      "ColorIndex": 1
+    },
+    "ea0a4d57-9700-4801-b4c9-4fdfcf672596": {
+      "ProjectGuid": "ea0a4d57-9700-4801-b4c9-4fdfcf672596",
+      "DisplayName": "CoffeeCups",
+      "ColorIndex": 2
+    },
+    "d38a072c-e70d-4acd-ba52-049555dc52d4": {
+      "ProjectGuid": "d38a072c-e70d-4acd-ba52-049555dc52d4",
+      "DisplayName": "SpiralMatrix",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
