@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyMi/ia6wLuMQqXMzSfMYSpAEUHllL1c4yT0XCV3L/PsfSTOiQw8TOARoFqfzBxNmroKtpaQMwWi+vvvnNUzWQ==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Exercise\\WordsWithPrefix\\WordsWithPrefix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\rm.trie\\1.3.5\\rm.trie.1.3.5.nupkg.sha512",
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
