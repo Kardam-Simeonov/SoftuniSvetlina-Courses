@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\KARDAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\SpiralMatrix.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\SpiralMatrix.csproj",
       "projectName": "SpiralMatrix",
-      "projectPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\SpiralMatrix.csproj",
-      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\obj\\",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\SpiralMatrix.csproj",
+      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,6 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -113,3 +113,17 @@ FROM Reports
 INNER JOIN Categories ON Categories.ID = CategoryID
 GROUP BY Categories.Name
 ORDER BY ReportsNumber DESC, Categories.Name ASC;
+
+SELECT Username, Categories.Name 
+FROM Users
+INNER JOIN Reports ON Users.ID = Reports.UserID
+INNER JOIN Categories ON Reports.CategoryID = Categories.ID
+WHERE DATEPART(Day, Reports.OpenDate) = DATEPART(Day, Users.Birthdate)
+ORDER BY UserName ASC, Categories.Name ASC;
+
+SELECT CONCAT(FirstName , ' ' , Lastname) AS FullName, COUNT(USERS.ID) AS UsersCount
+FROM Employees
+LEFT JOIN Reports ON EmployeeID = Employees.ID
+LEFT JOIN Users ON UserID = Users.ID
+GROUP BY CONCAT(FirstName , ' ' , Lastname)
+ORDER BY UsersCount DESC, FullName ASC;
