@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7h3rV/Br9xB13eVjsNSpQ4H4SXOcAjUC8PXuYJKkMyjdiRtVYLuz19yA+hiVfX1Z/XKAeLh5b0PgLK5rU6QC8w==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Exercise\\EventsInGivenDateRange\\EventsInGivenDateRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

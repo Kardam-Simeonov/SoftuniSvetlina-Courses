@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddbe058d-a7cd-4325-99e7-d8d7234f25b7": {
+      "ProjectGuid": "ddbe058d-a7cd-4325-99e7-d8d7234f25b7",
+      "DisplayName": "EventsInGivenDateRange",
+      "ColorIndex": 0
+    },
+    "09423fcd-9024-4d1c-b19d-bbef3b2f9f40": {
+      "ProjectGuid": "09423fcd-9024-4d1c-b19d-bbef3b2f9f40",
+      "DisplayName": "WordsWithPrefix",
+      "ColorIndex": 1
+    },
+    "172eee69-9c78-49ed-8448-4f551e3d9c9a": {
+      "ProjectGuid": "172eee69-9c78-49ed-8448-4f551e3d9c9a",
+      "DisplayName": "Shopping-Center",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

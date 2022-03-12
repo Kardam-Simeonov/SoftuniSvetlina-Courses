@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMoYx9C8jhtBHw1SNbHmYCjBWs7IYs6nZttAiSey4ZwLbsh6AKyVTyqpjToo3ZUVm+Fer6vv6j9w/PCo4BLDXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Lab\\BagOfWords\\BagOfWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

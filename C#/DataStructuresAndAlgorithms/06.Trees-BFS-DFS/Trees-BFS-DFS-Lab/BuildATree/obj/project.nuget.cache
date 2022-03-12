@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5+e4jqJto7ySaWiEVeGELeLAGEsmGtQIPxPnOhj8Gg0fsO5UCkBXfLSSZmN6g1e990+ovoJkqfx9FAlsuobmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

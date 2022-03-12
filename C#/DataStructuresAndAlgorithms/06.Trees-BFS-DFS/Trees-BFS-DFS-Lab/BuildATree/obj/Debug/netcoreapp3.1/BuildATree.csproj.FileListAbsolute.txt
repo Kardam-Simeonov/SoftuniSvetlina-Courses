@@ -1,0 +1,16 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\BuildATree.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.csproj.CopyComplete
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\BuildATree\obj\Debug\netcoreapp3.1\BuildATree.genruntimeconfig.cache
