@@ -21,7 +21,7 @@ namespace WordsWithPrefix
             Console.WriteLine(string.Join(", ", trie.GetWords()));
             Console.WriteLine(string.Join(", ", trie.GetWords(prefix)));
             trie.RemovePrefix(prefix);
-            Console.WriteLine(string.Join(", ", trie.GetWords()));
+            Console.WriteLine(string.Join(", ", trie.GetWords()));           
         }
     }
 }

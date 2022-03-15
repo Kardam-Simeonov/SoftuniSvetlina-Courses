@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IthNODoN6rs4pn5AtZdcmQFgXziGVTx2et9Fi4e4qLazJy9kZgDchEhs2yWxLoZG06chi17ABD5t8TpljkLQKA==",
+  "dgSpecHash": "/DhiFHQ+V22KUuqPdUo2JMnv83N98wvLgetr1k2JAwlcRyJb5GooahXmkVsLcUGqPuLCxxiC1O33CXxoojrDTQ==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SpiralMatrix\\SpiralMatrix.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

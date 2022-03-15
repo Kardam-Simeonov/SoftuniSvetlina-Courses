@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+4X+rzxY744XXtsNBAofmJd/cEnwhnAVo0ORe4k+Ct+EH26VB552n6KiglMDe4Sj6q9gtHAP0/Melkxv1GmClw==",
+  "dgSpecHash": "N3y8kdOhgExvMjHdIA+1gCvLFL0abskedkZEg/yleTdOYkgf/jZx9p1RoZWvMqU+pSL9fEX2xy9hqebc0PN38A==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\SumOfGCCPandLCM\\SumOfGCCPandLCM.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

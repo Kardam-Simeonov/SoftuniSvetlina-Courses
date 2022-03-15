@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "617n+BE0HTJBTUzBVl+8/XcsZJyt0Qx1mQheLCtwwjjbW4eVie1S+2Tamw25SSquiCfQFugN4Msfgh+Y8UsrcQ==",
+  "dgSpecHash": "yGZle8I5WL764RSUXBFaHtCagyUiPKS4pX8tsBjVGfJHchBTOT9CednZZUlJ2Egcv7GBXqaNzaY5U5Q4OSSnow==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\CoffeeCups\\CoffeeCups.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

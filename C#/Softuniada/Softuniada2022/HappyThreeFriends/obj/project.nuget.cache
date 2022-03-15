@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F3XteDmFYzv2bLISRAU96iNY/vmY+IuRjBwmrQCEq3SelRRtaLfduB6G9BlMzbmUaKk2RLXjLnEypAWd+0Nb+Q==",
+  "dgSpecHash": "jqgEVAGLhlulTYR6OTUv8YF2TgdsFXW07g9vCxCOmbPByMtF9DZrdOfr+hdWBQWy3fMgOBqwnHgpegbPLIt6zQ==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\Softuniada\\Softuniada2022\\HappyThreeFriends\\HappyThreeFriends.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
