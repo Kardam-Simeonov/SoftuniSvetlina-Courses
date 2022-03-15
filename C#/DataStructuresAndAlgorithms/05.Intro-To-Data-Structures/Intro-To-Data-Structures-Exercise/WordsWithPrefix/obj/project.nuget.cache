@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SYrGnr4nbldwJlWqw5eFpc5C+zSVAaMId8+CutVo2dt8NDhoIIrDuq358Q2GVi+qsanApk2cSeUQrVEOSkuJA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Exercise\\WordsWithPrefix\\WordsWithPrefix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\rm.trie\\1.3.5\\rm.trie.1.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "63ja7CfAuoqrS07LlD+kCDepSE5ni/znzR7hIx4o444eaR8R4pWpCSgWY+Bop9Muo6yEFzawHjsPTRNKKN6/dw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\05.Intro_To_Data_Structures\\IntroToDataStructures-Exercise\\ShoppingCenter\\Shopping-Center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

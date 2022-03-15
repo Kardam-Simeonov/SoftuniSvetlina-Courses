@@ -1,0 +1,16 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Shopping-Center.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.csproj.CopyComplete
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\05.Intro_To_Data_Structures\IntroToDataStructures-Exercise\ShoppingCenter\obj\Debug\netcoreapp3.1\Shopping-Center.genruntimeconfig.cache
