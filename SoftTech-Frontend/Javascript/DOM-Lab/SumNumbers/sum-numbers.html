@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" id="num1" /> +
+    <input type="text" id="num2" /> =
+    <input type="text" id="sum" readonly="readonly" />
+    <input type="button" value="Calc" onclick="calc()" />
+    <script>
+        function calc() {
+            let firstNum = document.querySelector('#num1').value;
+            let secondNum = document.querySelector('#num2').value;
+
+            document.querySelector('#sum').value = Number(firstNum) + Number(secondNum);
+        }
+    </script>
+</body>
+
+</html>
