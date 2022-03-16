@@ -1,5 +1,7 @@
 ﻿using SimpleTreeNode;
 using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace BuildATree
 {
@@ -22,7 +24,7 @@ namespace BuildATree
                     new TreeNode<char>('G')
                     )
                 );
-          
+
             TreeNode<int> treeTwo = new TreeNode<int>(25,
                 new TreeNode<int>(20,
                     new TreeNode<int>(10,

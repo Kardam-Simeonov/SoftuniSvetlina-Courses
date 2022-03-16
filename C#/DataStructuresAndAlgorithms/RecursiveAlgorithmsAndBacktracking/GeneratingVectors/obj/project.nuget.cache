@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ljsSkyvb1armk+2rLpMIprD55IrYwrN0mpiEY0TzGuJynU+Th07FgrX3g82PGkvJuQsyu66WwqwGN6vQTvW5bA==",
+  "dgSpecHash": "paQhFKEq4XOGII7Ojyou/NOTuE7FLYgvQ6s/OWva5NS2FKaMDBvB2RnDe+rQmkeMe+QPoyyHvSseXLLQWkNRmA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\GeneratingVectors\\GeneratingVectors.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\GeneratingVectors\\GeneratingVectors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miyagi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }
