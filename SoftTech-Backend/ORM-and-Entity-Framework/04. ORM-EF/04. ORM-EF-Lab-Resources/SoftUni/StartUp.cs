@@ -72,7 +72,7 @@ namespace SoftUni
         public static string UpdateAddresses(SoftUniContext context)
         {
             var addresses = context.Addresses
-                .Where(x => x.AddressText == "Drive")
+                .Where(x => x.AddressText.Contains("Drive"))
                 .ToList();
 
             addresses.Select(x => x.TownId = 2);
