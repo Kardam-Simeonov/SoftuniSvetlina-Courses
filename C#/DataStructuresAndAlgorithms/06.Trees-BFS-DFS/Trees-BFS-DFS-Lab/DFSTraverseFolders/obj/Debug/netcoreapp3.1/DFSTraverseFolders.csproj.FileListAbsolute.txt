@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\bin\Debug\netcoreapp3.1\DFSTraverseFolders.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\DFSTraverseFolders\obj\Debug\netcoreapp3.1\DFSTraverseFolders.genruntimeconfig.cache

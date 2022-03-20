@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildATree", "BuildATree\BuildATree.csproj", "{54966F6B-DAD9-475E-8588-611CC99D6C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildATree", "BuildATree\BuildATree.csproj", "{54966F6B-DAD9-475E-8588-611CC99D6C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSTraverseFolders", "BFSTraverseFolders\BFSTraverseFolders.csproj", "{79FAF7B8-2110-4C62-B6F7-D2BB41D30117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFSTraverseFolders", "DFSTraverseFolders\DFSTraverseFolders.csproj", "{52B49BBA-10AC-4DF1-B059-AFB9C9A66FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFSTraverseFoldersAndFiles", "DFSTraverseFoldersAndFiles\DFSTraverseFoldersAndFiles.csproj", "{B39991DF-DA1C-4485-AD99-7FFCCABFAC0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{54966F6B-DAD9-475E-8588-611CC99D6C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54966F6B-DAD9-475E-8588-611CC99D6C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54966F6B-DAD9-475E-8588-611CC99D6C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FAF7B8-2110-4C62-B6F7-D2BB41D30117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FAF7B8-2110-4C62-B6F7-D2BB41D30117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FAF7B8-2110-4C62-B6F7-D2BB41D30117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FAF7B8-2110-4C62-B6F7-D2BB41D30117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B49BBA-10AC-4DF1-B059-AFB9C9A66FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B49BBA-10AC-4DF1-B059-AFB9C9A66FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B49BBA-10AC-4DF1-B059-AFB9C9A66FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B49BBA-10AC-4DF1-B059-AFB9C9A66FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39991DF-DA1C-4485-AD99-7FFCCABFAC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39991DF-DA1C-4485-AD99-7FFCCABFAC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39991DF-DA1C-4485-AD99-7FFCCABFAC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39991DF-DA1C-4485-AD99-7FFCCABFAC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

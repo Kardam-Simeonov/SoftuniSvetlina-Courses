@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\bin\Debug\netcoreapp3.1\Nearest-Exit.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\06.Trees-BFS-DFS-Exercises-Skeleton\Nearest-Exit\obj\Debug\netcoreapp3.1\Nearest-Exit.genruntimeconfig.cache
