@@ -1,0 +1,13 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\06.Mini-Exam-Entity-Framework-Skeleton\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
