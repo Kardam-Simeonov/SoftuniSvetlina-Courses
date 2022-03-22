@@ -13,7 +13,7 @@
         {
             using BookShopContext db = new BookShopContext();
 
-            Console.WriteLine(GetBooksFullInformation(db));
+            Console.WriteLine(ChangeDescription(db, 1));
         }
 
         //In the project “BookShop.Data” click on “Configuration.cs” 
@@ -30,7 +30,7 @@
 
             foreach (var book in books.OrderBy(x => x.BookId))
             {
-                sb.AppendLine($"ID:{book.BookId} Title:{book.Title} Description:{book.Description} Price:{book.Price} Author:{book.Author.FirstName} {book.Author.LastName}");
+                sb.AppendLine($"ID:{book.BookId} Title:{book.Title} Description:{book.Description} Price:{book.Price:f2} Author:{book.Author.FirstName} {book.Author.LastName}");
             }
 
             return sb.ToString().Trim();
@@ -41,7 +41,13 @@
         {
             var sb = new StringBuilder();
 
-            //ToDo...
+            var books = context.Books
+                .Where(x => x.Price > 25);
+
+            foreach (var book in books.OrderByDescending(x => x.Price))
+            {
+                sb.AppendLine($"{book.Title} - {book.Price}");
+            }
 
             return sb.ToString().TrimEnd();
         }
@@ -52,7 +58,13 @@
 
             var sb = new StringBuilder();
 
-            //ToDo...
+            var books = context.Books
+                .Include(x => x.Author);
+
+            foreach (var book in books.Where(x => x.Author.LastName.StartsWith(input)))
+            {
+                sb.AppendLine($"{book.Title} ({book.Author.FirstName} {book.Author.LastName})");
+            }
 
             return sb.ToString().TrimEnd();
         }
@@ -62,8 +74,14 @@
         {
             StringBuilder sb = new StringBuilder();
 
-            //ToDo...
+            var books = context.Books.Include(x => x.Author).ToList();
 
+            books.Find(x => x.BookId == 2).Description = "The description was changed";
+
+            foreach (var item in books)
+            {
+                sb.AppendLine($"ID:{item.BookId} Title:{item.Title} Description:{item.Description} Price:{item.Price} Author:{item.Author.FirstName} {item.Author.LastName}");
+            }
             return sb.ToString().Trim();
         }
 

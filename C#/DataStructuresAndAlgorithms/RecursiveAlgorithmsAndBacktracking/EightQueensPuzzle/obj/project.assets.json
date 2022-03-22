@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Miyagi\\.nuget\\packages\\": {}
+    "C:\\Users\\KARDAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
       "projectName": "EightQueensPuzzle",
-      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
-      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\obj\\",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
+      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

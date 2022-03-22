@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RncuD2nSIG9yWJ7LcJP7uCJiMvAFXznSCz8dA1odwN8IKVFX6zOiwkZG6pP0i495X8hPjGjsY65hBH71gJz88Q==",
+  "dgSpecHash": "aR96sfybcOBOBixeTmftZZgID9fjNXpsfWGVSt2K3UbR5uUrMU6unXl6lYNXucy7Hqb4qplz/ZYv2cz1HAqjiQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\GeneratingCombinations\\GeneratingCombinations.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Miyagi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\GeneratingCombinations\\GeneratingCombinations.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
