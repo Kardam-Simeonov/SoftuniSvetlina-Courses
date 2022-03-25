@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkpAcjJBi30M7NPahpi6j4VtHbJdLi7pJOdN45+4nfZCfGL4DyAqoXF6TBDdkiBaImydbgn6k4U+rzATmkO8hg==",
+  "dgSpecHash": "0Rq4Dxn18odT2QEUx1s4/6joyvbBb4IhBuXrHGgsiO9g3Jan0anFcTwQsL71vH87jlEfQH7sPeLP/1dqw+kEcA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\DsAndAlgoBasics\\Recursion\\RecursiveArraySum\\RecursiveArraySum.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Recursion\\RecursiveArraySum\\RecursiveArraySum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

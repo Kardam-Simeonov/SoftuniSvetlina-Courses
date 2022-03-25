@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sl/+kEvfRcBnKe5DdrtJ3KQj/1JFF7gb/4JYZWghlmybOht0wF/RN/4oRbwWLsVvVHxkra/UldKmms2bkqueyA==",
+  "dgSpecHash": "Pe2mtVhAVunVEL0vx3SMbcNodzWH84UjxJAiMONht9K0NpheofGRrKYGiNJF2N63aGHVnm5+5sKZ3tbIjCuJTA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\DsAndAlgoBasics\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
