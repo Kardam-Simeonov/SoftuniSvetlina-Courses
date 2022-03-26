@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Miyagi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Miyagi\\.nuget\\packages"
+    ]
+  }
+}
