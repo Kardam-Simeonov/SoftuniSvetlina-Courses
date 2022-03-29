@@ -1,0 +1,13 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\bin\Debug\netcoreapp3.1\TraverseGraphWithDFS.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Lab\TraverseGraphWithDFS\obj\Debug\netcoreapp3.1\TraverseGraphWithDFS.genruntimeconfig.cache
