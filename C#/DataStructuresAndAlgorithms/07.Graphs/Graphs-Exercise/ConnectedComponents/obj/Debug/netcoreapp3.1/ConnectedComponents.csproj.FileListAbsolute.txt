@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\bin\Debug\netcoreapp3.1\ConnectedComponents.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedComponents\obj\Debug\netcoreapp3.1\ConnectedComponents.genruntimeconfig.cache
