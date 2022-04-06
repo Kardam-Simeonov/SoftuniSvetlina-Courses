@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\bin\Debug\netcoreapp3.1\CyclesInAGraph.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\CyclesInAGraph\obj\Debug\netcoreapp3.1\CyclesInAGraph.genruntimeconfig.cache
