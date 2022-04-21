@@ -56,12 +56,17 @@ namespace ParkingSystem.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Registration,RegisteredTime")] Car car)
         {
-            if (ModelState.IsValid)
+            if (car.RegisteredTime <= new TimeSpan(10, 0, 0))
             {
-                _context.Add(car);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+
+                if (ModelState.IsValid)
+                {
+                    _context.Add(car);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
             }
+
             return View(car);
         }
 
@@ -97,8 +102,11 @@ namespace ParkingSystem.Controllers
             {
                 try
                 {
-                    _context.Update(car);
-                    await _context.SaveChangesAsync();
+                    if (car.RegisteredTime <= new TimeSpan(10, 0, 0))
+                    {
+                        _context.Update(car);
+                        await _context.SaveChangesAsync();
+                    }
                 }
                 catch (DbUpdateConcurrencyException)
                 {

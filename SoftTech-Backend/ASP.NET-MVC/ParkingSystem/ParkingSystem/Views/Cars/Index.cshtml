@@ -1,15 +1,17 @@
-﻿@model IEnumerable<ParkingSystem.Models.Car>
+﻿@using System.Diagnostics
+@model IEnumerable<ParkingSystem.Models.Car>
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Cars in Parking</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
 <table class="table">
     <thead>
         <tr>
@@ -34,3 +36,20 @@
 }
     </tbody>
 </table>
+
+
+
+@{
+    if (Model.ToArray().Length > 0)
+    {
+            Stopwatch timer = Stopwatch.StartNew();
+
+            await Task.Delay((TimeSpan)Model.First().RegisteredTime).ContinueWith(t=> Alert());
+    }
+}
+
+@functions{
+    public void Alert(){
+        <script>alert("Less than 5 minutes parking time left!");</script>
+    }
+}
