@@ -28,25 +28,18 @@
                 @Html.DisplayFor(modelItem => item.RegisteredTime)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Registration">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Registration">Details</a> |
+                <a asp-action="Details" asp-route-id="@item.Registration">Details</a>
                 <a asp-action="Delete" asp-route-id="@item.Registration">Delete</a>
+                @if(item.RegisteredTime - DateTime.Now.TimeOfDay <= new TimeSpan(0, 5, 0))
+                {
+                    <p>Less than 5 minutes remaining!</p>
+                }
             </td>
         </tr>
 }
     </tbody>
 </table>
 
-
-
-@{
-    if (Model.ToArray().Length > 0)
-    {
-            Stopwatch timer = Stopwatch.StartNew();
-
-            await Task.Delay((TimeSpan)Model.First().RegisteredTime).ContinueWith(t=> Alert());
-    }
-}
 
 @functions{
     public void Alert(){
