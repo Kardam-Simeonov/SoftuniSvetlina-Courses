@@ -12,17 +12,14 @@
    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
    crossorigin=""></script>
 
-<h1>Index</h1>
+<h1>Vending Machine Map</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
     <thead>
-        <tr
-        <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>>
+        <tr>
             <th>
                 @Html.DisplayNameFor(model => model.DateOfPlacement)
             </th>
@@ -63,5 +60,24 @@
     </tbody>
 </table>
 
- <div id="map"></div>
+ <div id="map" style="height: 500px;"></div>
+
+ <script>
+     var map = L.map('map').setView([51.505, -0.09], 13);
+
+     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright%22%3EOpenStreetMap</a> contributors'
+    }).addTo(map);
+
+ </script>
+
+@{
+    foreach (var item in Model)
+    {
+        <script>
+            var marker = L.marker([@double.Parse(item.Latitude), @double.Parse(item.Logitude)]).addTo(map);
+            marker.bindPopup("<b>@item.Type machine</b><br>Date of placement: @item.DateOfPlacement").openPopup();
+        </script>
+    }
+}
 
