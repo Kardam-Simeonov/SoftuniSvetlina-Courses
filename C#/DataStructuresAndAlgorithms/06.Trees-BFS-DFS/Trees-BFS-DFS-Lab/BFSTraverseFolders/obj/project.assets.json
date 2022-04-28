@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Miyagi\\.nuget\\packages\\": {}
+    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
       "projectName": "BFSTraverseFolders",
-      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
-      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\obj\\",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
+      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

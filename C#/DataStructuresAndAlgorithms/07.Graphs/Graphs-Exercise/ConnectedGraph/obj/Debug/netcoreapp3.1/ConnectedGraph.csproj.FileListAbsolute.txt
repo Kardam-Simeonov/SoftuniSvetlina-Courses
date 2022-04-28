@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\bin\Debug\netcoreapp3.1\ConnectedGraph.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ConnectedGraph\obj\Debug\netcoreapp3.1\ConnectedGraph.genruntimeconfig.cache

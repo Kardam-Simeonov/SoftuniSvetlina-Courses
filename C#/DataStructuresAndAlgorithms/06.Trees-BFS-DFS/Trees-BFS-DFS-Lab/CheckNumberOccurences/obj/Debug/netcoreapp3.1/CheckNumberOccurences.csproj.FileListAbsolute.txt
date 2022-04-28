@@ -1,0 +1,16 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\CheckNumberOccurences.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.csproj.CopyComplete
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\06.Trees-BFS-DFS\Trees-BFS-DFS-Lab\CheckNumberOccurences\obj\Debug\netcoreapp3.1\CheckNumberOccurences.genruntimeconfig.cache

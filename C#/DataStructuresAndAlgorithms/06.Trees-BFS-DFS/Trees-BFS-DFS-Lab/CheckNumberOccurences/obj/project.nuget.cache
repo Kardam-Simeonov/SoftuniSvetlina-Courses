@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fy8Ald895MHhpgegr/tjq6EtqP493aDb2NPXu/N7R7nDIQ8mJltzbIBNaL2FQA2OHAXCmPMLdBDcgY/urOYXfA==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\CheckNumberOccurences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

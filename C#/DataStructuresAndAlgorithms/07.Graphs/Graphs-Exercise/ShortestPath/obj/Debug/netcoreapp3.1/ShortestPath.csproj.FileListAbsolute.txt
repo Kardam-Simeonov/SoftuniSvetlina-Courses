@@ -12,3 +12,17 @@ D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.dll
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.pdb
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\bin\Debug\netcoreapp3.1\ShortestPath.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\07.Graphs\Graphs-Exercise\ShortestPath\obj\Debug\netcoreapp3.1\ShortestPath.genruntimeconfig.cache

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
         "projectName": "ShortestPath",
-        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
-        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\obj\\",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
+        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
