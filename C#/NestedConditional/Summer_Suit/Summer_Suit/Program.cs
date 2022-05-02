@@ -6,15 +6,15 @@ namespace Summer_Outfit
     {
         static void Main(string[] args)
         {
-            int C = int.Parse(Console.ReadLine());
-            string vreme = Console.ReadLine();
+            int temperature = int.Parse(Console.ReadLine());
+            string weather = Console.ReadLine();
 
             string a = "a";
             string b = "a";
 
-            if (C <= 18)
+            if (temperature <= 18)
             {
-                switch (vreme)
+                switch (weather)
                 {
                     case "Morning":
                         a = "Sweatshirt";
@@ -30,9 +30,9 @@ namespace Summer_Outfit
                         break;
                 }
             }
-            else if (18 <= C && C <= 24)
+            else if (18 <= temperature && temperature <= 24)
             {
-                switch (vreme)
+                switch (weather)
                 {
                     case "Morning":
                         a = "Shirt";
@@ -48,9 +48,9 @@ namespace Summer_Outfit
                         break;
                 }
             }
-            else if (C >= 25)
+            else if (temperature >= 25)
             {
-                switch (vreme)
+                switch (weather)
                 {
                     case "Morning":
                         a = "T-Shirt";
@@ -67,7 +67,7 @@ namespace Summer_Outfit
                 }
 
             }
-            Console.WriteLine($"It's {C} degrees, get your {a} and {b}.");
+            Console.WriteLine($"It's {temperature} degrees, get your {a} and {b}.");
 
         }
     }

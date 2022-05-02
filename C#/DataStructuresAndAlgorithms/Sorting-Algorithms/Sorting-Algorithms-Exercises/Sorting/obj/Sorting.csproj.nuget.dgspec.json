@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj": {}
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Sorting-Algorithms-Exercises\\Sorting\\Sorting.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj": {
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Sorting-Algorithms-Exercises\\Sorting\\Sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj",
-        "projectName": "Summer_Suit",
-        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Sorting-Algorithms-Exercises\\Sorting\\Sorting.csproj",
+        "projectName": "Sorting",
+        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Sorting-Algorithms-Exercises\\Sorting\\Sorting.csproj",
         "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\obj\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Sorting-Algorithms-Exercises\\Sorting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

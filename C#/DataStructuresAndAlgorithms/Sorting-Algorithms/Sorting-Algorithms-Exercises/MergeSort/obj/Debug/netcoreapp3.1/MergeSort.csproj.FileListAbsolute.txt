@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache
