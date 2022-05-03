@@ -1,18 +1,12 @@
 ﻿using System;
-using System.Linq;
 
-namespace MergeSort
+namespace InversionCount
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            int[] arr = Console.ReadLine()
-                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                .Select(int.Parse)
-                .ToArray();
-
-            Console.WriteLine(String.Join(" ", MergeSort.Sort(arr)));
+            Console.WriteLine("Hello World!");
         }
     }
 
