@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace InversionCount
 {
@@ -6,81 +7,97 @@ namespace InversionCount
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            Console.WriteLine(MergeSort.mergeSort(arr, arr.Length));
         }
     }
 
+    // The following is code copied from GeeksForGeeks
+    // It will be long studied due to it being written in broken english
+    // May the gods help me on my Geography Test
+
     public static class MergeSort
     {
-        private static int[] auxArr;
-        public static int[] Sort(int[] arr)
+        public static int mergeSort(int[] arr, int array_size)
         {
-            auxArr = new int[arr.Length];
-            Sort(arr, 0, arr.Length - 1);
-
-            return arr;
-        }
-        
-        private static void Sort(int[] arr, int leftIndex, int rightIndex)
-        {
-            // If there is only one element in the subarray,
-            // it is already sorted
-            if (leftIndex >= rightIndex)
-                return;
-
-            // If not, split it into two subarrays,
-            // sort them recursively 
-            int midIndex = (leftIndex + rightIndex) / 2;
-            Sort(arr, leftIndex, midIndex);
-            Sort(arr, midIndex + 1, rightIndex);
-
-            // Merge them as a post action
-            Merge(arr, leftIndex, midIndex, rightIndex);
+            int[] temp = new int[array_size];
+            return _mergeSort(arr, temp, 0, array_size - 1);
         }
 
-        private static void Merge(int[] arr, int leftIndex, int midIndex, int rightIndex)
+        /* An auxiliary recursive method that sorts the input
+          array and returns the number of inversions in the
+          array. */
+        static int _mergeSort(int[] arr, int[] temp, int left,
+                              int right)
         {
-            // If the largest element in the left is smaller than the smallest in the right, 
-            // the two subarrays are already merged
-            if (arr[midIndex]< arr[midIndex + 1])
-                return;
-            
-
-            // If no, transfer all elements to the auxillary array,
-            // then merge them back to the main array
-
-            for (int index = leftIndex; index < rightIndex + 1; index++)
+            int mid, inv_count = 0;
+            if (right > left)
             {
-                auxArr[index] = arr[index];
+                /* Divide the array into two parts and call
+               _mergeSortAndCountInv() for each of the parts */
+                mid = (right + left) / 2;
+
+                /* Inversion count will be the sum of inversions
+              in left-part, right-part
+              and number of inversions in merging */
+                inv_count += _mergeSort(arr, temp, left, mid);
+                inv_count
+                    += _mergeSort(arr, temp, mid + 1, right);
+
+                /*Merge the two parts*/
+                inv_count
+                    += merge(arr, temp, left, mid + 1, right);
             }
+            return inv_count;
+        }
 
-            // NOTE: The following pointers are incremented each time they get used
-            // i - left pointer for the auxillary array
-            // j - right pointer for the auxillary array
-            int i = leftIndex;
-            int j = midIndex + 1;
+        /* This method merges two sorted arrays and returns
+           inversion count in the arrays.*/
+        static int merge(int[] arr, int[] temp, int left,
+                         int mid, int right)
+        {
+            int i, j, k;
+            int inv_count = 0;
 
-            for (int currIndex = leftIndex; currIndex <= rightIndex; currIndex++)
+            i = left; /* i is index for left subarray*/
+            j = mid; /* j is index for right subarray*/
+            k = left; /* k is index for resultant merged
+                     subarray*/
+            while ((i <= mid - 1) && (j <= right))
             {
-                // In case the left partition has been exhausted,
-                // copy the element from the right array
-                if (i > midIndex)
-                    arr[currIndex] = auxArr[j++];
-
-                // In case the right partition has been exhausted,
-                // copy the element from the left array
-                else if (j > rightIndex)
-                    arr[currIndex] = auxArr[i++];
-
-                // If the left element is less than the right,
-                // copy the element from the left array;
-                else if (auxArr[i] < auxArr[j])
-                    arr[currIndex] = auxArr[i++];
-
-                // Else the element from the right array is smaller
+                if (arr[i] <= arr[j])
+                {
+                    temp[k++] = arr[i++];
+                }
                 else
-                    arr[currIndex] = auxArr[j++];
+                {
+                    temp[k++] = arr[j++];
+
+                    /*this is tricky -- see above
+                     * explanation/diagram for merge()*/
+                    inv_count = inv_count + (mid - i);
+                }
             }
+
+            /* Copy the remaining elements of left subarray
+           (if there are any) to temp*/
+            while (i <= mid - 1)
+                temp[k++] = arr[i++];
+
+            /* Copy the remaining elements of right subarray
+           (if there are any) to temp*/
+            while (j <= right)
+                temp[k++] = arr[j++];
+
+            /*Copy back the merged elements to original array*/
+            for (i = left; i <= right; i++)
+                arr[i] = temp[i];
+
+            return inv_count;
         }
     }
 }
