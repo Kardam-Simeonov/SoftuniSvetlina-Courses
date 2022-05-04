@@ -31,7 +31,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+@foreach (var item in Model.OrderBy(x => x.Class)) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
@@ -63,7 +63,7 @@ const ctx = document.getElementById('myChart').getContext('2d');
 const myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: @Html.Raw(Json.Serialize(Model.GroupBy(x => x.Class).Select(x => x.Key).ToArray())),
+        labels: @Html.Raw(Json.Serialize(Model.GroupBy(x => x.Class).Select(x => x.Key.ToString()).ToArray())),
         datasets: [{
             label: 'Average grade per class',
             data: @Html.Raw(Json.Serialize(Model.GroupBy(x => x.Class).Select(x => x.Average(y => y.StudentGrade)))),
