@@ -55,16 +55,18 @@
     </tbody>
 </table>
 
+<h3>Average Grade Statistics</h3>
+
 <canvas id="myChart" width="400" height="100"></canvas>
 <script>
 const ctx = document.getElementById('myChart').getContext('2d');
 const myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: [@Model.Select(x => x.Class.ToString()).ToList()],
+        labels: @Html.Raw(Json.Serialize(Model.GroupBy(x => x.Class).Select(x => x.Key).ToArray())),
         datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
+            label: 'Average grade per class',
+            data: @Html.Raw(Json.Serialize(Model.GroupBy(x => x.Class).Select(x => x.Average(y => y.StudentGrade)))),
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
