@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj",
         "projectName": "BuildATree",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\BuildATree.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\obj\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BuildATree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
         "projectName": "BFSTraverseFolders",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\BFSTraverseFolders.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\obj\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\BFSTraverseFolders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\DFSTraverseFoldersAndFiles.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\DFSTraverseFoldersAndFiles.csproj",
       "projectName": "DFSTraverseFoldersAndFiles",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\DFSTraverseFoldersAndFiles.csproj",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\DFSTraverseFoldersAndFiles.csproj",
       "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\obj\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFoldersAndFiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

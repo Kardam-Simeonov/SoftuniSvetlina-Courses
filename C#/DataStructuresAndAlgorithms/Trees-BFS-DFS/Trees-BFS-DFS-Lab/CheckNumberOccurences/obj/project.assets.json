@@ -42,11 +42,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\CheckNumberOccurences.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\CheckNumberOccurences.csproj",
       "projectName": "CheckNumberOccurences",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\CheckNumberOccurences.csproj",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\CheckNumberOccurences.csproj",
       "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\obj\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\CheckNumberOccurences\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

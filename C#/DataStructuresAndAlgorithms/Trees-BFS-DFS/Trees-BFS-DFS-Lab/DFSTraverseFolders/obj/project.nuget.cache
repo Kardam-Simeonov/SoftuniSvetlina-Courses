@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IphZ2WBmuqNL7bKXVf70WhJYLCOOeqg7DqGI/C1+iwMjqUL5CX5mIOJqvCrhm5ZemKn//oYO3rH8CuG+KKMKvw==",
+  "dgSpecHash": "eaG69eX+bMU86OHpc0ZEYSC6buO3hwWT3BEMvcyX+guumayh4rsEBNjvSJ+95eZrA3Igx5/zpOaitQ3AcI0ESw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\06.Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFolders\\DFSTraverseFolders.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Trees-BFS-DFS\\Trees-BFS-DFS-Lab\\DFSTraverseFolders\\DFSTraverseFolders.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
