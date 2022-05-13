@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\bin\Debug\netcoreapp3.1\ShuffleWords.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\ShuffleWords\obj\Debug\netcoreapp3.1\ShuffleWords.genruntimeconfig.cache

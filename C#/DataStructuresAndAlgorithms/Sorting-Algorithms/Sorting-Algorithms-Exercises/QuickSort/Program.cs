@@ -30,7 +30,7 @@ namespace QuickSort
             if (leftIndex >= rightIndex)
                 return;
 
-            int pivot = Partition(arr, leftIndex, rightIndex);
+            int pivot = AlternatePartition(arr, leftIndex, rightIndex);
             Sort(arr, leftIndex, pivot - 1);
             Sort(arr, pivot + 1, rightIndex);
         }
@@ -62,6 +62,27 @@ namespace QuickSort
             Swap(ref arr, leftIndex, j);
 
             return j;
+        }
+       
+        private static int AlternatePartition(int[] arr, int leftIndex, int rightIndex)
+        {
+            if (leftIndex >= rightIndex)
+                return leftIndex;
+
+            int storeIndex = leftIndex + 1;
+
+            for (int i = leftIndex + 1; i < rightIndex; i++)
+            {
+                if (arr[i] < arr[leftIndex])
+                {
+                    Swap(ref arr, i, storeIndex);
+                    ++storeIndex;
+                }
+            }
+
+            Swap(ref arr, leftIndex, storeIndex - 1);
+
+            return storeIndex - 1;
         }
 
         static void Swap(ref int[] arr, int toSwap, int swapWith)

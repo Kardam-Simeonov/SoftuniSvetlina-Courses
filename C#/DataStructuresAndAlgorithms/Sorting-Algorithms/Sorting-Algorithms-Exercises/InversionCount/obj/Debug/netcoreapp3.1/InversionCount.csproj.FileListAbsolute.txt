@@ -12,3 +12,17 @@ D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-A
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.dll
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.pdb
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.genruntimeconfig.cache
