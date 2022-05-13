@@ -12,3 +12,17 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algori
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Sorting-Algorithms-Exercises\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache

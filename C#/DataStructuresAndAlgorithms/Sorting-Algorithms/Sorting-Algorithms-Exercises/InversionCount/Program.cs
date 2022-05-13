@@ -16,7 +16,7 @@ namespace InversionCount
         }
     }
 
-    // The following is code copied from GeeksForGeeks
+    // The following is code from GeeksForGeeks
     // It will be long studied due to it being written in broken english
     // May the gods help me on my Geography Test
 

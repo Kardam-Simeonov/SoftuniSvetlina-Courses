@@ -71,7 +71,7 @@ namespace QuickSort
 
             int storeIndex = leftIndex + 1;
 
-            for (int i = leftIndex + 1; i < rightIndex; i++)
+            for (int i = leftIndex + 1; i <= rightIndex; i++)
             {
                 if (arr[i] < arr[leftIndex])
                 {

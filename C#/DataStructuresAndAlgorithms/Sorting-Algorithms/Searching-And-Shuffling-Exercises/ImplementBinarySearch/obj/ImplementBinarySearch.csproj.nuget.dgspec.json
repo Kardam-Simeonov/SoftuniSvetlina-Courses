@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj": {}
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj": {
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj",
         "projectName": "ImplementBinarySearch",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj",
-        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\obj\\",
+        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\ImplementBinarySearch.csproj",
+        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ImplementBinarySearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

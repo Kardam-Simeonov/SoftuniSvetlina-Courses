@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\ShuffleWords.csproj",
+      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\ShuffleWords.csproj",
       "projectName": "ShuffleWords",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\ShuffleWords.csproj",
-      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\obj\\",
+      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\ShuffleWords.csproj",
+      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Sorting-Algorithms\\Searching-And-Shuffling-Exercises\\ShuffleWords\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

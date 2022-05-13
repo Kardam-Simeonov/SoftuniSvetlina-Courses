@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\bin\Debug\netcoreapp3.1\Needles.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Sorting-Algorithms\Searching-And-Shuffling-Exercises\Needles\obj\Debug\netcoreapp3.1\Needles.genruntimeconfig.cache
