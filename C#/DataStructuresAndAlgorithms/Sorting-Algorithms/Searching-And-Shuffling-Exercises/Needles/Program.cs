@@ -8,7 +8,7 @@ namespace Needles
     {
         public static void Main()
         {
-            int[] lenght = Console.ReadLine()
+            int[] length = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
                 .ToArray();
@@ -23,9 +23,9 @@ namespace Needles
                 .Select(int.Parse)
                 .ToArray();
 
-            int previous = numbers[lenght[0] - 1];
+            int previous = numbers[length[0] - 1];
 
-            for (int i = lenght[0] - 1; i >= 0; i--)
+            for (int i = length[0] - 1; i >= 0; i--)
             {
                 if (numbers[i] == 0)
                 {
@@ -36,7 +36,7 @@ namespace Needles
 
             List<int> result = new List<int>();
 
-            for (int i = 0; i < lenght[1]; i++)
+            for (int i = 0; i < length[1]; i++)
             {
                 bool isIndex = false;
                 for (int j = 0; j < numbers.Count; j++)
@@ -66,6 +66,8 @@ namespace Needles
             Console.WriteLine(string.Join(" ", result));
         }
     }
+
+
     /*
     internal class Program
     {
