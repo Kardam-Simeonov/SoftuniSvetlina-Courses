@@ -66,6 +66,13 @@ namespace QuickSort
        
         private static int AlternatePartition(int[] arr, int leftIndex, int rightIndex)
         {
+            // The AlternatePartition scans the elements infront of the pivot,
+            // swapping positions with the storeIndex if the element if it's smaller
+            // than the storeIndex
+            //
+            // In the end the numbers from the pivot to the storeIndex are smaller than the pivot,
+            // thus the pivot is swapped with the storeIndex - 1
+
             if (leftIndex >= rightIndex)
                 return leftIndex;
 

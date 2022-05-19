@@ -12,3 +12,17 @@ D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithm
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.dll
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.pdb
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\bin\Debug\netcoreapp3.1\GeneratingVectors.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingVectors\obj\Debug\netcoreapp3.1\GeneratingVectors.genruntimeconfig.cache

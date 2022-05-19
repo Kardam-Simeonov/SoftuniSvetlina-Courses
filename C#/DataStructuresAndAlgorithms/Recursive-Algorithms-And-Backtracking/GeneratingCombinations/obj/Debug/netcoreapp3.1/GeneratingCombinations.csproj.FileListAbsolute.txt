@@ -26,3 +26,17 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgor
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\bin\Debug\netcoreapp3.1\GeneratingCombinations.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\GeneratingCombinations\obj\Debug\netcoreapp3.1\GeneratingCombinations.genruntimeconfig.cache

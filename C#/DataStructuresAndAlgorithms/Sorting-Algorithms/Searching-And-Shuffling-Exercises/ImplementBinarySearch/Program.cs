@@ -15,6 +15,12 @@ namespace BinarySearch
     }
     public class BinarySearch
     {
+        // BinarySearch searches for the index of an element,
+        // in an ascending sorted collection
+        //
+        // The algorithm find the midIndex and depending on 
+        // if the element is smaller than midIndex,
+        // midIndex is incremented or decremented
         public static int IndexOf(int[] arr, int key)
         {
             int leftIndex = 0;

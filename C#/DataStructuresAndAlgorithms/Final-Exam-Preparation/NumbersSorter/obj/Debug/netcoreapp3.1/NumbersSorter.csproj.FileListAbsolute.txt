@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\bin\Debug\netcoreapp3.1\NumbersSorter.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\NumbersSorter\obj\Debug\netcoreapp3.1\NumbersSorter.genruntimeconfig.cache

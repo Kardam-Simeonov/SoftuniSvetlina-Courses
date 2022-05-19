@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7OywF4KK7OErCY1Puy+K6wz1Y+6V4Twu2ciuvWzD4X4msW3IgyH6q6ze6Eg1IufB8Labupos8+u107EsdY9aNw==",
+  "dgSpecHash": "ryUqSiT/4AIRmsmUAo9x7tpKu8kwVPHJlzPkDCWByre4IzjdNK+COGKlRjvZ+2ayScUCAfeuvv7tTc/SAeqOrQ==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\RecursiveAlgorithmsAndBacktracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Recursive-Algorithms-And-Backtracking\\EightQueensPuzzle\\EightQueensPuzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
   "logs": []
 }
