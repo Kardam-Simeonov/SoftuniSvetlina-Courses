@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bjKPLoYa4pwjkRuFtfO4dQRTaG5bfUMYXZ9GgO3s2Xct8uYh90YorsMkGWlZdNEFVt9eziQ3e1v3ytPuKnHi9Q==",
+  "dgSpecHash": "eloYr44kNheT1YxX/BUVjuivIcTyCP5875lUyzQ/aVQhMKrtCSNKHV9nyLEtl76TkiUfXCOha867tMwgeNw/Lw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\NumbersSorter\\NumbersSorter.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\NumbersSorter\\NumbersSorter.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
