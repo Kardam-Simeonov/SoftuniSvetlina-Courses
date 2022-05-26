@@ -9710,23 +9710,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\Grades.csproj",
+      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\Grades.csproj",
       "projectName": "Grades",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\Grades.csproj",
-      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\obj\\",
+      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\Grades.csproj",
+      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\Grades\\Grades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9793,7 +9793,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

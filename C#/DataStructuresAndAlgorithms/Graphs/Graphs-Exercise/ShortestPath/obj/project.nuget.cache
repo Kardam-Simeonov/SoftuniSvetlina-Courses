@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CdBdgXf2yqtDZ2s5gdBuQj10Nlhk6isWl0YRTIvvDX7iwPb2bsAR+3rNKnxI0n+wDUUVhseydUkP1Eh/PKWIDQ==",
+  "dgSpecHash": "ytUWKrefd5Y4PzHu6+N3oAufTGGvb40VuS46KVXAVtg6YRhqOfvyzhHXDu3M3+szIcqEglqGdA0Nv+zSQRTQ7A==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
