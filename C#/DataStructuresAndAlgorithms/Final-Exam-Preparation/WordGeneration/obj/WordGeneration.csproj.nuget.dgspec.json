@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj": {}
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj": {
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj",
         "projectName": "WordGeneration",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj",
-        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\obj\\",
+        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj",
+        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
