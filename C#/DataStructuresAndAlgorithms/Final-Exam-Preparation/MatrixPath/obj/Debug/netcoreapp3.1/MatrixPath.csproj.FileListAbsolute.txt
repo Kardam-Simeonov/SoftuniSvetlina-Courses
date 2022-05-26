@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\bin\Debug\netcoreapp3.1\MatrixPath.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam-Preparation\MatrixPath\obj\Debug\netcoreapp3.1\MatrixPath.genruntimeconfig.cache

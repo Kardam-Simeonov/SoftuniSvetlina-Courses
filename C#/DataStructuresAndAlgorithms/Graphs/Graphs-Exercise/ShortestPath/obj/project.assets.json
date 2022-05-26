@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
       "projectName": "ShortestPath",
       "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
       "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\obj\\",
+=======
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
+      "projectName": "ShortestPath",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\ShortestPath.csproj",
+      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ShortestPath\\obj\\",
+>>>>>>> 30d85b1b4b5c17746d0a2d264f0edb7cdf410644
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +72,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> 30d85b1b4b5c17746d0a2d264f0edb7cdf410644
       }
     }
   }
