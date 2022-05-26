@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGejFT6kmjWUkeDeR5S/38z/x+tfeNjfIuIAOBvrmf7EjuP09J7mqi6WxOzcUWcH4V/9yOd/7Y/q96dbZKtXKQ==",
+  "dgSpecHash": "G2aN1X9DqWX+9Wci3wkXHRwB6DC/Ru9gBHLxMv66+vgfT/ZK8CItsXfTNrBsM+AHe3c+X5iBrgiOd7MYxg7Hlw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\ConnectedComponents\\ConnectedComponents.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ConnectedComponents\\ConnectedComponents.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

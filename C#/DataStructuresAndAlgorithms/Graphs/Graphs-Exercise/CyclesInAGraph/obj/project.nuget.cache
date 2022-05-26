@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J095IqmxP1Y2ItzxgT5UPQc/Bf0ajkvnKlbMYzRSm/AezN41Bt8crrip+wnXPjyTaK07qQVPSv/4MK4luk3feA==",
+  "dgSpecHash": "O9dm7yb60dy0nmlER0rtmmnRff0OsU4y2c9IrHg7/YkW7MqElNzow24Rm8PoNGNzdBPlEHdtjvd8suM2osxPFw==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Exercise\\CyclesInAGraph\\CyclesInAGraph.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\CyclesInAGraph\\CyclesInAGraph.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

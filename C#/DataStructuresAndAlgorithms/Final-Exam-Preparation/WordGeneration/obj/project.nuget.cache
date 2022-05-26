@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJCgrQCbA7NuCqJbmtzMzGsfbg+keQodKowzpxZt07n834rSnFs0Zz/tC2/oEMahafrGwpLGQ/vAXnbV0jDb7Q==",
+  "dgSpecHash": "6VzSdtZMoGAof8lDlD5CsqBjostxty8V+VmqfSCwDFVuD8746GttVWC47tK0HWs8kwka+wJVSlG+e2Qb/4FZfA==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Final-Exam-Preparation\\WordGeneration\\WordGeneration.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
