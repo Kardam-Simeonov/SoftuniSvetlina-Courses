@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\bin\Debug\netcoreapp3.1\MatrixPath1to9.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\MatrixPath1to9\obj\Debug\netcoreapp3.1\MatrixPath1to9.genruntimeconfig.cache

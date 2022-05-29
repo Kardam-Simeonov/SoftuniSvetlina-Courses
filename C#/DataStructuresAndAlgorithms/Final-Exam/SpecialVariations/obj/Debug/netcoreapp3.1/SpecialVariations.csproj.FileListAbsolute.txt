@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\bin\Debug\netcoreapp3.1\SpecialVariations.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\SpecialVariations\obj\Debug\netcoreapp3.1\SpecialVariations.genruntimeconfig.cache

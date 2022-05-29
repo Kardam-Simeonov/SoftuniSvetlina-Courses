@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Final-Exam\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.genruntimeconfig.cache

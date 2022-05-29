@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eu3sMRJRMyeFMY74F6F7KKgt564VinFc/jsuiGRPYGVprzZo4PMMtzJTJg9XBMbFSIBjSZjzf1Q0CzPynZH16A==",
+  "dgSpecHash": "XwLNmVWgapeR0qu67Vs/aXCjA0iu2CD8T9uhUTkTuoMNFiz2bjAg2f6xDOAHFFA906+iQlXE1WkYQe2+yuJ6yQ==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Recursive-Algorithms-And-Backtracking\\CombinationsWithRepetition\\CombinationsWithRepetition.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
