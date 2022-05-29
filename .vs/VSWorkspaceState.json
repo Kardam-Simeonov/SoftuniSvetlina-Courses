@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SoftTech-Backend",
+    "\\SoftTech-Backend\\ASP.NET-MVC"
   ],
-  "SelectedNode": "\\Zoo_Magazin.sln",
+  "SelectedNode": "\\SoftTech-Backend\\ASP.NET-MVC",
   "PreviewInSolutionExplorer": false
 }
