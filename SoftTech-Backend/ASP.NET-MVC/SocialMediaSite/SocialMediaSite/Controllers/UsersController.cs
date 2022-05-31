@@ -66,6 +66,18 @@ namespace SocialMediaSite.Controllers
             return View(user);
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Login(User user)
+        {
+            if (UserExists(User.Id))
+            {
+                //Redirect To Posts
+            }
+
+
+            return View();
+        }
+
         // GET: Users/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

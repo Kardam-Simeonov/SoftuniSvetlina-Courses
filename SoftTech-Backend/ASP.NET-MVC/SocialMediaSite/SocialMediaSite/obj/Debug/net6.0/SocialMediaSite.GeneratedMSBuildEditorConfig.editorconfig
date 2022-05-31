@@ -8,89 +8,93 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SocialMediaSite
 build_property.RootNamespace = SocialMediaSite
-build_property.ProjectDir = D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\SocialMediaSite\SocialMediaSite\
+build_property.ProjectDir = D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\SocialMediaSite\SocialMediaSite\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\SocialMediaSite\SocialMediaSite
+build_property.MSBuildProjectDirectory = D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\SocialMediaSite\SocialMediaSite
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Create.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0TWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Delete.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0TWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Details.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0TWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Edit.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0TWVzc2FnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Index.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/DirectMessages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0TWVzc2FnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Create.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Delete.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Details.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Edit.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Index.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Posts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/Error.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Create.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Delete.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Details.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Edit.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Index.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/_ViewImports.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/_ViewStart.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/_Layout.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/SocialMediaSite/SocialMediaSite/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x94huiwwee
