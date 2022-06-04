@@ -26,3 +26,17 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgor
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\bin\Debug\netcoreapp3.1\EightQueensPuzzle.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\EightQueensPuzzle\obj\Debug\netcoreapp3.1\EightQueensPuzzle.genruntimeconfig.cache

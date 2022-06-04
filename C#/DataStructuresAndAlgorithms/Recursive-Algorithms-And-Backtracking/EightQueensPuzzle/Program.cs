@@ -6,7 +6,6 @@ namespace EightQueensPuzzle
     internal class Program
     {
         static bool[,] board = new bool[8, 8];
-        static int solutionsFound = 0;
         static HashSet<int> attackedRows = new HashSet<int>();
         static HashSet<int> attackedColumns = new HashSet<int>();
         static HashSet<int> attackedLeftDiagonals = new HashSet<int>();
@@ -78,8 +77,6 @@ namespace EightQueensPuzzle
                 Console.WriteLine();
             }
             Console.WriteLine();
-
-            solutionsFound++;
         }
     }
 }
