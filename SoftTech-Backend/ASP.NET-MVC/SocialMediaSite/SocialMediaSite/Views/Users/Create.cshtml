@@ -5,14 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@{
-if (IsPost) { 
-string companyname = Request["CompanyName"]; 
-string contactname = Request["ContactName"]; 
-<p>You entered: <br />
-Company Name: @companyname <br />
-Contact Name: @contactname </p>
-}
+<h1>Create</h1>
 
 <h4>User</h4>
 <hr />
@@ -29,6 +22,26 @@ Contact Name: @contactname </p>
                 <label asp-for="Password" class="control-label"></label>
                 <input asp-for="Password" class="form-control" />
                 <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

@@ -66,16 +66,22 @@ namespace SocialMediaSite.Controllers
             return View(user);
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Login(User user)
+        [HttpGet]
+        public IActionResult Login()
         {
-            if (UserExists(User.Id))
-            {
-                //Redirect To Posts
-            }
-
-
             return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login([Bind("Username,Password")] User user)
+        {
+            if (ModelState.IsValid)
+            {
+                if (_context.Users.Any(x => x.Username == user.Username && x.Password == user.Password))
+                    return RedirectToAction(nameof(Index));
+            }
+            return View(user);
         }
 
         // GET: Users/Edit/5
@@ -166,7 +172,7 @@ namespace SocialMediaSite.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool UserExists(int id)
+        private bool UserExists(int? id)
         {
           return (_context.Users?.Any(e => e.Id == id)).GetValueOrDefault();
         }
