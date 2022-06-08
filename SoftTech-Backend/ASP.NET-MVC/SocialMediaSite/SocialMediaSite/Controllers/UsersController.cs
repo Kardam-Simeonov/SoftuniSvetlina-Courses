@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SocialMediaSite.Models;
+using SocialMediaSite.Data.Models;
 
 namespace SocialMediaSite.Controllers
 {
@@ -79,10 +79,11 @@ namespace SocialMediaSite.Controllers
             if (ModelState.IsValid)
             {
                 if (_context.Users.Any(x => x.Username == user.Username && x.Password == user.Password))
-                    return RedirectToAction(nameof(Index));
+                    return Redirect("Posts/Index");
             }
             return View(user);
         }
+
 
         // GET: Users/Edit/5
         public async Task<IActionResult> Edit(int? id)

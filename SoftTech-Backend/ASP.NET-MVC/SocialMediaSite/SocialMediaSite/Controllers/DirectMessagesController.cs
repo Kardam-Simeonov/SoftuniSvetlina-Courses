@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SocialMediaSite.Models;
+using SocialMediaSite.Data.Models;
 
 namespace SocialMediaSite.Controllers
 {
@@ -21,8 +21,9 @@ namespace SocialMediaSite.Controllers
         // GET: DirectMessages
         public async Task<IActionResult> Index()
         {
-            var socialMediaContext = _context.DirectMessages.Include(d => d.Reciever).Include(d => d.Sender);
-            return View(await socialMediaContext.ToListAsync());
+              return _context.DirectMessages != null ? 
+                          View(await _context.DirectMessages.ToListAsync()) :
+                          Problem("Entity set 'SocialMediaContext.DirectMessages'  is null.");
         }
 
         // GET: DirectMessages/Details/5
@@ -34,8 +35,6 @@ namespace SocialMediaSite.Controllers
             }
 
             var directMessage = await _context.DirectMessages
-                .Include(d => d.Reciever)
-                .Include(d => d.Sender)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (directMessage == null)
             {
@@ -48,8 +47,6 @@ namespace SocialMediaSite.Controllers
         // GET: DirectMessages/Create
         public IActionResult Create()
         {
-            ViewData["RecieverId"] = new SelectList(_context.Users, "Id", "Id");
-            ViewData["SenderId"] = new SelectList(_context.Users, "Id", "Id");
             return View();
         }
 
@@ -58,16 +55,19 @@ namespace SocialMediaSite.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Message,SenderId,RecieverId,TimeStamp")] DirectMessage directMessage)
+        public async Task<IActionResult> Create([Bind("Id,Message,SenderName,RecieverName,TimeStamp")] DirectMessage directMessage)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(directMessage);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (_context.Users.Any(x => x.Username == directMessage.SenderName) && _context.Users.Any(x => x.Username == directMessage.RecieverName))
+                {
+                    directMessage.TimeStamp = DateTime.Now;
+
+                    _context.Add(directMessage);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
             }
-            ViewData["RecieverId"] = new SelectList(_context.Users, "Id", "Id", directMessage.RecieverId);
-            ViewData["SenderId"] = new SelectList(_context.Users, "Id", "Id", directMessage.SenderId);
             return View(directMessage);
         }
 
@@ -84,8 +84,6 @@ namespace SocialMediaSite.Controllers
             {
                 return NotFound();
             }
-            ViewData["RecieverId"] = new SelectList(_context.Users, "Id", "Id", directMessage.RecieverId);
-            ViewData["SenderId"] = new SelectList(_context.Users, "Id", "Id", directMessage.SenderId);
             return View(directMessage);
         }
 
@@ -94,7 +92,7 @@ namespace SocialMediaSite.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Message,SenderId,RecieverId,TimeStamp")] DirectMessage directMessage)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Message,SenderName,RecieverName,TimeStamp")] DirectMessage directMessage)
         {
             if (id != directMessage.Id)
             {
@@ -121,8 +119,6 @@ namespace SocialMediaSite.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["RecieverId"] = new SelectList(_context.Users, "Id", "Id", directMessage.RecieverId);
-            ViewData["SenderId"] = new SelectList(_context.Users, "Id", "Id", directMessage.SenderId);
             return View(directMessage);
         }
 
@@ -135,8 +131,6 @@ namespace SocialMediaSite.Controllers
             }
 
             var directMessage = await _context.DirectMessages
-                .Include(d => d.Reciever)
-                .Include(d => d.Sender)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (directMessage == null)
             {

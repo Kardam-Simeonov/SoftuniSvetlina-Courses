@@ -1,4 +1,4 @@
-using SocialMediaSite.Models;
+using SocialMediaSite.Data.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

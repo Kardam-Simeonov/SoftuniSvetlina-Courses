@@ -1,4 +1,4 @@
-﻿@model SocialMediaSite.Models.DirectMessage
+﻿@model SocialMediaSite.Data.Models.DirectMessage
 
 @{
     ViewData["Title"] = "Delete";
@@ -19,22 +19,22 @@
             @Html.DisplayFor(model => model.Message)
         </dd>
         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SenderName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SenderName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RecieverName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RecieverName)
+        </dd>
+        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.TimeStamp)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.TimeStamp)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Reciever)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Reciever.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Sender)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Sender.Id)
         </dd>
     </dl>
     

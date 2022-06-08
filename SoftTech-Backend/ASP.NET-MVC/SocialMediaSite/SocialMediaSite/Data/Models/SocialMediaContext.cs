@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace SocialMediaSite.Models
+namespace SocialMediaSite.Data.Models
 {
     public partial class SocialMediaContext : DbContext
     {
@@ -35,17 +35,11 @@ namespace SocialMediaSite.Models
             {
                 entity.Property(e => e.Message).HasMaxLength(250);
 
+                entity.Property(e => e.RecieverName).HasMaxLength(50);
+
+                entity.Property(e => e.SenderName).HasMaxLength(50);
+
                 entity.Property(e => e.TimeStamp).HasColumnType("datetime");
-
-                entity.HasOne(d => d.Reciever)
-                    .WithMany(p => p.DirectMessageRecievers)
-                    .HasForeignKey(d => d.RecieverId)
-                    .HasConstraintName("FK__DirectMes__Recie__2A4B4B5E");
-
-                entity.HasOne(d => d.Sender)
-                    .WithMany(p => p.DirectMessageSenders)
-                    .HasForeignKey(d => d.SenderId)
-                    .HasConstraintName("FK__DirectMes__Sende__29572725");
             });
 
             modelBuilder.Entity<Post>(entity =>
@@ -54,10 +48,7 @@ namespace SocialMediaSite.Models
 
                 entity.Property(e => e.Title).HasMaxLength(50);
 
-                entity.HasOne(d => d.User)
-                    .WithMany(p => p.Posts)
-                    .HasForeignKey(d => d.UserId)
-                    .HasConstraintName("FK__Posts__UserId__267ABA7A");
+                entity.Property(e => e.Username).HasMaxLength(50);
             });
 
             modelBuilder.Entity<User>(entity =>

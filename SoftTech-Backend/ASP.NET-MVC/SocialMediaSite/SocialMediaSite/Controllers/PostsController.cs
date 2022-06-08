@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SocialMediaSite.Models;
+using SocialMediaSite.Data.Models;
 
 namespace SocialMediaSite.Controllers
 {
@@ -21,8 +21,9 @@ namespace SocialMediaSite.Controllers
         // GET: Posts
         public async Task<IActionResult> Index()
         {
-            var socialMediaContext = _context.Posts.Include(p => p.User);
-            return View(await socialMediaContext.ToListAsync());
+              return _context.Posts != null ? 
+                          View(await _context.Posts.ToListAsync()) :
+                          Problem("Entity set 'SocialMediaContext.Posts'  is null.");
         }
 
         // GET: Posts/Details/5
@@ -34,7 +35,6 @@ namespace SocialMediaSite.Controllers
             }
 
             var post = await _context.Posts
-                .Include(p => p.User)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (post == null)
             {
@@ -47,7 +47,6 @@ namespace SocialMediaSite.Controllers
         // GET: Posts/Create
         public IActionResult Create()
         {
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id");
             return View();
         }
 
@@ -56,15 +55,17 @@ namespace SocialMediaSite.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,UserId")] Post post)
+        public async Task<IActionResult> Create([Bind("Title,Id,Description,Username")] Post post)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(post);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (_context.Users.Any(x => x.Username == post.Username))
+                {
+                    _context.Add(post);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
             }
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -81,7 +82,6 @@ namespace SocialMediaSite.Controllers
             {
                 return NotFound();
             }
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -90,7 +90,7 @@ namespace SocialMediaSite.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,UserId")] Post post)
+        public async Task<IActionResult> Edit(int id, [Bind("Title,Id,Description,Username")] Post post)
         {
             if (id != post.Id)
             {
@@ -117,7 +117,6 @@ namespace SocialMediaSite.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -130,7 +129,6 @@ namespace SocialMediaSite.Controllers
             }
 
             var post = await _context.Posts
-                .Include(p => p.User)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (post == null)
             {

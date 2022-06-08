@@ -1,8 +1,8 @@
-﻿@model SocialMediaSite.Models.User
+﻿@model SocialMediaSite.Data.Models.User
 
 @{
     ViewData["Title"] = "Login";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = "~/Views/Shared/_IsolatedLayout.cshtml";
 }
 
 <h1>Login</h1>
@@ -31,7 +31,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Create">Don't have an account? Sign up</a>
 </div>
 
 @section Scripts {
