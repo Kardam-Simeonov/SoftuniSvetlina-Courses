@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# files\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj": {}
   },
   "projects": {
-    "D:\\C# files\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# files\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj",
         "projectName": "BitwiseMethods",
-        "projectPath": "D:\\C# files\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\BitwiseMethods.csproj",
         "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\C# files\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\obj\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\BitwiseOperations\\BitwiseMethods\\BitwiseMethods\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
