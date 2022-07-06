@@ -6,7 +6,7 @@ GO
 
 CREATE TABLE Users(
 	Id int PRIMARY KEY IDENTITY(1,1),
-	Username nvarchar(50) NOT NULL,
+	Username nvarchar(50),
 	Password nvarchar(50) NOT NULL,
 	FirstName nvarchar(50) NOT NULL,
 	LastName nvarchar(50) NOT NULL,
@@ -15,16 +15,17 @@ CREATE TABLE Users(
 );
 
 CREATE TABLE Posts(
-	Id int PRIMARY KEY IDENTITY(1,1),
 	Title nvarchar(50) NOT NULL,
-	Description nvarchar(250),
-	UserId int FOREIGN KEY REFERENCES Users(Id)
+		Id int PRIMARY KEY IDENTITY(1,1),
+Description nvarchar(250),
+	
+Username nvarchar(50)
 );
-
 CREATE TABLE DirectMessages(
 	Id int PRIMARY KEY IDENTITY(1,1),
 	Message nvarchar(250) NOT NULL,
-	SenderId int FOREIGN KEY REFERENCES Users(Id),
-	RecieverId int FOREIGN KEY REFERENCES Users(Id),
+	SenderName nvarchar(50),
+	RecieverName nvarchar(50),
 	TimeStamp DateTime NOT NULL
 );
+

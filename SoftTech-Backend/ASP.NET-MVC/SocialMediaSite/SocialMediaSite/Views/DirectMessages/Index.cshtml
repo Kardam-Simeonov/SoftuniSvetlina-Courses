@@ -1,4 +1,4 @@
-﻿@model IEnumerable<SocialMediaSite.Models.DirectMessage>
+﻿@model IEnumerable<SocialMediaSite.Data.Models.DirectMessage>
 
 @{
     ViewData["Title"] = "Index";
@@ -17,13 +17,13 @@
                 @Html.DisplayNameFor(model => model.Message)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.SenderName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RecieverName)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.TimeStamp)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Reciever)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Sender)
             </th>
             <th></th>
         </tr>
@@ -35,13 +35,13 @@
                 @Html.DisplayFor(modelItem => item.Message)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.SenderName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RecieverName)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.TimeStamp)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Reciever.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Sender.Id)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
