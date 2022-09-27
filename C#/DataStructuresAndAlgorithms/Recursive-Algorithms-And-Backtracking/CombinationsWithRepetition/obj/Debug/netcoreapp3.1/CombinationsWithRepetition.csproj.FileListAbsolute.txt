@@ -12,3 +12,17 @@ D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithm
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.dll
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.pdb
 D:\Code\SOFTUNI\Softuni-Svetlina-Projects-and-Code\C#\DataStructuresAndAlgorithms\RecursiveAlgorithmsAndBacktracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\bin\Debug\netcoreapp3.1\CombinationsWithRepetition.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithRepetition\obj\Debug\netcoreapp3.1\CombinationsWithRepetition.genruntimeconfig.cache

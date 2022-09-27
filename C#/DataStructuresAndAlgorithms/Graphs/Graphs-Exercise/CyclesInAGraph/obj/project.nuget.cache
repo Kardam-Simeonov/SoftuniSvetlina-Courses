@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O9dm7yb60dy0nmlER0rtmmnRff0OsU4y2c9IrHg7/YkW7MqElNzow24Rm8PoNGNzdBPlEHdtjvd8suM2osxPFw==",
+  "dgSpecHash": "1PBlnTgXK5+JFNOi6M5ur1+YU6JCHs7Y39AoTTurLachP8zugVXgPHS3aXM63NltOxjiVJ/zwPTUeeyXrlkEDA==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\CyclesInAGraph\\CyclesInAGraph.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {}
+    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
       "projectName": "Competitor",
-      "projectPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
       "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\obj\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -55,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

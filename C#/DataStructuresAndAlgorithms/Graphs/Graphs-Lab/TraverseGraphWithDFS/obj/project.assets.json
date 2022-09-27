@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Miyagi\\.nuget\\packages\\": {}
+    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
       "projectName": "TraverseGraphWithDFS",
-      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
-      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\obj\\",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
+      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
       }
     }
   }

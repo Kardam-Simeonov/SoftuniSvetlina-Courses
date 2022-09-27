@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FzO4zhhDgE3Y3L/5npLzOONyJHHfJIriQGBXlIFPMRHgwiL/+8fNyqsoYOEsdOQUzFHDVrUJJJ0kzdG2zK9wnQ==",
+  "dgSpecHash": "EY7Xo4UztRxk3YzyZrGcsa58M6HRO4aLwMs7+ZEIf1+7SvLxHzX4EZjXKfbE1eut89s2oUOhEHbOWtFh4FKgcA==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Exercise\\ConnectedGraph\\ConnectedGraph.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

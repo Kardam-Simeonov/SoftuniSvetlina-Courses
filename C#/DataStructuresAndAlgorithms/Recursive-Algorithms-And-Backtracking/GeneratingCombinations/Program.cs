@@ -5,6 +5,7 @@ namespace GeneratingCombinations
 {
     internal class Program
     {
+        //Generates Combinations of positions in a set, based on NumberOfLoops vector
         static int numberOfLoops;
         static int numberOfRepetitions;
         static int[] loops;

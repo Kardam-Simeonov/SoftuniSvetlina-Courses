@@ -4,6 +4,8 @@ namespace CombinationsWithoutRepetition
 {
     internal class Program
     {
+        // Generates vectors of number of loops, with values of number of repetitions, 
+        // without repeating values of concurrent integers - eg: 1 2 3, 2 3 1...
         static int numberOfLoops;
         static int numberOfRepetitions;
         static int[] loops;

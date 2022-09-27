@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GBGuq5UZR3VTGRBqmTPczXx6qc/vqAiYZ6TPUTUfKwcbgpneuT8f24Lz0P3Es6a74qt4k/gBmKbefnRzOVR85g==",
+  "dgSpecHash": "cGRP89tQthzvxudiMSuTq+feKOa1ApaSLsnj47E3R/zYjMmxyUCa4jplR/Fae+T5aZp919sfNBqdMPVKUL39VA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Lab\\TraverseGraphWithBFS\\TraverseGraphWithBFS.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Lab\\TraverseGraphWithBFS\\TraverseGraphWithBFS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
