@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hoOGq70QdvWCm0yQJcYHlM3Tfn5FxYxh6cJDJMK7FOzY0vsVEegclPJ1fHo2gINPNRCC8IuWdYLolSghu/spdg==",
+  "dgSpecHash": "Z0TqVZbkXzYgM4l3OCozVo8+QoYzqLfHi7ysvwWBpbaYqTb5Zvo7iv3Ymo5+y3Ofh0t01jyfdr1XC+ZeZOFROw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\NestedConditional\\Summer_Suit\\Summer_Suit\\Summer_Suit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
