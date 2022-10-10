@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VendingMachines
 build_property.RootNamespace = VendingMachines
-build_property.ProjectDir = D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\VendingMachines\VendingMachines\
+build_property.ProjectDir = D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\VendingMachines\VendingMachines\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\VendingMachines\VendingMachines
+build_property.MSBuildProjectDirectory = D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\VendingMachines\VendingMachines
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Create.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Delete.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Details.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Edit.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Index.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Machines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/Error.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/_ViewImports.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/_ViewStart.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/_Layout.cshtml]
+[D:/SOFTUNI/SoftuniSvetlina-Courses/SoftTech-Backend/ASP.NET-MVC/VendingMachines/VendingMachines/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iq3hqrnefz

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WttdlOBwergSrf0fQAK7oPDz4XiIlb9e3vlV/hg9gi92devax2mVPSN+pZpMJNcPi+orRET+XswDUYPgtRiznA==",
+  "dgSpecHash": "X+tcjduaj4+sEV56rTHLEtolLUDdw44uWk4M8h6ybuxCac3mW0/V18YYm7MerVf2WgTu9zNCPBYjVxABwUIwXA==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\Softuni-Svetlina-Projects-and-Code\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP\\10.Final-Exam-Defining-Classes\\Competitor\\Competitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

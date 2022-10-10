@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mw5awHGxJuG7yL9nqLTGvHCG8G4tF5beyKpqoz72aN6SGr1nHuTjbJHEIGVayemPJ4tIFt1GBuc4o5JbxugTA==",
+  "dgSpecHash": "ouQpQry+14YzWuEO+M5NJqwSgQIBw8cZep/X+H9Lopr+lFVtA9tTN76sTLz0SHCncwKSgBs4NUxISqmKqe1T/g==",
   "success": true,
-  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\07.Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DataStructuresAndAlgorithms\\Graphs\\Graphs-Lab\\TraverseGraphWithDFS\\TraverseGraphWithDFS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

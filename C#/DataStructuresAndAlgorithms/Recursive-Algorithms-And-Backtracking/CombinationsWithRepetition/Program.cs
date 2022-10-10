@@ -4,6 +4,8 @@ namespace CombinationsWithRepetition
 {
     internal class Program
     {
+        // Generates vectors of number of loops, with values of number of repetitions, 
+        // with possible repeating values of concurrent integers - eg: 1 2 2, 1 1 1...
         static int numberOfLoops;
         static int numberOfRepetitions;
         static int[] loops;
