@@ -16,5 +16,12 @@ namespace FootballBetting.Data.Models
         public int CountryId { get; set; }
 
         public Country? Country { get; set; }
+
+        public HashSet<Team>? Teams { get; set; }
+
+        public Town()
+        {
+            Teams = new HashSet<Team>();
+        }
     }
 }

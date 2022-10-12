@@ -9,5 +9,7 @@ namespace FootballBetting.Data.Models
 
         [Required]
         public int Name { get; set; }
+
+        public HashSet<Town> Towns { get; set; }
     }
 }

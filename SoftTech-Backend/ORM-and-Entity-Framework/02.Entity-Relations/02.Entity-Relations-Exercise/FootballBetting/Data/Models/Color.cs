@@ -14,5 +14,14 @@ namespace FootballBetting.Data.Models
 
         [Required]
         public int Name { get; set; }
+
+        public HashSet<Team>? PrimaryKitTeams { get; set; }
+        public HashSet<Team>? SecondaryKitTeams { get; set; }
+
+        public Color()
+        {
+            PrimaryKitTeams = new HashSet<Team>();
+            SecondaryKitTeams = new HashSet<Team>();
+        }
     }
 }

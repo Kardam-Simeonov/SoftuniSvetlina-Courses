@@ -42,5 +42,15 @@ namespace FootballBetting.Data.Models
 
         public Town? Town { get; set; }
 
+        public HashSet<Game>? HomeGames { get; set; }
+        public HashSet<Game>? AwayGames { get; set; }
+        public HashSet<Player>? Players { get; set; }
+
+        public Team()
+        {
+            HomeGames = new HashSet<Game>();
+            AwayGames = new HashSet<Game>();
+            Players = new HashSet<Player>();
+        }
     }
 }

@@ -9,5 +9,12 @@ namespace FootballBetting.Data.Models
 
         [Required]
         public string Name { get; set; }
+
+        public HashSet<Player>? Players { get; set; }
+
+        public Position()
+        {
+            Players = new HashSet<Player>();
+        }
     }
 }

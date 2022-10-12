@@ -31,6 +31,15 @@ namespace FootballBetting.Data.Models
 
         [Required]
         public bool IsInjured { get; set; }
+
+        public HashSet<PlayerStatistic>? PlayerStatistics { get; set; }
+        public HashSet<Bet> Bets { get; set; }
+
+        public Player()
+        {
+            PlayerStatistics = new HashSet<PlayerStatistic>();
+            Bets = new HashSet<Bet>();
+        }
     }
 
 }
