@@ -23,5 +23,14 @@ namespace StudentSystem.Data.Models
         public DateTime RegisteredOn { get; set; }
 
         public DateTime? Birthday { get; set; }
+
+        public virtual HashSet<Course>? Courses { get; set; }
+        public virtual HashSet<Homework>? Homeworks { get; set; }
+
+        public Student()
+        {
+            Courses = new HashSet<Course>();
+            Homeworks = new HashSet<Homework>();
+        }
     }
 }

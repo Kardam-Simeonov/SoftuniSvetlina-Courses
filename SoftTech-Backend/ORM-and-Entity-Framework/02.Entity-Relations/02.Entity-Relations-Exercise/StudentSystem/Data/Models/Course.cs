@@ -16,7 +16,7 @@ namespace StudentSystem.Data.Models
         [MaxLength(80)]
         public string Name { get; set; }
 
-        public string Description { get; set; }
+        public string? Description { get; set; }
 
         [Required]
         public DateTime StartDate { get; set; }
@@ -26,5 +26,17 @@ namespace StudentSystem.Data.Models
 
         [Required]
         public decimal Price { get; set; }
+
+        public virtual HashSet<Student>? Students { get; set; }
+        public virtual HashSet<Resource>? Resources { get; set; }
+        public virtual HashSet<Homework>? Homeworks { get; set; }
+
+        public Course()
+        {
+            Students = new HashSet<Student>();
+            Resources = new HashSet<Resource>();
+            Homeworks = new HashSet<Homework>();
+        }
+
     }
 }

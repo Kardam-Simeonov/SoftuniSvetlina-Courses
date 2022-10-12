@@ -10,6 +10,11 @@ namespace StudentSystem.Data
 {
     public class StudentSystemContext : DbContext
     {
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Homework> Homeworks { get; set; }
+        public DbSet<Resource> Resources { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<StudentCourse> StudentCourses { get; set; }
         public StudentSystemContext()
         {
             
