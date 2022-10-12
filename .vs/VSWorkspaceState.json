@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SoftTech-Backend",
+    "\\SoftTech-Backend\\ORM-and-Entity-Framework",
+    "\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations",
+    "\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Lab"
   ],
-  "SelectedNode": "\\D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses",
+  "SelectedNode": "\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Lab\\02.Entity-Relations-Lab.sln",
   "PreviewInSolutionExplorer": false
 }
