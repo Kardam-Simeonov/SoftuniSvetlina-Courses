@@ -534,11 +534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\StudentSystem\\StudentSystem.csproj",
-      "projectName": "StudentSystem",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\StudentSystem\\StudentSystem.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\FootballBetting\\FootballBetting.csproj",
+      "projectName": "FootballBetting",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\FootballBetting\\FootballBetting.csproj",
       "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\StudentSystem\\obj\\",
+      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\FootballBetting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -22,11 +22,13 @@ namespace StudentSystem.Data.Models
         [Unicode(false)]
         public string Url { get; set; }
 
-        //public enum ResourceType { get; set; }
+        [Required]
+        public ResourceType ResourceType { get; set; }
 
         [Required]
         [ForeignKey("Course")]
         public int CourseId { get; set; }
+        public virtual Course? Course { get; set; }
 
     }
 }

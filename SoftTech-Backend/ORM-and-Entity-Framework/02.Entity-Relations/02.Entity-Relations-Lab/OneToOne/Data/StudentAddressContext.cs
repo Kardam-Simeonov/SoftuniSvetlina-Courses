@@ -13,19 +13,19 @@ namespace One_to_One.Data
             
         }
         
-        public StudentAddressContext(DbContextOptions optionsBuilder) : base()
+        public StudentAddressContext(DbContextOptions optionsBuilder) : base(optionsBuilder)
         {
             
         }
         
-        /*/
-        protected override void OnConfiguration(DbContextOptionsBuilder optionsBuilder)
+        
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(Config.stringConfiguration);
             }
         }
-        /*/
+        
     }
 }

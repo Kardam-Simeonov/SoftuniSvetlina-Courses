@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6D7HnxRELI6eeAPo4A67i3RKCqAUSzRxxDBgFJk2RVarQr/vA3P4/FHnj0YB8/6HkrREfg835Gm8qkmPr+Lmg==",
+  "dgSpecHash": "J0WtcqFzJ/klB/ANHDkOf0p554FC2Gh8K3zurfWzUIlGpZn6fEAHAGvmXjUdRiAzsTQq1Ut06aFGZPXWbOzCwQ==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\StudentSystem\\StudentSystem.csproj",
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\02.Entity-Relations\\02.Entity-Relations-Exercise\\FootballBetting\\FootballBetting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",

@@ -19,14 +19,19 @@ namespace StudentSystem.Data.Models
         public string Content { get; set; }
 
         [Required]
+        public ContentType ContentType { get; set; }
+
+        [Required]
         public DateTime SubmissionTime { get; set; }
 
         [Required]
         [ForeignKey("Student")]
         public int StudentId { get; set; }
+        public virtual Student? Student { get; set; }
 
         [Required]
         [ForeignKey("Course")]
         public int CourseId { get; set; }
+        public virtual Course? Courses { get; set; }
     }
 }
