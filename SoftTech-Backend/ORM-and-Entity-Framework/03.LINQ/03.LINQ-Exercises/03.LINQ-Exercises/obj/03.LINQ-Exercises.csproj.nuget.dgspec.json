@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj": {}
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj": {
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj",
         "projectName": "03.LINQ-Exercises",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj",
-        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\obj\\",
+        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\03.LINQ-Exercises.csproj",
+        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\03.LINQ\\03.LINQ-Exercises\\03.LINQ-Exercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
