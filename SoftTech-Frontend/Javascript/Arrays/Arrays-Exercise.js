@@ -77,6 +77,21 @@ function houseParty(commands){
     console.log(guests.join('\n'));
 }
 
-function sortArray(){
-    
+function sortArray(array){
+    array.sort((a,b) => a.length - b.length || a.localeCompare(b));
+    console.log(array.join('\n'));
+}
+
+function bombNumbers(arr, bomb){
+    let bombNumber = bomb[0];
+    let bombPower = bomb[1];
+
+    while (arr.includes(bombNumber)){
+        let index = arr.indexOf(bombNumber);
+        let startIndex = Math.max(0, index - bombPower);
+        let endIndex = Math.min(arr.length - 1, index + bombPower);
+        arr.splice(startIndex, endIndex - startIndex + 1);
+    }
+
+    console.log(arr.reduce((a,b) => a + b));
 }
