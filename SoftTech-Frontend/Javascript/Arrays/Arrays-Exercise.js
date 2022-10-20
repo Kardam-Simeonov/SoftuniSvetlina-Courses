@@ -88,10 +88,30 @@ function bombNumbers(arr, bomb){
 
     while (arr.includes(bombNumber)){
         let index = arr.indexOf(bombNumber);
-        let startIndex = Math.max(0, index - bombPower);
-        let endIndex = Math.min(arr.length - 1, index + bombPower);
+        let startIndex = index - bombPower < 0 ? 0 : index - bombPower;
+        let endIndex = index + bombPower > arr.length - 1 ? arr.length - 1 : index + bombPower;
         arr.splice(startIndex, endIndex - startIndex + 1);
     }
 
     console.log(arr.reduce((a,b) => a + b));
 }
+
+function searchNumber(baseArr, commandsArr){
+    let elementsToTake = commandsArr[0];
+    let elementsToDelete = commandsArr[1];
+    let searchedNumber = commandsArr[2];
+    let occurences = 0;
+
+    let result = baseArr.slice(0, elementsToTake);
+
+    result.splice(0, elementsToDelete);
+
+    for (let i = 0; i < result.length; i++) {
+        if (result[i] == searchedNumber)
+            occurences++;
+    }
+
+    console.log(`Number ${searchedNumber} occurs ${occurences} times.`)
+}
+
+searchNumber([5, 2, 3, 4, 1, 6], [5, 2, 3])
