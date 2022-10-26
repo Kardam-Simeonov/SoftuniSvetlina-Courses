@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj",
         "projectName": "Diablo",
-        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj",
-        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\obj\\",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\Diablo.csproj",
+        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\04.Entity-Relations-LINQ\\EntityRelationsLINQ-Skeleton\\Diablo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,17 +64,22 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

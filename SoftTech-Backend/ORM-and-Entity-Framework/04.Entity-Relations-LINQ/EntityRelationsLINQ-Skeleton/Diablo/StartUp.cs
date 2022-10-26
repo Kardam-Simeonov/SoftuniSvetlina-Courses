@@ -17,7 +17,7 @@ namespace Diablo
 
         public static string CharactersInformation(DiabloContext context, int luck)
         {
-            var charactersWithExtraLuck = context.Characters.ToArray().Where(c => c.Statistic.Luck > luck).OrderBy(c => c.UsersGames.Count).Select(c => new
+            var charactersWithExtraLuck = context.Characters.Where(c => c.Statistic.Luck > luck).OrderBy(c => c.UsersGames.Count).Select(c => new
             {
                 Name = c.Name,
                 GamesPlayed = c.UsersGames.Count,
@@ -37,7 +37,7 @@ namespace Diablo
 
         public static string GameTypesInformation(DiabloContext context, int idGameType)
         {
-            var gameType = context.GameTypes.ToArray().Where(gt => gt.Id == idGameType).Select(gt => new
+            var gameType = context.GameTypes.Where(gt => gt.Id == idGameType).Select(gt => new
             {
                 Name = gt.Name,
                 GamesNames = gt.Games.Select(g => g.Name).ToArray()
@@ -52,9 +52,31 @@ namespace Diablo
 
             return sb.ToString();
         }
-        //public static string UserGamesInformation(DiabloContext context, int userId)
-        //{
-           
-        //}
+
+        public static string UserGamesInformation(DiabloContext context, int userId)
+        {
+            var userGames = context.Users
+                 .Where(u => u.Id == userId)
+                 .FirstOrDefault()
+                 .UsersGames
+                 .ToArray()
+                 .Select(gt => new
+                 {
+                     Name = gt.Game.Name,
+                     CharacterName = gt.Character.Name,
+                     ItemsUsed = gt.Character.Statistic.Items.Select(i => i.Name).ToArray()
+                 }).OrderBy(ug => ug.ItemsUsed).ToArray();
+
+            StringBuilder sb = new StringBuilder();
+            foreach (var game in userGames)
+            {
+                sb.AppendLine($"Game:{game.Name}");
+                sb.AppendLine($" Character Name: {game.CharacterName}");
+                sb.AppendLine($" Items:");
+                sb.AppendLine($" -{string.Join("\n -", game.ItemsUsed)}");
+            }
+
+            return sb.ToString();
+        }
     }
 }
