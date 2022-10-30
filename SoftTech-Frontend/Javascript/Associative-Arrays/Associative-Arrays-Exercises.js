@@ -102,5 +102,66 @@ function partyTime(inputArray){
 }
 
 function cardGame(inputArray){
-    
+    let playersCards = {};
+
+    for (let entry of inputArray) {
+        let splitArray = entry.split(": ");
+        let name = splitArray[0];
+
+        if (!playersCards.hasOwnProperty(name)){
+            playersCards[name] = [];
+        }
+
+        for (let card of splitArray[1].split(", ")){
+            if (!playersCards[name].includes(card)){
+                playersCards[name].push(card);
+            }
+        }
+    }
+
+
+    for (let player in playersCards) {
+        let handValue = 0;
+
+        for (let card of playersCards[player]) {
+            let power = card.substring(0, card.length - 1);
+            let type = card.substring(card.length - 1);
+
+            if (isNaN(power)) {
+                switch (power) {
+                    case "J":
+                        power = 11;
+                        break;
+                    case "Q":
+                        power = 12;
+                        break;
+                    case "K":
+                        power = 13;
+                        break;
+                    case "A":
+                        power = 14;
+                        break;
+                }
+            }
+
+            switch (type) {
+                case "S":
+                    type = 4;
+                    break;
+                case "H":
+                    type = 3;
+                    break;
+                case "D":
+                    type = 2;
+                    break;
+                case "C":
+                    type = 1;
+                    break;
+            }
+
+            handValue += Number(power) * Number(type);
+        }
+
+        console.log(`${player}: ${handValue}`);
+    }
 }
