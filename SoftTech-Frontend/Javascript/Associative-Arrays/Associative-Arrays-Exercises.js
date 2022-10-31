@@ -165,3 +165,85 @@ function cardGame(inputArray){
         console.log(`${player}: ${handValue}`);
     }
 }
+
+function travelTime(inputArray){
+    let travelLog = {};
+
+    for (const destination of inputArray) {
+        let [country, town, cost] = destination.split(" > ");
+
+        if (!travelLog.hasOwnProperty(country)){
+            travelLog[country] = {};    
+            travelLog[country][town] = Number(cost);
+        }
+        else{
+            if (!travelLog[country].hasOwnProperty(town)){
+                travelLog[country][town] = Number(cost);
+            }
+            else{
+                if (travelLog[country][town] > Number(cost)){
+                    travelLog[country][town] = Number(cost);
+                }
+            }
+        }
+    }
+
+    let sortedCountries = Object.entries(travelLog).sort((a, b) => a[0].localeCompare(b[0]));
+
+    for (let [country, towns] of sortedCountries){
+        let sortedTowns = Object.entries(towns).sort((a, b) => a[1] - b[1]);
+
+        let output = `${country} -> `;
+        for (let [town, cost] of sortedTowns){
+            output += `${town} -> ${cost} `;
+        }
+
+        console.log(output);
+    }
+}
+
+function companyUsers(inputArray){
+    let companies = {};
+
+    for (let entry of inputArray) {
+        let [name, id] = entry.split(" -> ");
+
+        if (!companies.hasOwnProperty(name)){
+            companies[name] = [id];
+        }
+        else{
+            if (!companies[name].includes(id)){
+                companies[name].push(id);
+            }
+        }
+    }
+
+    let sortedCompanies = Object.entries(companies).sort((a, b) => a[0].localeCompare(b[0]));
+
+    for (let [name, ids] of sortedCompanies){
+        console.log(name);
+        for (let id of ids){
+            console.log(`-- ${id}`);
+        }
+    }
+}
+
+function minerTask(inputArray){
+    let resources = {};
+
+    for (let i = 0; i < inputArray.length; i += 2) {
+        let resource = inputArray[i];
+        let quantity = Number(inputArray[i + 1]);
+
+        if (!resources.hasOwnProperty(resource)){
+            resources[resource] = quantity;
+        }
+        else{
+            resources[resource] += quantity;
+        }
+    }
+
+    for (let resource in resources){
+        console.log(`${resource} -> ${resources[resource]}`);
+    }
+}
