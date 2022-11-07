@@ -61,3 +61,44 @@ DENSE_RANK()
 FROM Employees
 WHERE Salary BETWEEN 10000 and 50000
 ORDER BY Salary DESC;
+
+
+USE [Geography]
+GO
+
+-- 12. Countries Holding ‘A’ 3 or More Times
+SELECT CountryName,
+       IsoCode AS [ISO Code]
+FROM Countries
+WHERE CountryName LIKE '%a%a%a%'
+ORDER BY IsoCode;
+
+-- 13. Mix of Peak and River Names
+SELECT Peaks.PeakName,
+       Rivers.RiverName,
+       LOWER(CONCAT(LEFT(Peaks.PeakName, LEN(Peaks.PeakName)-1), Rivers.RiverName)) AS Mix
+FROM Peaks,
+     Rivers
+WHERE RIGHT(PeakName, 1) = LEFT(RiverName, 1)
+ORDER BY Mix;
+
+
+USE Diablo
+GO
+
+-- 14. Games from 2011 and 2012 year
+SELECT TOP(50) [Name], FORMAT(CAST([Start] AS DATE), 'yyyy-MM-dd') AS [Start]
+FROM Games
+WHERE DATEPART(YEAR, [Start]) BETWEEN 2011 AND 2012
+ORDER BY [Start], [Name];
+
+-- 15. User Email Providers
+SELECT Username, RIGHT(Email, LEN(Email)-CHARINDEX('@', Email)) AS [Email Provider]
+FROM Users
+ORDER BY [Email Provider], Username;
+
+-- 16. Get Users with IP Address Like Pattern
+SELECT Username, IpAddress 
+FROM Users
+WHERE IpAddress LIKE '___.1_%._%.___'
+ORDER BY Username;
