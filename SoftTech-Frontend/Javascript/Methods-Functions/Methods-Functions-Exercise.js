@@ -152,5 +152,3 @@ function factorialDivision(firstNumber, secondNumber){
     let result = firstFactorial / secondFactorial;
     console.log(result.toFixed(2));
 }
-
-passwordValidator('MyPass123');
