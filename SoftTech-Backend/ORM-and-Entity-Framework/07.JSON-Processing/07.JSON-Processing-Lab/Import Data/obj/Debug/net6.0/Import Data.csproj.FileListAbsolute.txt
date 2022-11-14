@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\bin\Debug\net6.0\Import Data.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\bin\Debug\net6.0\Import Data.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\bin\Debug\net6.0\Import Data.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\bin\Debug\net6.0\Import Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\bin\Debug\net6.0\Import Data.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\refint\Import Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\Import Data.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Import Data\obj\Debug\net6.0\ref\Import Data.dll

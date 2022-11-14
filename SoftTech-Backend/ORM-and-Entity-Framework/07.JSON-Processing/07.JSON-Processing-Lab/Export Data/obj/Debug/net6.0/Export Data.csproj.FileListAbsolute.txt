@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\bin\Debug\net6.0\Export Data.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\bin\Debug\net6.0\Export Data.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\bin\Debug\net6.0\Export Data.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\bin\Debug\net6.0\Export Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\bin\Debug\net6.0\Export Data.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\refint\Export Data.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\Export Data.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Export Data\obj\Debug\net6.0\ref\Export Data.dll

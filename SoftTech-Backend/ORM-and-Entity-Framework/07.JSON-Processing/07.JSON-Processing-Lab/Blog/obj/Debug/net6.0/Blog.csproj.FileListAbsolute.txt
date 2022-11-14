@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\bin\Debug\net6.0\Blog.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\bin\Debug\net6.0\Blog.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\bin\Debug\net6.0\Blog.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\bin\Debug\net6.0\Blog.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\bin\Debug\net6.0\Blog.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\refint\Blog.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ORM-and-Entity-Framework\07.JSON-Processing\07.JSON-Processing-Lab\Blog\obj\Debug\net6.0\ref\Blog.dll

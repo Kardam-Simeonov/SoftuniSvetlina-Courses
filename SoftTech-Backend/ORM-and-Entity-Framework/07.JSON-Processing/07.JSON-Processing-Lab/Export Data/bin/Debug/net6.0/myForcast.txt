@@ -1,0 +1,1 @@
+{"Date":"2020-07-16T00:00:00","TemperatureC":30,"Summary":"Hot Summer Day"}

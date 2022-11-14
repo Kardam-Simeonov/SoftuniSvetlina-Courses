@@ -1,0 +1,1 @@
+{"Date":"2021-12-14T00:00:00","TemperatureC":12,"Summary":"Cool winter day"}
