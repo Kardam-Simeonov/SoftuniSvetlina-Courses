@@ -12,7 +12,12 @@ namespace ProductShop
     {
         public static void Main(string[] args)
         {
+            var context = new ProductShopContext();
 
+            Console.WriteLine(ImportUsers(context, "../../../Datasets/users.json"));
+            Console.WriteLine(ImportProducts(context, "../../../Datasets/products.json"));
+            Console.WriteLine(ImportCategories(context, "../../../Datasets/categories.json"));
+            Console.WriteLine(ImportCategoryProducts(context, "../../../Datasets/category-products.json"));
         }
         public static string ImportUsers(ProductShopContext context, string inputJson)
         {
@@ -34,18 +39,18 @@ namespace ProductShop
         }
         public static string ImportCategories(ProductShopContext context, string inputJson)
         {
-            var categories = JsonConvert.DeserializeObject<List<Product>>(inputJson).Where(c => c.Name != null).ToList();
+            var categories = JsonConvert.DeserializeObject<List<Category>>(inputJson).Where(c => c.Name != null).ToList();
 
-            context.Products.AddRange(categories);
+            context.Categories.AddRange(categories);
             context.SaveChanges();
 
             return $"Successfully imported {categories.Count}";
         }
         public static string ImportCategoryProducts(ProductShopContext context, string inputJson)
         {
-            var categoryProducts = JsonConvert.DeserializeObject<List<Product>>(inputJson);
+            var categoryProducts = JsonConvert.DeserializeObject<List<CategoryProduct>>(inputJson);
 
-            context.Products.AddRange(categoryProducts);
+            context.CategoryProducts.AddRange(categoryProducts);
             context.SaveChanges();
 
             return $"Successfully imported {categoryProducts.Count}";
