@@ -98,17 +98,27 @@ function inventory(input){
 
 function dictionary(input){
     let dictionary = {};
+
     for (const word of input) {
-        let wordObject = {
-            term: word,
-            definition: ''
-        }
-        dictionary[word] = wordObject;
+        let parsedWord = Object.entries(JSON.parse(word))[0];
+        dictionary[parsedWord[0]] = parsedWord[1];
     }
 
-    let sortedDictionary = Object.values(dictionary).sort((a, b) => a.term.localeCompare(b.term));
-    for (const [term, definition] of sortedDictionary) {
-        console.log(`Term: ${term} => Definition: ${definition}`);
+    for (const word of Object.entries(dictionary).sort((a, b) => a[0].localeCompare(b[0]))) {
+        console.log(`Term: ${word[0]} => Definition: ${word[1]}`)
     }
 }
-        
+
+class Vehicle{
+    constructor(type, model, parts, fuel){
+        this.type = type;
+        this.model = model;
+        this.parts = parts;
+        this.parts.quality = this.parts.engine * this.parts.power;
+        this.fuel = fuel;
+    }
+
+    drive(fuelLoss){
+        this.fuel -= fuelLoss;
+    }
+}
