@@ -67,12 +67,10 @@ namespace Games
                 else
                 {
                     Console.WriteLine(squad.SquadName);
-                    int j = 1;
-                    foreach (var member in squad.PlayerList.OrderBy(x => x))
+                    Console.WriteLine($"* {squad.PlayerList[0]}");
+                    for (int i = 1; i < squad.PlayerList.Count; i++)
                     {
-                        Console.Write(new string('*', j) + " ");
-                        Console.WriteLine(member);
-                        j++;
+                        Console.WriteLine($"** {squad.PlayerList[i]}");
                     }
                 }
             }
