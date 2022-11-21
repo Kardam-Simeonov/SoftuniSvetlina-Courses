@@ -59,11 +59,20 @@ namespace CarDealer
         }
         public static string GetOrderedCustomers(CarDealerContext context)
         {
-            var customers = context.Customers.OrderBy(x => x.BirthDate).ThenByDescending(x => x.IsYoungDriver).ToList();
+            var customers = context.Customers
+                .OrderBy(x => x.BirthDate)
+                .ThenBy(x => x.IsYoungDriver)
+                .Select(x => new
+                {
+                    Name = x.Name,
+                    BirthDate = x.BirthDate.ToString("dd/MM/yyyy"),
+                    IsYoungDriver = x.IsYoungDriver
+                })
+                .ToList();
 
-            string output = JsonConvert.SerializeObject(customers, Formatting.Indented);
+            var json = JsonConvert.SerializeObject(customers, Formatting.Indented);
 
-            return output;
+            return json;
         }
     }
 }
