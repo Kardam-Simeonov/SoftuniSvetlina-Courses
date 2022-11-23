@@ -18,4 +18,23 @@ function furniture(input){
     console.log(`Total money spend: ${total.toFixed(2)}`);
 }
 
-furniture(['>>Laptop<<312.2323!3','>>TV<<300.21314!5','>Invalid<<!5','>>TV<<300.21314!20','>>Invalid<!5','>>TV<<30.21314!5','>>Invalid<<!!5','Purchase'])
+function race(input) {
+    let expression = new RegExp('[A-Za-z]|[0-9]', 'gm');
+    let participants = input.shift().split(', ');
+    let racers = {};
+
+    for (const participant of participants) {
+        let match = expression.exec(participant);
+        let name = '';
+        let distance = 0;
+        
+        while (match != null) {
+            if (!racers.hasOwnProperty(participant)) {
+                racers[participant] = 0;
+            }
+            
+            racers[participant] += Number(match[0]);
+            match = expression.exec(participant);
+        }
+    }
+}

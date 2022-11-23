@@ -49,17 +49,17 @@ namespace Employees
                 DepartmentName = "Development"
             };
 
+            List<Employee> ArrayOfEmployees = new List<Employee>();
+            ArrayOfEmployees.Add(employee1);
+            ArrayOfEmployees.Add(employee2);
+            ArrayOfEmployees.Add(employee3);
 
-            XDocument output = new XDocument();
-            using (var writer = output.CreateWriter())
-            {
-                var serializer = new DataContractSerializer(employee1.GetType());
-                serializer.WriteObject(writer, employee1);
-                serializer.WriteObject(writer, employee2);
-                serializer.WriteObject(writer, employee3);
-            }
+            XmlSerializer output = new XmlSerializer(typeof(List<Employee>));
+            FileStream stream = File.Create(path);
 
-            output.Save(path);
+            output.Serialize(stream, ArrayOfEmployees);
+
+            stream.Close();
         }
     }
 }
