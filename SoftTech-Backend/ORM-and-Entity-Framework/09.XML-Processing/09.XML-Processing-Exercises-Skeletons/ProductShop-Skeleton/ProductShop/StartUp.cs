@@ -59,5 +59,97 @@ namespace ProductShop
                 return textWriter.ToString();
             }
         }
+        public static string GetSoldProducts(ProductShopContext context)
+        {   
+            var users = context.Users
+                .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
+                .OrderBy(u => u.LastName)
+                .ThenBy(u => u.FirstName)
+                .Select(u => new
+                {
+                    firstName = u.FirstName,
+                    lastName = u.LastName,
+                    soldProducts = u.ProductsSold
+                    .Where(p => p.Buyer != null)
+                    .Select(p => new
+                    {
+                        name = p.Name,
+                        price = p.Price,
+                        buyerFirstName = p.Buyer.FirstName,
+                        buyerLastName = p.Buyer.LastName
+                    })
+                    .ToList()
+                })
+                .ToList();
+
+            XmlSerializer xmlSerializer = new XmlSerializer(users.GetType());
+
+            using (StringWriter textWriter = new StringWriter())
+            {
+                xmlSerializer.Serialize(textWriter, users);
+                return textWriter.ToString();
+            }
+            
+        }
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+            var categories = context.Categories
+                .OrderByDescending(c => c.CategoryProducts.Count)
+                .Select(c => new
+                {
+                    category = c.Name,
+                    productsCount = c.CategoryProducts.Count,
+                    averagePrice = c.CategoryProducts.Average(cp => cp.Product.Price).ToString("F2"),
+                    totalRevenue = c.CategoryProducts.Sum(cp => cp.Product.Price).ToString("F2")
+                })
+                .ToList();
+
+            XmlSerializer xmlSerializer = new XmlSerializer(categories.GetType());
+
+            using (StringWriter textWriter = new StringWriter())
+            {
+                xmlSerializer.Serialize(textWriter, categories);
+                return textWriter.ToString();
+            }
+        }
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
+                .OrderByDescending(u => u.ProductsSold.Count(p => p.Buyer != null))
+                .Select(u => new
+                {
+                    firstName = u.FirstName,
+                    lastName = u.LastName,
+                    age = u.Age,
+                    soldProducts = new
+                    {
+                        count = u.ProductsSold.Count(p => p.Buyer != null),
+                        products = u.ProductsSold
+                        .Where(p => p.Buyer != null)
+                        .Select(p => new
+                        {
+                            name = p.Name,
+                            price = p.Price
+                        })
+                        .ToList()
+                    }
+                })
+                .ToList();
+
+            var result = new
+            {
+                usersCount = users.Count,
+                users = users
+            };
+
+            XmlSerializer xmlSerializer = new XmlSerializer(result.GetType());
+
+            using (StringWriter textWriter = new StringWriter())
+            {
+                xmlSerializer.Serialize(textWriter, result);
+                return textWriter.ToString();
+            }
+        }
     }
 }
