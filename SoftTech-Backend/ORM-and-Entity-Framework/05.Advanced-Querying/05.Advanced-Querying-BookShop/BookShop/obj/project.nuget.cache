@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8SKucC4IGVbaW0FbttYgtfhHoOAey30woQivYKQxz+rGIxTTidBt7VqwK0cuo8nrB6nl1WLmtTltTqsw/BdgBA==",
+  "dgSpecHash": "/VkF8ttmqlgxWi7BgKU+npUmFP7A3ZofCwIL9M8Y9XGT5ka+J8LiAE+wjismsEVxPZOkR2o7TJylq3BbWAonZg==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\05.Advanced-Querying\\05.Advanced-Querying-BookShop\\BookShop\\BookShop.csproj",
   "expectedPackageFiles": [
@@ -129,8 +129,7 @@
     "C:\\Users\\KARDAM\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\KARDAM\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\KARDAM\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\KARDAM\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\KARDAM\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

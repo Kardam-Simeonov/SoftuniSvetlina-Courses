@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UBOruNgczYO1biLEqCaNnXRIpaiPQSts0RlTcIV2GQFjgEMN7Qc8xbIQnox6D8NkESN96I07EU5wNweHMVjMTw==",
+  "dgSpecHash": "y2qm56ncQRnRtWDl4AupkSbFbtT5TtiHoVmZFJVrHNKvm+7s7zNYm+WOZ9pb08Sjnhru0tW6bftItk9t5EDQNg==",
   "success": true,
   "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ORM-and-Entity-Framework\\05.Advanced-Querying\\05.Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj",
   "expectedPackageFiles": [
