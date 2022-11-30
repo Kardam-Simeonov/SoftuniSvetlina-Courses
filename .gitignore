@@ -7,3 +7,6 @@
 *.futdcache.v2
 *.metadata.v5.2
 *.projects.v5.2
+/SoftTech-Backend/ORM-and-Entity-Framework/05.Advanced-Querying/05.Advanced-Querying-BookShop/.vs/BookShop/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+/SoftTech-Backend/ORM-and-Entity-Framework/05.Advanced-Querying/05.Advanced-Querying-BookShop/BookShop.Data/obj/Debug/netcoreapp3.1/BookShop.Data.assets.cache
