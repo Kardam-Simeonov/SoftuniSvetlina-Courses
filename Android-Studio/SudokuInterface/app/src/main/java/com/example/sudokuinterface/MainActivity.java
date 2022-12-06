@@ -1,6 +1,7 @@
 package com.example.sudokuinterface;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.widget.ImageViewCompat;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +15,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     TextView[][] sudokuMatrix = new TextView[9][9];
-    TextView[] keypadButtons = new TextView[11];
+    TextView[] keypadButtons = new TextView[9];
     boolean hasCurrentlySelected = false;
     TextView currentlySelected = null;
     String currentTextStorage = "";
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                         if (!hasCurrentlySelected){
                             currentlySelected = current;
                             currentTextStorage = current.getText().toString();
+                            current.setBackgroundColor(9489401);
                             hasCurrentlySelected = true;
                         }
                     }
@@ -57,22 +59,24 @@ public class MainActivity extends AppCompatActivity {
             });
             keypadButtons[i - 1] = current;
         }
-        keypadButtons[9] = findViewById(getResources().getIdentifier(String.format("keyEdit"), "id", getPackageName()));
-        keypadButtons[9].setOnClickListener(new View.OnClickListener() {
+        View editKey = findViewById(getResources().getIdentifier(String.format("keyEdit"), "id", getPackageName()));
+        editKey.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (hasCurrentlySelected){
                     hasCurrentlySelected = false;
+                    currentlySelected.setBackgroundColor(16777215);
                 }
             }
         });
-        keypadButtons[10] = findViewById(getResources().getIdentifier(String.format("keyDelete"), "id", getPackageName()));
-        keypadButtons[10].setOnClickListener(new View.OnClickListener() {
+        View deleteKey = findViewById(getResources().getIdentifier(String.format("keyDelete"), "id", getPackageName()));
+        deleteKey.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (hasCurrentlySelected) {
                     currentlySelected.setText(currentTextStorage);
                     hasCurrentlySelected = false;
+                    currentlySelected.setBackgroundColor(16777215);
                 }
             }
         });
