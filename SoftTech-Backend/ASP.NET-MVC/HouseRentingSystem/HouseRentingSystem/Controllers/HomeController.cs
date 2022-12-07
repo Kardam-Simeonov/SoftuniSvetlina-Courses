@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Models;
+using HouseRentingSystem.Models.Home;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -8,12 +9,7 @@ namespace HouseRentingSystem.Controllers
     {
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            return View(new IndexViewModel());
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
