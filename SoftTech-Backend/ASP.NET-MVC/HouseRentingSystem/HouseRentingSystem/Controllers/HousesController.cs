@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Models.Houses;
+﻿using HouseRentingSystem.Models.Home;
+using HouseRentingSystem.Models.Houses;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,7 +9,12 @@ namespace HouseRentingSystem.Controllers
     {
         public IActionResult All()
         {
-            return View(new AllHousesQueryModel());
+            var allHouses = new AllHousesQueryModel()
+            {
+                Houses = Common.GetHouses()
+            };
+
+            return View(allHouses);
         }
 
         [Authorize]
@@ -19,7 +25,9 @@ namespace HouseRentingSystem.Controllers
 
         public IActionResult Details(int id)
         {
-            return View(new HouseDetailsViewModel());
+            var house = Common.GetHouses().FirstOrDefault();
+
+            return View(house);
         }
 
         [Authorize]

@@ -2,6 +2,6 @@
 {
     public class AllHousesQueryModel 
     {
-    
+        public IEnumerable<HouseDetailsViewModel> Houses { get; set; } = new List<HouseDetailsViewModel>();
     }
 }
