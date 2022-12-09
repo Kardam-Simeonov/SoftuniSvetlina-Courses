@@ -1,7 +1,6 @@
 ﻿namespace HouseRentingSystem.Models.Houses
 {
-    public class AllHousesQueryModel 
+    public class HouseDetailsViewModel
     {
-    
     }
 }
