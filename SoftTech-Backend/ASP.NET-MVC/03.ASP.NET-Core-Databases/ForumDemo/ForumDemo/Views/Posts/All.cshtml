@@ -1,0 +1,31 @@
+﻿@model List<PostViewModel>
+
+@{
+    ViewBag.Title = "All Posts";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+<a asp-controller="Posts" asp-action="Add" class="btn btn-primary">Add Post</a>
+
+@if (Model.Count() > 0)
+{
+    <div class="row">
+        @foreach (var post in Model)
+        {
+            <div class="card .bg-light col-5 ml-3">
+                <blockquote class="blockquote mb-0">
+                    <p>@post.Content</p>
+                </blockquote>
+                <a asp-controller="Posts" asp-action="Edit" asp-route-id="@post.Id" class="btn btn-warning">Edit</a>
+                <form class="mt-2" asp-controller="Posts" asp-action="Delete" asp-route-id="@post.Id">
+                    <input type="submit" value="Delete" class="btn btn-danger btn-block mb-2" />
+                </form>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p class="text-center">No posts yet!</p>
+}
