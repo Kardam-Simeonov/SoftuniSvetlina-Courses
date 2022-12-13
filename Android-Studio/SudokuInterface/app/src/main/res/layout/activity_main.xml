@@ -5,8 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:animateLayoutChanges="true">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"></LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -17,111 +22,132 @@
             android:layout_height="match_parent"
             android:orientation="horizontal"
             android:layout_weight="1">
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold"
+                android:orientation="vertical">
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
+
                     <TextView
                         android:id="@+id/txt_0_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_0_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_0_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text=""
+                        android:background="@drawable/borderlight"
                         android:gravity="center"
+                        android:text=""
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
+
                     <TextView
                         android:id="@+id/txt_1_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_1_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_1_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
+
                     <TextView
                         android:id="@+id/txt_2_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_2_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
+
                     <TextView
                         android:id="@+id/txt_2_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -129,7 +155,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -140,31 +166,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_0_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_0_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -176,31 +202,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_1_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_1_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -212,27 +238,27 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_2_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_2_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -240,7 +266,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -251,31 +277,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_0_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_0_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -287,31 +313,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_1_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_1_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -323,27 +349,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_2_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_2_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -357,7 +387,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -368,31 +398,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -404,31 +434,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -440,27 +470,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -468,7 +502,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -479,31 +513,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -515,31 +549,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -551,27 +585,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -579,7 +617,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -590,31 +628,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_3_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -626,31 +664,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_4_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -662,27 +700,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_5_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -696,7 +738,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -707,31 +749,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_6_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_6_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -743,31 +785,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -779,27 +821,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -807,7 +853,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -818,31 +864,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_6_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_6_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -854,31 +900,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -890,27 +936,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -918,7 +968,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:background="@drawable/borderBold">
+                android:background="@drawable/borderbold">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -929,9 +979,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"
-                        android:gravity="center"
+                        android:background="@drawable/borderlight"
                         android:text=""
+                        android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"></TextView>
                     <TextView
@@ -939,21 +989,21 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_6_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -965,31 +1015,31 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_7_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -1001,36 +1051,42 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:background="@drawable/borderlight"
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:textSize="40sp"></TextView>
                     <TextView
                         android:id="@+id/txt_8_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderLight"></TextView>
+                        android:background="@drawable/borderlight"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="40sp"></TextView>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
+        android:id="@+id/keypad"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="3"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:visibility="invisible">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"

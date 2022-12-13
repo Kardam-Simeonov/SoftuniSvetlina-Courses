@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        View keypad = findViewById(getResources().getIdentifier(String.format("keypad"), "id", getPackageName()));
 
         for (int row = 0; row < 9; row++){
             for (int col = 0; col < 9; col++){
@@ -35,7 +36,8 @@ public class MainActivity extends AppCompatActivity {
                         if (!hasCurrentlySelected){
                             currentlySelected = current;
                             currentTextStorage = current.getText().toString();
-                            current.setBackgroundColor(9489401);
+                            current.setBackgroundResource(R.drawable.borderselected);
+                            keypad.setVisibility(View.VISIBLE);
                             hasCurrentlySelected = true;
                         }
                     }
@@ -64,8 +66,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (hasCurrentlySelected){
+                    currentlySelected.setBackgroundResource(R.drawable.borderlight);
+                    keypad.setVisibility(View.INVISIBLE);
                     hasCurrentlySelected = false;
-                    currentlySelected.setBackgroundColor(16777215);
                 }
             }
         });
@@ -75,8 +78,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (hasCurrentlySelected) {
                     currentlySelected.setText(currentTextStorage);
+                    currentlySelected.setBackgroundResource(R.drawable.borderlight);
+                    keypad.setVisibility(View.INVISIBLE);
                     hasCurrentlySelected = false;
-                    currentlySelected.setBackgroundColor(16777215);
                 }
             }
         });
