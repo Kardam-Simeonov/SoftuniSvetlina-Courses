@@ -1,11 +1,19 @@
-function fibResult(){
-    let fibonator = [0, 1];
+function result() {
+    let x = 0;
+    let y = 1;
 
-    function fibonacci(){
-        let temp = fibonator[0] + fibonator[1];
-        fibonator[0] = fibonator[1];
-        fibonator[1] = temp;
-
-        return temp;
-    }
+    return function() {
+        let temp = x + y;
+        x = y;
+        y = temp;
+        return x;
+    };
 }
+let fib = result();
+console.log(fib()); // 1
+console.log(fib()); // 1
+console.log(fib()); // 2
+console.log(fib()); // 3
+console.log(fib()); // 5
+console.log(fib()); // 8
+console.log(fib()); // 13
