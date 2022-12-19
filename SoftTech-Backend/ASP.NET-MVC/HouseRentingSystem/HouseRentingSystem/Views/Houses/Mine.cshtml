@@ -6,3 +6,16 @@
 
 <h2 class="text-center">@ViewBag.Title</h2>
 <hr />
+
+<div class="text-center row">
+    @foreach (var house in Model.Houses)
+    {
+        <div class="card col-6" style="width: 20rem;">
+            <img class="card-img-top" src="@house.ImageUrl" alt="House Image">
+            <div class="card-body">
+                <h5 class="card-title">@house.Title</h5>
+                <p class="card-text">@house.Address</p>
+            </div>
+        </div>
+    }
+</div>

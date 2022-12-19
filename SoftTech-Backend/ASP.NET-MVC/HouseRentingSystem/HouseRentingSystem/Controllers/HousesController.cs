@@ -1,17 +1,32 @@
-﻿using HouseRentingSystem.Models.Home;
+﻿using HouseRentingSystem.Data;
+using HouseRentingSystem.Models.Home;
 using HouseRentingSystem.Models.Houses;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace HouseRentingSystem.Controllers
 {
     public class HousesController : Controller
     {
+        private readonly HouseRentingDbContext data;
+
+        public HousesController(HouseRentingDbContext data)
+        {
+            this.data = data;
+        }
+        
         public IActionResult All()
         {
             var allHouses = new AllHousesQueryModel()
             {
-                Houses = Common.GetHouses()
+                Houses = this.data.Houses
+                    .Select(h => new HouseViewModel()
+                    {
+                        Title = h.Title,
+                        Address = h.Address,
+                        ImageUrl = h.ImageUrl
+                    })
             };
 
             return View(allHouses);
@@ -20,7 +35,19 @@ namespace HouseRentingSystem.Controllers
         [Authorize]
         public IActionResult Mine()
         {
-            return View(new AllHousesQueryModel());
+            var allHouses = new AllHousesQueryModel()
+            {
+                Houses = this.data.Houses
+                    .Where(h => h.Agent.UserId == this.User.FindFirst(ClaimTypes.NameIdentifier).Value)
+                    .Select(h => new HouseViewModel()
+                    {
+                        Title = h.Title,
+                        Address = h.Address,
+                        ImageUrl = h.ImageUrl
+                    })
+            };
+
+            return View(allHouses);
         }
 
         public IActionResult Details(int id)
