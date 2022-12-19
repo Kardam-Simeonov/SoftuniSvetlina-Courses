@@ -52,9 +52,19 @@ namespace HouseRentingSystem.Controllers
 
         public IActionResult Details(int id)
         {
-            var house = Common.GetHouses().FirstOrDefault();
+            var house = this.data.Houses.Find(id);
 
-            return View(house);
+            if (house == null)
+                return BadRequest();
+
+            var houseModel = new HouseDetailsViewModel()
+            {
+                Title = house.Title,
+                Address = house.Address,
+                ImageUrl = house.ImageUrl,
+            };
+
+            return View(houseModel);
         }
 
         [Authorize]
