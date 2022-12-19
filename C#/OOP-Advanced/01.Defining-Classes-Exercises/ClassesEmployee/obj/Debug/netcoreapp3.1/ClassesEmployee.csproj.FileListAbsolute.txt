@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\bin\Debug\netcoreapp3.1\ClassesEmployee.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\01.Defining-Classes-Exercises\ClassesEmployee\obj\Debug\netcoreapp3.1\ClassesEmployee.genruntimeconfig.cache

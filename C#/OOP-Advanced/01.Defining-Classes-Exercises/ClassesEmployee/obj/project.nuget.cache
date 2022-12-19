@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yc3qvZMx14zEsXm/vKrSAe/KF/hnFjXOvaiqMqK8cq68oVYghx3isBN3yAwajXJgRfckx8VhsEccQ/QZ/KwcdQ==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\01.Defining-Classes-Exercises\\ClassesEmployee\\ClassesEmployee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

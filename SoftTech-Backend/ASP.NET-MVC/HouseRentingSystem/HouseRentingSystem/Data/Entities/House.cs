@@ -29,6 +29,6 @@ namespace HouseRentingSystem.Data.Entities
         public Category Category { get; init; }
         public int AgentId { get; set; }
         public Agent Agent { get; init; }
-        public string RenterId { get; set; }
+        public string? RenterId { get; set; }
     }
 }

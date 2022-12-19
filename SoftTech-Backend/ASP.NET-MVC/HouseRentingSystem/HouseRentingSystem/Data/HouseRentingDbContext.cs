@@ -2,8 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using HouseRentingSystem.Data.Entities;
 using Microsoft.AspNetCore.Identity;
-using static Humanizer.In;
-using System.Net;
 
 namespace HouseRentingSystem.Data
 {
@@ -47,7 +45,7 @@ namespace HouseRentingSystem.Data
 
             SeedUsers();
             builder.Entity<IdentityUser>()
-                .HasData(this.Agent);
+                .HasData(this.AgentUser, this.GuestUser);
 
             SeedAgent();
             builder.Entity<Agent>()
@@ -55,7 +53,7 @@ namespace HouseRentingSystem.Data
 
             SeedCategories();
             builder.Entity<Category>()
-                .HasData(this.CottageCategory, this.SingleCategory);
+                .HasData(this.CottageCategory, this.SingleCategory, this.DuplexCategory);
 
             SeedHouses();
             builder.Entity<House>()
@@ -69,7 +67,7 @@ namespace HouseRentingSystem.Data
             var hasher = new PasswordHasher<IdentityUser>();
             this.AgentUser = new IdentityUser()
             {
-                Id = "qwerty1",
+                Id = "deal2856-c198-4129-b3f3-b893d8395082",
                 UserName = "agent@mail.com",
                 NormalizedUserName = "agent@mail.com",
                 Email = "agent@mail.com",
@@ -80,7 +78,7 @@ namespace HouseRentingSystem.Data
 
             this.GuestUser = new IdentityUser()
             {
-                Id = "qwerty2",
+                Id = "6d5800ce-d726-4fc8-83d9-d6b3ac1f591a",
                 UserName = "guest@mail.com",
                 NormalizedUserName = "guest@mail.com",
                 Email = "guest@mail.com",
