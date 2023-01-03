@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    TextView[][] sudokuMatrix = new TextView[9][9];
+    Sudoku sudoku = new Sudoku(9, 27);
     TextView[] keypadButtons = new TextView[9];
     boolean hasCurrentlySelected = false;
     TextView currentlySelected = null;
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
-                sudokuMatrix[row][col] = current;
+                sudoku.matrix[row][col] = current;
             }
         }
 
@@ -84,5 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+        sudoku.fillValues();
     }
 }
