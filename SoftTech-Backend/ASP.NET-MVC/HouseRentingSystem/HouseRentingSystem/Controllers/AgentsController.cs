@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Data;
+using HouseRentingSystem.Infrastructure;
 using HouseRentingSystem.Models.Agents;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -17,6 +18,11 @@ namespace HouseRentingSystem.Controllers
         [Authorize]
         public IActionResult Become()
         {
+            if (this.data.Agents.Any(a => a.UserId == this.User.Id()))
+            {
+                return BadRequest();
+            }
+
             return View();
         }
 
