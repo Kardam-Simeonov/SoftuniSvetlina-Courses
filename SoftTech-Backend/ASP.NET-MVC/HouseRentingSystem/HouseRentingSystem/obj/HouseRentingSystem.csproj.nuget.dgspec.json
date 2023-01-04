@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
         "projectName": "HouseRentingSystem",
-        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
-        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\obj\\",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\SoftTech-Backend\\ASP.NET-MVC\\HouseRentingSystem\\HouseRentingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

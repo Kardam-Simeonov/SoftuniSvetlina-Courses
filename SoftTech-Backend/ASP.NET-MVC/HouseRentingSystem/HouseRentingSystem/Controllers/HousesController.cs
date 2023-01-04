@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Data;
+using HouseRentingSystem.Infrastructure;
 using HouseRentingSystem.Models.Home;
 using HouseRentingSystem.Models.Houses;
 using Microsoft.AspNetCore.Authorization;
@@ -38,7 +39,7 @@ namespace HouseRentingSystem.Controllers
             var allHouses = new AllHousesQueryModel()
             {
                 Houses = this.data.Houses
-                    .Where(h => h.Agent.UserId == this.User.FindFirst(ClaimTypes.NameIdentifier).Value)
+                    .Where(h => h.Agent.UserId == this.User.Id())
                     .Select(h => new HouseViewModel()
                     {
                         Title = h.Title,
