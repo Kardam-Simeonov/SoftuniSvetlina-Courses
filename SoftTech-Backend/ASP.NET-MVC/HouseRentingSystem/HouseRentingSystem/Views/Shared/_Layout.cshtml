@@ -20,16 +20,19 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area=""
-                                   asp-controller="Houses" asp-action="All">All Houses</a>
+                                        asp-controller="Houses" asp-action="All">All Houses</a>
                             </li>
+                        @if (this.User.Identity.IsAuthenticated)
+                        {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area=""
-                                     asp-controller="Houses" asp-action="Mine">My Houses</a>
+                                        asp-controller="Houses" asp-action="Mine">My Houses</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area=""
                                     asp-controller="Houses" asp-action="Add">Add House</a>
                             </li>
+                        }
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>

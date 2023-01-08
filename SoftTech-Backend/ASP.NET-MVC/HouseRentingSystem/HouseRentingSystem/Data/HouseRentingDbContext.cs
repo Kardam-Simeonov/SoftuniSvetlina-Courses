@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using HouseRentingSystem.Data.Entities;
 using Microsoft.AspNetCore.Identity;
+using System.Data.Entity;
 
 namespace HouseRentingSystem.Data
 {
@@ -17,9 +18,9 @@ namespace HouseRentingSystem.Data
         public House SecondHouse { get; set; }
         public House ThirdHouse { get; set; }
 
-        public DbSet<House> Houses { get; set; }
-        public DbSet<Category> Categories { get; set; }
-        public DbSet<Agent> Agents { get; set; }
+        public Microsoft.EntityFrameworkCore.DbSet<House> Houses { get; set; }
+        public Microsoft.EntityFrameworkCore.DbSet<Category> Categories { get; set; }
+        public Microsoft.EntityFrameworkCore.DbSet<Agent> Agents { get; set; }
         
         public HouseRentingDbContext(DbContextOptions<HouseRentingDbContext> options)
             : base(options)
