@@ -130,7 +130,7 @@ namespace HouseRentingSystem.Controllers
         {
             var house = this.data.Houses.Find(id);
 
-            if (house = null)
+            if (house == null)
             {
                 return BadRequest();
             }
@@ -226,9 +226,9 @@ namespace HouseRentingSystem.Controllers
 
         [HttpPost]
         [Authorize]
-        public IActionResult Delete(HouseDetailsViewModel house)
+        public IActionResult Delete(HouseDetailsViewModel model)
         {
-            var house = this.data.Houses.Find(house.Id);
+            var house = this.data.Houses.Find(model.Id);
 
             if (house == null)
             {
