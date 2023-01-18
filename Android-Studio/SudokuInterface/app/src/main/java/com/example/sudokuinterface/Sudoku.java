@@ -35,6 +35,24 @@ public class Sudoku
         // Remove Randomly K digits to make game
         removeKDigits();
     }
+    public void clearMatrix(){
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+                matrix[row][col].setText("");
+            }
+        }
+    }
+
+    public boolean isMatrixFilled(){
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+                if (matrix[row][col].getText().toString() == ""){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
 
     // Fill the diagonal SRN number of SRN x SRN matrices
     void fillDiagonal()
@@ -82,11 +100,11 @@ public class Sudoku
     }
 
     // Check if safe to put in cell
-    boolean CheckIfSafe(int i,int j,int num)
+    boolean CheckIfSafe(int row,int col,int num)
     {
-        return (unUsedInRow(i, num) &&
-                unUsedInCol(j, num) &&
-                unUsedInBox(i-i% squareOfN, j-j% squareOfN, num));
+        return (unUsedInRow(row, num) &&
+                unUsedInCol(col, num) &&
+                unUsedInBox(row-row% squareOfN, col-col% squareOfN, num));
     }
 
     // check in the row for existence

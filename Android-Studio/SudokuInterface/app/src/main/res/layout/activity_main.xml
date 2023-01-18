@@ -13,14 +13,25 @@
         android:layout_height="match_parent"
         android:layout_weight="4">
         <TextView
+            android:id="@+id/lives"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/borderlight"
+            android:background="@drawable/borderselected"
             android:text="Lives: 3"
             android:gravity="center"
             android:textAlignment="center"
             android:textSize="40sp"></TextView>
+        <TextView
+            android:id="@+id/startNewGame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/borderselected"
+            android:text="Start new game"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textSize="20sp"></TextView>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"

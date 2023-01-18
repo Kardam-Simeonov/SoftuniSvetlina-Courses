@@ -150,3 +150,12 @@ D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentin
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.pdb
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.genruntimeconfig.cache
 D:\Code\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\ref\HouseRentingSystem.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\EntityFramework.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\System.CodeDom.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\SoftTech-Backend\ASP.NET-MVC\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
