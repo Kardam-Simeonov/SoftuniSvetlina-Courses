@@ -18,24 +18,42 @@ namespace HouseRentingSystem.Controllers
 
         public IActionResult Index()
         {
-            var allHouses = new IndexViewModel()
-            {
-                Houses = this.data.Houses
-                    .Select(h => new HouseIndexViewModel()
-                    {
-                        Id = h.Id,
-                        Title = h.Title,
-                        ImageUrl = h.ImageUrl
-                    })
-            };
+            var totalHouses = this.data.Houses.Count();
 
-            return View(allHouses);
+            var totalRents = this.data.Houses.Where(h => h.RenterId != null).Count();
+
+            var houses = this.data.Houses.OrderByDescending(h => h.Id)
+                .Select(h => new HouseIndexViewModel
+                {
+                    Id = h.Id,
+                    Title = h.Title,
+                    ImageUrl = h.ImageUrl
+                })
+                .Take(3)
+                .ToList();
+
+            return View(new IndexViewModel
+            {
+                TotalHouses = totalHouses,
+                TotalRents = totalRents,
+                Houses = houses
+            });
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(int statusCode)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            if (statusCode == 400)
+            {
+                return View("Error400");
+            }
+            
+            if (statusCode == 401)
+            {
+                return View("Error401");
+            }
+
+            return View();
         }
     }
 }

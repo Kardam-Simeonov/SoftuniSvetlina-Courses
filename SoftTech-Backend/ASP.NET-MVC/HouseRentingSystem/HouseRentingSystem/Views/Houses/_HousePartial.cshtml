@@ -1,25 +1,40 @@
-﻿<div class="col-md-4">
+﻿@model HouseViewModel
+
+<div class="col-md-4">
     <div class="card mb-3">
         <img class="card-img-top" src="" alt="House Image">
         <div class="card-body text-center">
-            <h4></h4>
-            <h6>Address: <b></b></h6>
+            <h4>@Model.Title</h4>
+            <h6>Address: <b>@Model.Address</b></h6>
             <h6>
                 Price Per Month:
-                <b>BGN</b>
+                <b>@String.Format("{0:f2}", Model.PricePerMonth) BGN</b>
             </h6>
-            <h6>()</h6>
+            <h6>(@(Model.IsRented ? "Renter" : "Not Rented"))</h6>
             <br />
             <a class="btn btn-success">Details</a>
-                <a class="btn btn-warning">Edit</a>
-                <a class="btn btn-danger">Delete</a>
+            @if (this.User.Identity.IsAuthenticated)
+            {
+                <a asp-controller="Houses" asp-action="Edit" asp-route-id="@Model.Id" 
+                    class="btn btn-warning">Edit</a>
+                <a asp-controller="Houses" asp-action="Delete" asp-route-id="@Model.Id"
+                    class="btn btn-danger">Delete</a>
                 <p></p>
-                <form class="input-group-sm" method="post">
-                    <input class="btn btn-primary" type="submit" value="Rent" />
-                </form>
-                <form method="post">
-                    <input class="btn btn-primary" type="submit" value="Leave" />
-                </form>
+                @if (Model.IsRented)
+                {
+                    <form class="input-group-sm" asp-controller="Houses" 
+                        asp-action="Rent" asp-route-id="@Model.Id" method="post">
+                        <input class="btn btn-primary" type="submit" value="Rent" />
+                    </form>
+                }
+                else
+                {
+                    <form asp-controller="Houses" asp-action="Leave" 
+                          asp-route-id="@Model.Id" method="post">
+                        <input class="btn btn-primary" type="submit" value="Leave" />
+                    </form>
+                }
+            }
         </div>
     </div>
 </div>

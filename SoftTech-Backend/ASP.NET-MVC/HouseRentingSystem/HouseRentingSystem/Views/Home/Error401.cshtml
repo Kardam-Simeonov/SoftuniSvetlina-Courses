@@ -1,4 +1,8 @@
-﻿<div class="row">
+﻿@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="row">
     <div class="col-3"></div>
     <div class="col-6">
         <br>
@@ -8,7 +12,9 @@
                 <div class="text-left h4">
                     <p>Oops, you don't have access here.</p>
                 </div>
-                <div class="text-left h4">  Go back to <a>Home</a> Page</div>
+                <div class="text-left h4">  
+                    Go back to <a asp-asp-controller="Home" asp-action="Index">Home</a> Page
+                </div>
             </div>
         </div>
     </div>
