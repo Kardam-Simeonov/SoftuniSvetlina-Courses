@@ -1,0 +1,10 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.pdb

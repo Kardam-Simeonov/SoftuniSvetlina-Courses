@@ -1,0 +1,10 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\02.Unit-Testing\Unit-Testing-Exercises\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.pdb
