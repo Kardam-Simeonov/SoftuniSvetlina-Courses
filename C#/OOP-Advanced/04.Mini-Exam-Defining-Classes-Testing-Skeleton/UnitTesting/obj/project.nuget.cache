@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ev5a5HFa9eXsYwTWn6v5OKVOcZNiHadIiSfTJjgoVb22th6Van7yP8I+T5yQBPKc2WC4aTsqph7mpR8gTQbmOw==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\04.Mini-Exam-Defining-Classes-Testing-Skeleton\\UnitTesting\\UnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

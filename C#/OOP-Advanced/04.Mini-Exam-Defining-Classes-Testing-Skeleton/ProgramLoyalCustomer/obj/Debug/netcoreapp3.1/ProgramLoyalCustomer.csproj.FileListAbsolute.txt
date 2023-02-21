@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\bin\Debug\netcoreapp3.1\ProgramLoyalCustomer.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\04.Mini-Exam-Defining-Classes-Testing-Skeleton\ProgramLoyalCustomer\obj\Debug\netcoreapp3.1\ProgramLoyalCustomer.genruntimeconfig.cache
