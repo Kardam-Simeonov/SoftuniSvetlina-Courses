@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvJkaVGeAxkQ00UenPT85LQ+Sh5l4lT3O/jFqnpk8FE85vHOKHVbEcm/JRNMnWo8HyD00vI4btNHNNenMBWOtw==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\05.Inheritance\\05.Inheritance-Exercises-Skeleton\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xli+Y3XC1V5vEQzxH8K4gzv6HChJ3bUc9wV6Q2vO2qn/ezWbaSx/vJG3SWf/Akb58qBJgQ7AC6Y0RreSWMOMzQ==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\05.Inheritance\\05.Inheritance-Exercises-Skeleton\\NeedForSpeed\\NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

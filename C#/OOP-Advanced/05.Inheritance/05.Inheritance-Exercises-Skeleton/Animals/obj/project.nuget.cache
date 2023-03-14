@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRL3neaOOZFphaRjBN3KxJiYkCr0kI9AoOAVpCfk22gbTbJBxyppA0GnCvem3M61N2ABAK6BitKxi3pcVYDSuA==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\05.Inheritance\\05.Inheritance-Exercises-Skeleton\\Animals\\Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
