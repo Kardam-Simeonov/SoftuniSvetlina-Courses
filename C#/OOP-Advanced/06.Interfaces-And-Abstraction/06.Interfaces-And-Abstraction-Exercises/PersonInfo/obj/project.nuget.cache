@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxIJCnYsGcP0VfDw96jT5QNm8+eHKJAOM1IU5annXe7v2D4Da9ebxC9Cq9rjVRpHKW6YIfdqOqh6ShcK75N3hg==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\06.Interfaces-And-Abstraction\\06.Interfaces-And-Abstraction-Exercises\\PersonInfo\\PersonInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

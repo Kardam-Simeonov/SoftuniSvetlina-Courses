@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\06.Interfaces-And-Abstraction\06.Interfaces-And-Abstraction-Exercises\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

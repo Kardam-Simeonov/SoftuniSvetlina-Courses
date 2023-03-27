@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XSPrf6O41ePEzvlpaMCVv97LqvsfcnrxBUEk5dAXMZq9+1shBbcFObs57a8BKuwxifxB2c02Ge/nPxPZPaSDg==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\06.Interfaces-And-Abstraction\\06.Interfaces-And-Abstraction-Exercises\\Telephony\\Telephony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
