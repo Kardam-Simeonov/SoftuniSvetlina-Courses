@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.app.Person;
 import android.os.Bundle;
+import android.view.Menu;
 
 import java.util.ArrayList;
 
@@ -22,9 +23,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-
         RecyclerView recyclerView = findViewById(R.id.RecyclerView);
 
         setupPersonModels();
@@ -33,6 +31,15 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+        Toolbar toolbar = findViewById(R.id.Toolbar);
+        setSupportActionBar(toolbar);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.options, menu);
+        return true;
     }
 
     private void setupPersonModels(){

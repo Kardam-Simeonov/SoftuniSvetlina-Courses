@@ -4,14 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@android:color/holo_blue_light"/>
+    <include
+        android:id="@+id/Toolbar"
+        layout="@layout/toolbar" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/RecyclerView"
