@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfAndSpaResort", "GolfAndSpaResort\GolfAndSpaResort.csproj", "{06D81D60-83CF-4AEA-893A-2DD1C40EEB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyHierarchy", "CompanyHierarchy\CompanyHierarchy.csproj", "{F41B07F9-76C0-4516-BB1A-40338DBE3D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D81D60-83CF-4AEA-893A-2DD1C40EEB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D81D60-83CF-4AEA-893A-2DD1C40EEB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D81D60-83CF-4AEA-893A-2DD1C40EEB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D81D60-83CF-4AEA-893A-2DD1C40EEB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41B07F9-76C0-4516-BB1A-40338DBE3D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41B07F9-76C0-4516-BB1A-40338DBE3D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41B07F9-76C0-4516-BB1A-40338DBE3D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41B07F9-76C0-4516-BB1A-40338DBE3D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68418024-CBB7-4B1F-AFF1-93E3B87D4DEE}
+	EndGlobalSection
+EndGlobal

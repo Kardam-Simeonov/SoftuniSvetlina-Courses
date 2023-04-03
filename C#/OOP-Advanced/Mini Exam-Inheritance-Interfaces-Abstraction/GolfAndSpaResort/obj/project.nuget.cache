@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wfm59fsrFsuIoB4K14IufrE/AgadtsSt7fbAH7dddMdItwUXS1F2LjInkqshPyQGKhELqj+cIMdRTSzLxyMhw==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\GolfAndSpaResort\\GolfAndSpaResort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\bin\Debug\netcoreapp3.1\CompanyHierarchy.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\Mini Exam-Inheritance-Interfaces-Abstraction\CompanyHierarchy\obj\Debug\netcoreapp3.1\CompanyHierarchy.genruntimeconfig.cache
