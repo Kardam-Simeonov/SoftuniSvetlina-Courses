@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\08.Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
