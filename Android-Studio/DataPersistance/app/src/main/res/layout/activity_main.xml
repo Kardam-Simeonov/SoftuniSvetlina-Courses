@@ -7,17 +7,57 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/title_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Scan Barcode"
-        android:textSize="35sp"
-        android:textStyle="bold"
+    android:id="@+id/title_text"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Scan Barcode"
+    android:textSize="35sp"
+    android:textStyle="bold"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.497"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.207" />
+
+    <TextView
+        android:id="@+id/product_code"
+        android:layout_width="348dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Code"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.381" />
+        app:layout_constraintVertical_bias="0.329" />
+
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="353dp"
+        android:layout_height="54dp"
+        android:gravity="center"
+        android:text="Name"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_code"
+        app:layout_constraintVertical_bias="0.069" />
+
+    <TextView
+        android:id="@+id/product_ingredients"
+        android:layout_width="369dp"
+        android:layout_height="114dp"
+        android:gravity="center"
+        android:text="Ingredients"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_name"
+        app:layout_constraintVertical_bias="0.098" />
 
     <EditText
         android:id="@+id/barcode_input"
@@ -28,10 +68,10 @@
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.533"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.518" />
+        app:layout_constraintVertical_bias="0.764" />
 
     <Button
         android:id="@+id/lookup_button"
@@ -42,6 +82,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/barcode_input"
-        app:layout_constraintVertical_bias="0.12" />
+        app:layout_constraintVertical_bias="0.273" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

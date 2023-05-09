@@ -6,7 +6,7 @@ public class ProductResponse {
     @SerializedName("code")
     private String code;
 
-    @SerializedName("product_name")
+    @SerializedName("generic_name")
     private String name;
 
     @SerializedName("ingredients_text")
