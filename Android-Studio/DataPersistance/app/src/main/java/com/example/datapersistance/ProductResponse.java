@@ -6,21 +6,15 @@ public class ProductResponse {
     @SerializedName("code")
     private String code;
 
-    @SerializedName("generic_name")
-    private String name;
-
-    @SerializedName("ingredients_text")
-    private String ingredients;
+    @SerializedName("product")
+    private ProductDetails productDetails;
 
     public String getCode() {
         return code;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getIngredients() {
-        return ingredients;
+    public ProductDetails getProductDetails() {
+        return productDetails;
     }
 }
+

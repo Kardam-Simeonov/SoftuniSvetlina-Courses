@@ -18,6 +18,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
+    //3274080005003
+
     public EditText barcodeInput;
 
     public TextView productCode;
@@ -66,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                         public void onResponse(Call<ProductResponse> call, Response<ProductResponse> response) {
                             if (response.isSuccessful()) {
                                 ProductResponse productResponse = response.body();
-                                Product product = new Product(barcode, productResponse.getName(), productResponse.getIngredients());
+                                Product product = new Product(barcode, productResponse.getProductDetails().getName(), productResponse.getProductDetails().getIngredients());
 
                                 AppDatabase.getInstance(MainActivity.this).productDao().insertProduct(product);
 
