@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.genruntimeconfig.cache
