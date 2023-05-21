@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.genruntimeconfig.cache

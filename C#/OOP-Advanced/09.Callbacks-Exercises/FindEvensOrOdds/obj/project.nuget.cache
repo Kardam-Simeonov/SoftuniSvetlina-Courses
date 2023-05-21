@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qeFmSD9qV60bqbCAHoFJDgN0PH546EyUaQiByJbj+xHXwai6nWrhHdr+pydNollUv7aauWFIFLCOpq4uO5itEQ==",
+  "dgSpecHash": "laTHHH0F/e7aeen14jsNyHJx/x8fbEYLvvkX1bNnf5vU9fmPKKYqVBSka6OrzEwEWwnSLyMfdDqmmVuAf0TFnA==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\FindEvensOrOdds\\FindEvensOrOdds.csproj",
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\FindEvensOrOdds\\FindEvensOrOdds.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

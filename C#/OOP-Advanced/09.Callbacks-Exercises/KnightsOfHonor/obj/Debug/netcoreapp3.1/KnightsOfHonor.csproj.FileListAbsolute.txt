@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.genruntimeconfig.cache

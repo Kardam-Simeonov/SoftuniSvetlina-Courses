@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.genruntimeconfig.cache

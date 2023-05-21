@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\bin\Debug\netcoreapp3.1\EventCalculator.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\EventCalculator\obj\Debug\netcoreapp3.1\EventCalculator.genruntimeconfig.cache
