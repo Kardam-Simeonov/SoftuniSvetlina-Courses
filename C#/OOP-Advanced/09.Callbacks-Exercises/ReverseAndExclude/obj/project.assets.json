@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\ReverseAndExclude\\ReverseAndExclude.csproj",
+      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\KnightsOfHonor\\KnightsOfHonor.csproj",
       "projectName": "ReverseAndExclude",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\ReverseAndExclude\\ReverseAndExclude.csproj",
+      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\KnightsOfHonor\\KnightsOfHonor.csproj",
       "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
       "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\09.Callbacks-Exercises\\ReverseAndExclude\\obj\\",
       "projectStyle": "PackageReference",
