@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.genruntimeconfig.cache

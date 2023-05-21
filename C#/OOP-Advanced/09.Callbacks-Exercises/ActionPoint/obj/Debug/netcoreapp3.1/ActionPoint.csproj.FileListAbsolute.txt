@@ -12,3 +12,17 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\Action
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.genruntimeconfig.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\bin\Debug\netcoreapp3.1\ActionPoint.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.genruntimeconfig.cache

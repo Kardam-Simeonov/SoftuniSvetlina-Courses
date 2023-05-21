@@ -1,0 +1,14 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache

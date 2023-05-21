@@ -12,3 +12,17 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEv
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.genruntimeconfig.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.exe
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.dev.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\09.Callbacks-Exercises\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.genruntimeconfig.cache
