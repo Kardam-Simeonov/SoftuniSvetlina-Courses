@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.dev.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\OOP-Advanced\10.Final-Exam-Skeleton\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.genruntimeconfig.cache
