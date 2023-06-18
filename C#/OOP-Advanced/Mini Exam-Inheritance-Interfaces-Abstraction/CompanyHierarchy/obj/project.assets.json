@@ -8,26 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
+      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
       "projectName": "CompanyHierarchy",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
-      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\obj\\",
+      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
+      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -35,7 +32,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/SKYWARE-Group/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -63,18 +61,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.31, 3.1.31]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0E8iMSVFsYp5NSKexcLCVV1/A1ByfJuLS3nV4JSoole4Z2mv1+zJoT8SoZXZPGyImMTi0UPeN0PKBcv0aIcE9w==",
+  "dgSpecHash": "tj4aFbhnXuT/MoNthjO5obucF8gjuOGRcsWbtZ+5KUptOmbArlEr0O5ewUKEMFp0KfHtXJEHf2BAft6ce7DhwQ==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KARDAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\OOP-Advanced\\Mini Exam-Inheritance-Interfaces-Abstraction\\CompanyHierarchy\\CompanyHierarchy.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
