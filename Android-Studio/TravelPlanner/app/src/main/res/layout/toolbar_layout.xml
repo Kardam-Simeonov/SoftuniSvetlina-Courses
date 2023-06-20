@@ -1,0 +1,34 @@
+<!-- toolbar_layout.xml -->
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/toolbar_background_color"
+    android:elevation="4dp"
+    android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    android:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+    <!-- Name of the app on the left -->
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/toolbar_title_color"
+        android:textSize="18sp"
+        android:layout_gravity="start"
+        android:layout_marginStart="8dp" />
+
+    <!-- Favorites button on the right -->
+    <Button
+        android:id="@+id/toolbar_favorites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/favorites"
+        android:textColor="@color/toolbar_button_text_color"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_gravity="end"
+        android:layout_marginEnd="8dp" />
+
+</androidx.appcompat.widget.Toolbar>

@@ -1,6 +1,7 @@
 package com.example.travelplanner;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -38,18 +39,25 @@ public class Place_RecyclerViewAdapter extends RecyclerView.Adapter<Place_Recycl
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Handle card click event
-                String property = getItem(position).getProperty(); // Get the property from the clicked card
+                // Get the position using holder.getAdapterPosition()
+                int clickedPosition = holder.getAdapterPosition();
 
-                // Create an Intent and pass the property as an extra
-                Intent intent = new Intent(view.getContext(), AnotherActivity.class);
-                intent.putExtra("PROPERTY_KEY", property);
+                if (clickedPosition != RecyclerView.NO_POSITION) {
+                    // Get the xID of the clicked item
+                    String xID = placeModels.get(clickedPosition).getxId();
 
-                // Start the new activity
-                view.getContext().startActivity(intent);
+                    // Create an Intent and pass the xID as an extra
+                    Intent intent = new Intent(context, DetailsActivity.class);
+                    intent.putExtra("xID", xID);
+
+                    // Start the new activity
+                    view.getContext().startActivity(intent);
+                }
             }
         });
     }
+
+
 
     @Override
     public int getItemCount() {
