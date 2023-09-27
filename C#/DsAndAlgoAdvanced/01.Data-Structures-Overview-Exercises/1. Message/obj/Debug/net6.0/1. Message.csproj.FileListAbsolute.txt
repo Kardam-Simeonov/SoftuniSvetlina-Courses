@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\bin\Debug\net6.0\1. Message.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\bin\Debug\net6.0\1. Message.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\bin\Debug\net6.0\1. Message.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\bin\Debug\net6.0\1. Message.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\bin\Debug\net6.0\1. Message.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\refint\1. Message.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\1. Message.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\01.Data-Structures-Overview-Exercises\1. Message\obj\Debug\net6.0\ref\1. Message.dll
