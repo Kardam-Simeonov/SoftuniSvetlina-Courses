@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\bin\Debug\net6.0\EvenNumbers.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\bin\Debug\net6.0\EvenNumbers.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\bin\Debug\net6.0\EvenNumbers.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\bin\Debug\net6.0\EvenNumbers.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\bin\Debug\net6.0\EvenNumbers.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\refint\EvenNumbers.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\EvenNumbers.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\EvenNumbers\obj\Debug\net6.0\ref\EvenNumbers.dll

@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\bin\Debug\net6.0\ForwardAndBack.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\bin\Debug\net6.0\ForwardAndBack.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\bin\Debug\net6.0\ForwardAndBack.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\bin\Debug\net6.0\ForwardAndBack.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\bin\Debug\net6.0\ForwardAndBack.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\refint\ForwardAndBack.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ForwardAndBack.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\ForwardAndBack\obj\Debug\net6.0\ref\ForwardAndBack.dll

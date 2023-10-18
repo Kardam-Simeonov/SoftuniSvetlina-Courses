@@ -1,0 +1,15 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\bin\Debug\net6.0\Boom.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\bin\Debug\net6.0\Boom.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\bin\Debug\net6.0\Boom.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\bin\Debug\net6.0\Boom.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\bin\Debug\net6.0\Boom.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.csproj.AssemblyReference.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\refint\Boom.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\Boom.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\ConcurrentProgramming\Async-Programming-And-Threads-Lab\Boom\obj\Debug\net6.0\ref\Boom.dll
