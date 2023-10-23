@@ -9,8 +9,11 @@ public class PlaceDetailsResponse {
     @SerializedName("name")
     private String name;
 
-    @SerializedName("image")
-    private String imageUrl;
+    @SerializedName("kinds")
+    private String kinds;
+
+    @SerializedName("preview")
+    private Preview preview;
 
     @SerializedName("wikipedia_extracts")
     private WikipediaExtracts wikipediaExtracts;
@@ -23,8 +26,15 @@ public class PlaceDetailsResponse {
         return name;
     }
 
+    public String getKinds(){
+        return kinds;
+    }
+
     public String getImageUrl() {
-        return imageUrl;
+        if (preview != null) {
+            return preview.getSource();
+        }
+        return "";
     }
 
     public WikipediaExtracts getWikipediaExtracts() {
@@ -36,6 +46,15 @@ public class PlaceDetailsResponse {
             return wikipediaExtracts.getParagraph();
         }
         return "";
+    }
+
+    public class Preview {
+        @SerializedName("source")
+        private String source;
+
+        public String getSource() {
+            return source;
+        }
     }
 
     public class WikipediaExtracts {

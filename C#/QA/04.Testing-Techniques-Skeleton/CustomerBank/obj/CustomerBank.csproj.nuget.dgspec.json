@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj": {}
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj": {}
   },
   "projects": {
-    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj": {
+    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj",
+        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj",
         "projectName": "CustomerBank",
-        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj",
-        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\obj\\",
+        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\CustomerBank.csproj",
+        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\CustomerBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
