@@ -10,3 +10,15 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryS
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\refint\GroceryStore.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.pdb
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\ref\GroceryStore.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\bin\Debug\net6.0\GroceryStore.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\bin\Debug\net6.0\GroceryStore.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\bin\Debug\net6.0\GroceryStore.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\refint\GroceryStore.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\GroceryStore.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\GroceryStore\obj\Debug\net6.0\ref\GroceryStore.dll

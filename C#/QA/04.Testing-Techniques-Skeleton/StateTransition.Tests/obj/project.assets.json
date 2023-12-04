@@ -3984,26 +3984,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KARDAM\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Miyagi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\StateTransition.Tests.csproj",
+      "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\StateTransition.Tests.csproj",
       "projectName": "StateTransition.Tests",
-      "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\StateTransition.Tests.csproj",
-      "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\obj\\",
+      "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\StateTransition.Tests.csproj",
+      "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\StateTransition.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4018,8 +4015,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\DigitalClock\\DigitalClock.csproj": {
-              "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\DigitalClock\\DigitalClock.csproj"
+            "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\DigitalClock\\DigitalClock.csproj": {
+              "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\DigitalClock\\DigitalClock.csproj"
             }
           }
         }
@@ -4071,7 +4068,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

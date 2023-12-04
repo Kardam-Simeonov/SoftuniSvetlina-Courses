@@ -1,0 +1,12 @@
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\bin\Debug\net6.0\AmazonnFresh.deps.json
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\bin\Debug\net6.0\AmazonnFresh.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\bin\Debug\net6.0\AmazonnFresh.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.csproj.AssemblyReference.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.AssemblyInfoInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.AssemblyInfo.cs
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.csproj.CoreCompileInputs.cache
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\refint\AmazonnFresh.dll
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\AmazonnFresh.pdb
+D:\Code\SOFTUNI\SoftuniSvetlina-Courses\C#\QA\04.Testing-Techniques-Skeleton\AmazonnFresh\obj\Debug\net6.0\ref\AmazonnFresh.dll

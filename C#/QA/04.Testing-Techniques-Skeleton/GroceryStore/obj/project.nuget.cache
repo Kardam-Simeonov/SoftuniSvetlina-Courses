@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EKtsP3v8iO0o+AMfLNuQL3r7EmL9hwx34Ylt8Ipixq117rCTX3l38peEMjzCCTQkV2aGpB0xvUCP7gwSKfnluw==",
+  "dgSpecHash": "glDVDzPDLxVjO/vdcK0zc4bUcUbD7im1IxTHPH5B/B6klR83UgMvbPteOyWxhYpH1XXOS8+wt3S2SQ8mNQK58Q==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\GroceryStore\\GroceryStore.csproj",
+  "projectFilePath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\QA\\04.Testing-Techniques-Skeleton\\GroceryStore\\GroceryStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
