@@ -1,37 +1,38 @@
-﻿public class Program
+﻿namespace PermutationsWithoutRepetitions
 {
-    //Generates Combinations of positions in a set, based on NumberOfLoops vector
-    static int numberOfLoops;
-    static int numberOfRepetitions;
-    static int[] loops;
-    static int[] set;
-
-    static void Main()
+    internal class Program
     {
-        set = Console.ReadLine().Split().Select(int.Parse).ToArray();
-        numberOfRepetitions = set.Length - 1;
-        numberOfLoops = int.Parse(Console.ReadLine());
+        static string[] input;
+        static string[] permutations;
+        static bool[] isUsed;
 
-        loops = new int[numberOfLoops];
-
-        GenerateCombinations(0, 0);
-    }
-
-    static void GenerateCombinations(int currentLoop, int startNum)
-    {
-        if (currentLoop == numberOfLoops)
+        static void Main(string[] args)
         {
-            for (int i = 0; i < numberOfLoops; i++)
-                Console.Write($"{loops[i]} ");
+            input = Console.ReadLine().Split();
+            permutations = new string[input.Length];
+            isUsed = new bool[input.Length];
 
-            Console.WriteLine();
-            return;
+            GeneratePermutations(0);
         }
 
-        for (int i = startNum; i <= numberOfRepetitions; i++)
+        private static void GeneratePermutations(int index)
         {
-            loops[currentLoop] = set[i];
-            GenerateCombinations(currentLoop + 1, i + 1);
+            if (index >= input.Length)
+            {
+                Console.WriteLine(string.Join(" ", permutations));
+                return;
+            }
+
+            for (int currentIndex = 0; currentIndex < input.Length; currentIndex++)
+            {
+                if (!isUsed[currentIndex])
+                {
+                    isUsed[currentIndex] = true;
+                    permutations[index] = input[currentIndex];
+                    GeneratePermutations(index + 1);
+                    isUsed[currentIndex] = false;
+                }
+            }
         }
     }
 }
