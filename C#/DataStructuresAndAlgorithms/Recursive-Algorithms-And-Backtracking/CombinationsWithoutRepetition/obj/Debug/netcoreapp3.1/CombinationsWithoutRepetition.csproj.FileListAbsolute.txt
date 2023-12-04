@@ -17,7 +17,6 @@ D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algo
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\bin\Debug\netcoreapp3.1\CombinationsWithoutRepetition.runtimeconfig.dev.json
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\bin\Debug\netcoreapp3.1\CombinationsWithoutRepetition.dll
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\bin\Debug\netcoreapp3.1\CombinationsWithoutRepetition.pdb
-D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\obj\Debug\netcoreapp3.1\CombinationsWithoutRepetition.csproj.AssemblyReference.cache
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\obj\Debug\netcoreapp3.1\CombinationsWithoutRepetition.GeneratedMSBuildEditorConfig.editorconfig
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\obj\Debug\netcoreapp3.1\CombinationsWithoutRepetition.AssemblyInfoInputs.cache
 D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DataStructuresAndAlgorithms\Recursive-Algorithms-And-Backtracking\CombinationsWithoutRepetition\obj\Debug\netcoreapp3.1\CombinationsWithoutRepetition.AssemblyInfo.cs
