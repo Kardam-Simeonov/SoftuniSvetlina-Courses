@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll

@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\bin\Debug\net6.0\CombinationsWithoutRepetitions.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\bin\Debug\net6.0\CombinationsWithoutRepetitions.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\bin\Debug\net6.0\CombinationsWithoutRepetitions.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\bin\Debug\net6.0\CombinationsWithoutRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\bin\Debug\net6.0\CombinationsWithoutRepetitions.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\refint\CombinationsWithoutRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\CombinationsWithoutRepetitions.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetitions\obj\Debug\net6.0\ref\CombinationsWithoutRepetitions.dll

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj": {}
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj": {
+    "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj",
+        "projectUniqueName": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj",
         "projectName": "PermutationsWithoutRepetitions",
-        "projectPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj",
-        "packagesPath": "C:\\Users\\Miyagi\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\obj\\",
+        "projectPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\PermutationsWithoutRepetitions.csproj",
+        "packagesPath": "C:\\Users\\KARDAM\\.nuget\\packages\\",
+        "outputPath": "D:\\SOFTUNI\\SoftuniSvetlina-Courses\\C#\\DsAndAlgoAdvanced\\Combinatorial-Algorithms-Exercises\\PermutationsWithoutRepetitions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Miyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KARDAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

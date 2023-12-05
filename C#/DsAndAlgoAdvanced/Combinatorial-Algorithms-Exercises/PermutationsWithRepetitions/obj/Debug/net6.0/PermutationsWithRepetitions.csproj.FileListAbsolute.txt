@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\bin\Debug\net6.0\PermutationsWithRepetitions.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\bin\Debug\net6.0\PermutationsWithRepetitions.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\bin\Debug\net6.0\PermutationsWithRepetitions.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\bin\Debug\net6.0\PermutationsWithRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\bin\Debug\net6.0\PermutationsWithRepetitions.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\refint\PermutationsWithRepetitions.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\PermutationsWithRepetitions.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Combinatorial-Algorithms-Exercises\PermutationsWithRepetitions\obj\Debug\net6.0\ref\PermutationsWithRepetitions.dll

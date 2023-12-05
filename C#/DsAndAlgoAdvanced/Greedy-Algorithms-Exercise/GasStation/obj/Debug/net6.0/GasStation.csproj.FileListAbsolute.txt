@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\bin\Debug\net6.0\GasStation.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\bin\Debug\net6.0\GasStation.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\bin\Debug\net6.0\GasStation.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\bin\Debug\net6.0\GasStation.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\bin\Debug\net6.0\GasStation.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\refint\GasStation.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\GasStation.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Greedy-Algorithms-Exercise\GasStation\obj\Debug\net6.0\ref\GasStation.dll
