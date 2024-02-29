@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\bin\Debug\net6.0\Kruskal-Algorithm.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\bin\Debug\net6.0\Kruskal-Algorithm.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\bin\Debug\net6.0\Kruskal-Algorithm.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\bin\Debug\net6.0\Kruskal-Algorithm.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\bin\Debug\net6.0\Kruskal-Algorithm.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\refint\Kruskal-Algorithm.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\Kruskal-Algorithm.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Graph-Algorithms\Kruskal-Algorithm\obj\Debug\net6.0\ref\Kruskal-Algorithm.dll

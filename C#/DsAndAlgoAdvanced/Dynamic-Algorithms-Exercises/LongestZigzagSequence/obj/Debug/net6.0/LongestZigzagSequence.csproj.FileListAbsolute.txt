@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\bin\Debug\net6.0\LongestZigzagSequence.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\bin\Debug\net6.0\LongestZigzagSequence.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\bin\Debug\net6.0\LongestZigzagSequence.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\bin\Debug\net6.0\LongestZigzagSequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\bin\Debug\net6.0\LongestZigzagSequence.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\refint\LongestZigzagSequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\LongestZigzagSequence.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestZigzagSequence\obj\Debug\net6.0\ref\LongestZigzagSequence.dll

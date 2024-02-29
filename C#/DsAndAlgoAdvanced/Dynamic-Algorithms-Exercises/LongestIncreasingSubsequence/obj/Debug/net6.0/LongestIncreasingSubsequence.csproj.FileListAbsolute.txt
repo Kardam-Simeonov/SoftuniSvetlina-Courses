@@ -1,0 +1,14 @@
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.exe
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.deps.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.runtimeconfig.json
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\refint\LongestIncreasingSubsequence.dll
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.pdb
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.genruntimeconfig.cache
+D:\SOFTUNI\SoftuniSvetlina-Courses\C#\DsAndAlgoAdvanced\Dynamic-Algorithms-Exercises\LongestIncreasingSubsequence\obj\Debug\net6.0\ref\LongestIncreasingSubsequence.dll
